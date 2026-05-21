@@ -1,0 +1,168 @@
+{
+  "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085/apply",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nSettings\njohn@gmail.com\nSearch for Jobs\nCandidate Home\nBack to Job Posting\nSoftware Engineer\ncompleted step 1 of 6\nMy Information\ncurrent step 2 of 6\nMy Experience\nstep 3 of 6\nApplication Questions\nstep 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nMy Experience\n* Indicates a required field\nResume/CV\n\nUpload a file (5MB max)*\nDrop files here\nor\nSelect files\n\nSocial Network URLs\nPlease enter the URL to your LinkedIn profile\nBack\nSave and Continue\nFollow Us\nAlteryx Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Please enter the URL to your LinkedIn profile",
+      "selector": "#socialNetworkAccounts--linkedInAccount",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "file-upload-input-ref",
+      "selector": "[data-automation-id=\"file-upload-input-ref\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "file-upload-input-ref",
+      "isHidden": true,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select files",
+      "selector": "#resumeAttachments--attachments",
+      "type": "button",
+      "automationId": "select-files",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778843831039-5hpr3i2kwf3\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/alteryx/"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778843831039-qtxnxvb5ws\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/alteryx"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778843831039-c5b4lm2axuo\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/alteryx?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778843831039-qpo3q7v975\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/alteryx/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778843831039-8i75ozy3k05\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Alteryx-EI_IE351220.11,18.htm"
+    },
+    {
+      "text": "Alteryx Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.alteryx.com/privacy-policy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nEnglish\nSettings\npankaj@gmail.com\nBack to Job Posting\nSoftware Engineer\ncompleted step 1 of 5\nMy Information\ncompleted step 2 of 5\nMy Experience\ncompleted step 3 of 5\nApplication Questions\ncurrent step 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nVoluntary Disclosures\n* Indicates a required field\nTerms and Conditions\n\nConditions of Application and Employment\n\nI hereby certify that the information that I have provided in this employment application is true and  correct to the best of my knowledge, and that I have not withheld information that could, if disclosed,  affect this application or my candidacy for employment unfavorably. I understand that if I provide any  falsified or misleading information in, or significantly omit information from, this application it may  disqualify me from further consideration for employment or may result in my termination if discovered  after my hire. I agree that the Company shall not be liable for disqualifying or terminating me under  such circumstances. In consideration of the Company’s review of this application, I hereby release  the Company, its agents and all providers of information from any liability that results from furnishing  or receiving this information, to the fullest extent permitted by applicable law. I understand that, if  hired, my employment will be on an at-will basis and can be terminated for any reason, with or  without notice, at any time, at either the Company’s or my option. I further agree that, if employed, I  will conform my conduct to the Company’s rules, regulations and policies. I have read the above  Conditions of Application and Employment. I understand and agree to its terms.\n\nMassachusetts Applicants: I understand it is unlawful in Massachusetts to require or administer a  lie detector test as a condition of employment or continued employment. An employer who violates  this law shall be subject to criminal penalties and civil liabilities. \n\nMaryland Applicants: I understan",
+  "fields": [
+    {
+      "type": "checkbox",
+      "label": "I agree to the statements of the authorization above.",
+      "selector": "#termsAndConditions--acceptTermsAndAgreements",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "I agree to the statements of the authorization above.*",
+          "checked": false,
+          "selector": "#termsAndConditions--acceptTermsAndAgreements"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "pankaj@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,108 @@
+{
+  "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806",
+  "title": "Technical Business Analyst I - Alternative Investments Operations",
+  "text": "Skip to main content\nSign In\nSearch for Jobs\nTechnical Business Analyst I - Alternative Investments Operations page is loaded\nTechnical Business Analyst I - Alternative Investments Operations\nApply\nlocations\nNew York, NY\ntime type\nFull time\nposted on\nPosted 5 Days Ago\njob requisition id\nR0011806\n\nWe are seeking an analytical, solutions-oriented Business Analyst to join our Alternative Investments Operations team at Neuberger Berman. In this critical role, you will partner with senior operations leaders, product managers, technology teams (including BPM/workflow delivery), and external service providers to drive operational efficiency, streamline business processes, and support the growth of our private equity, private debt, and alternatives platform. Your work will directly improve end-to-end investment operations through process redesign, automation, and measurable outcomes for internal stakeholders and clients.\n\nKey Responsibilities\n\nCollaborate with operations, product, technology, and business teams to assess current-state processes, pain points, controls, and success metrics across the alternative investment lifecycle.\n\nMap, document, and optimize front-, middle-, and back-office workflows (e.g., swim lanes/BPMN-style where appropriate) to improve clarity, scalability, and auditability.\n\nIdentify opportunities for automation, standardization, exception management, and straight-through processing; define future-state workflows and operating models.\n\nElicit, refine, and translate requirements into clear delivery artifacts: business/functional specs, user stories, acceptance criteria, and process documentation.\n\nPartner with workflow/platform teams (e.g., Appian) to define workflow behavior, business rules, routing, SLAs, exception handling, and operational controls/entitlements.\n\nDefine data and integration requirements with internal platforms and third parties (e.g., fund administrators, custodians, vendors), including APIs/events and file-based workflows when n",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806/apply"
+    },
+    {
+      "text": "onlineaccommodations@nb.com",
+      "selector": "[data-cviance-inspect=\"node-1778499881950-shgdkcuvjyg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "mailto:onlineaccommodations@nb.com"
+    },
+    {
+      "text": "Applicant Privacy Notice",
+      "selector": "[data-cviance-inspect=\"node-1778499881950-hykmelbsdx6\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.nb.com/en/global/disclosure-privacy-policy"
+    },
+    {
+      "text": "Head of Client Data Strategy",
+      "selector": "[data-cviance-inspect=\"node-1778499881950-f9zjdyj5eo7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/en-US/NBCareers/en-US/NBCareers/job/New-York-NY/Head-of-Client-Data-Strategy_R0012066-1"
+    },
+    {
+      "text": "Senior Business Analyst – Client Data Strategy",
+      "selector": "[data-cviance-inspect=\"node-1778499881950-dx50my3j0h7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/en-US/NBCareers/en-US/NBCareers/job/New-York-NY/VP---Client-Data-Strategy_R0011646"
+    },
+    {
+      "text": "Analyst/Associate Alternative Investment Subscription Team",
+      "selector": "[data-cviance-inspect=\"node-1778499881950-73cri7ijum\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/en-US/NBCareers/en-US/NBCareers/job/New-York-NY/Analyst-Associate-Alternative-Investment-Subscription-Team_R0011929-1"
+    },
+    {
+      "text": "View All 5 Jobs",
+      "selector": "[data-automation-id=\"toggle-all-jobs\"]",
+      "type": "button",
+      "automationId": "toggle-all-jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "http://www.nb.com/linkedin",
+      "selector": "[data-cviance-inspect=\"node-1778499881950-5vdczgkmplb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://www.nb.com/linkedin"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 6",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

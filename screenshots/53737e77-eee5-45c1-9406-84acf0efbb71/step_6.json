@@ -1,0 +1,237 @@
+{
+  "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply",
+  "title": "Senior Data & Automation Engineer (IT Ops)",
+  "text": "Skip to main content\nSettings\nabhy@gmail.com\nPacific Life Careers\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSenior Data & Automation Engineer (IT Ops)\ncompleted step 1 of 5\nMy Information\ncompleted step 2 of 5\nMy Experience\ncompleted step 3 of 5\nApplication Questions\ncurrent step 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nVoluntary Disclosures\n* Indicates a required field\nPersonal Data Statement\n\nIndividuals seeking employment are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation.\n\nYou are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements. Completion of the form is entirely voluntary.\n\nWhatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.\n\nVoluntary Veteran Disclosure\n\nWe are a Government contractor subject to the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended by the Jobs for Veterans Act of 2002, 38 U.S.C. 4212 (VEVRAA), which requires Government contractors to take affirmative action to employ and advance in employment: (1) disabled veterans; (2) recently separated veterans; (3) active duty wartime or campaign badge veterans; and (4) Armed Forces service medal veterans. These classifications are defined here are hereafter referred to all together as “protected veterans.\"\n\nPlease select your gender.*\nSelect One\nPlease select the ethnicity which most accurately describes how you identify yourself.*\nSelect One\nPlease select the veteran status which most accurately describes how you identify yourself.*\nSelect One\nTerms and Conditions\nI understand that any offer of employment from Pacific Life or any of its sub",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Please your gender.",
+      "selector": "#personalInfoUS--gender",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please the ethnicity which most accurately describes how you identify yourself.",
+      "selector": "#personalInfoUS--ethnicity",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please the veteran status which most accurately describes how you identify yourself.",
+      "selector": "#personalInfoUS--veteranStatus",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "I agree",
+      "selector": "#termsAndConditions--acceptTermsAndAgreements",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "abhy@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Pacific Life Careers",
+      "selector": "[data-automation-id=\"navigationItem-Pacific Life Careers\"]",
+      "type": "",
+      "automationId": "navigationItem-Pacific Life Careers",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1778224518669-zot14eeok9n\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://www.pacificlife.com/crp/public/Workday/VoluntaryVeteranDisclosure.pdf"
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--gender",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--ethnicity",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--veteranStatus",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-z9dh5seojm\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/pacificlife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-ncl1fg792\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/pacificlife"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-vv63pcee89l\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/pacific-life/life/unleash-your-potential/"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.pacificlife.com/content/dam/paclife/crp/public/Workday/PacificLife_PrivacyNotice.pdf"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

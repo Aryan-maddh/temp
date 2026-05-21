@@ -1,0 +1,35 @@
+{
+  "url": "https://careers.openvpn.net/o/ai-platform-engineer/c/new",
+  "title": "OpenVPN - AI Platform Engineer - Application",
+  "text": "Please upload: mp4 / mpg / avi / mov / mkv / wmv / ogv / webm / flv - click here to retry.",
+  "fields": [
+    {
+      "type": "file",
+      "label": "Questions",
+      "selector": "[data-cviance-inspect=\"node-1778584107107-24dj1zfinnf\"]",
+      "value": "C:\\fakepath\\38975225-1e74-4956-9569-a8169df3ef5b.pdf",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": false,
+      "fileCount": 1
+    }
+  ],
+  "buttons": [],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Please upload: mp4 / mpg / avi / mov / mkv / wmv / ogv / webm / flv - click here to retry.",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778584107109-i5te64ksamf\"]",
+      "active": true
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

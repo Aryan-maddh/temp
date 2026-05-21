@@ -1,0 +1,87 @@
+{
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/details/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176",
+  "title": "Search for Jobs",
+  "text": "Start Your Application\nClinical Education Delivery Consultant - IR/CV -Remote (California, Nevada, Oregon)\nAutofill with Resume\nApply Manually\nUse My Last Application\nApply with SEEK",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reno%2C-Nevada%2C-United-States/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reno%2C-Nevada%2C-United-States/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reno%2C-Nevada%2C-United-States/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176/apply/useMyLastApplication"
+    },
+    {
+      "text": "Apply with SEEK",
+      "selector": "[data-automation-id=\"applyWithSeek\"]",
+      "type": "",
+      "automationId": "applyWithSeek",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/wday/calypso/cxs/jobapplication/philips/seek/oauth/redirect?advertiser_id=21841393&timestamp=1779106339184&redirectUri=%252Fen-US%252Fjobs-and-careers%252Fjob%252FReno%25252C-Nevada%25252C-United-States%252FClinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176%252Fapply%252FSEEK%253Fsource%253D%2526shared_id%253D&errorRedirectUri=%252Fen-US%252Fjobs-and-careers%252Fjob%252FReno%25252C-Nevada%25252C-United-States%252FClinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176%252Fapply"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://applywithlinkedin.myworkdaygadgets.com/awli/",
+      "title": "applyWithLinkedIn",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nClinical Education Delivery Consultant - IR/CV -Remote (California, Nevada, Oregon)\nAutofill with Resume\nApply Manually\nUse My Last Application\nApply with SEEK",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nClinical Education Delivery Consultant - IR/CV -Remote (California, Nevada, Oregon)\nAutofill with Resume\nApply Manually\nUse My Last Application\nApply with SEEK",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nClinical Education Delivery Consultant - IR/CV -Remote (California, Nevada, Oregon)\nAutofill with Resume\nApply Manually\nUse My Last Application\nApply with SEEK",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779106371873-6cptbkmczfn\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nClinical Education Delivery Consultant - IR/CV -Remote (California, Nevada, Oregon)\nAutofill with Resume\nApply Manually\nUse My Last Application\nApply with SEEK",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779106371873-m2inqtpgo7o\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

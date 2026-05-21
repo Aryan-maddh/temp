@@ -1,0 +1,6 @@
+{
+  "candidate_id": "2db9fabd-6d64-4fae-8e4a-75c92e218f0f",
+  "outlook_email": "aryan.madd@outlook.com",
+  "redirect_uri": "http://localhost:8001/api/outlook/auth/callback",
+  "created_at": "2026-05-18T05:16:43.934538+00:00"
+}

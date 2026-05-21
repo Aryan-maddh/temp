@@ -1,0 +1,181 @@
+{
+  "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P750075-2/apply",
+  "title": "Senior Business Intelligence Analyst, Strategic Planning & Insights",
+  "text": "Skip to main content\nSettings\npankaj@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSenior Business Intelligence Analyst, Strategic Planning & Insights\ncompleted step 1 of 5\nMy Information\ncompleted step 2 of 5\nMy Experience\ncurrent step 3 of 5\nApplication Questions\nstep 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nApplication Questions\n* Indicates a required field\n\nAre you legally authorized to work in the United States?*\n\nYes\n\nWill you now or in the future require sponsorship? For purposes of the question, “sponsorship for an immigration-related employment benefit” means things such as “an H-1B visa petition, TN status, Adjustment of Status portability etc.*\n\nYes\nBack\nSave and Continue\nFollow Us\nZillow’s Global Applicant Privacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Are you legally authorized to work in the United States?",
+      "selector": "#primaryQuestionnaire--577a8ce98ca20143935a19096d1baa75",
+      "value": "3a5415494ea901525133af7b00971435",
+      "selectedText": "Yes",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Will you now or in the future require sponsorship? For purposes of the question, “sponsorship for an immigration-related employment benefit” means things such as “an H-1B visa petition, TN status, Adjustment of Status portability etc.",
+      "selector": "#primaryQuestionnaire--577a8ce98ca2011803b319096d1bad75",
+      "value": "3a5415494ea901b1bfdfca7b00973635",
+      "selectedText": "Yes",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P750075-2/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "pankaj@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Yes",
+      "selector": "#primaryQuestionnaire--577a8ce98ca20143935a19096d1baa75",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Yes",
+      "selector": "#primaryQuestionnaire--577a8ce98ca2011803b319096d1bad75",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779103975296-lq83csbgoi\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/zillow/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779103975296-jnu7eqai1xh\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Zillow-EI_IE40802.11,17.html"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779103975296-b8qhxuv1c6c\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779103975296-8a0lsv82kv\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "Zillow’s Global Applicant Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.zillow.com/careers/global-applicant-privacy-notice/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,148 @@
+{
+  "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nSign In\nSearch for Jobs\nSoftware Engineer page is loaded\nSoftware Engineer\nApply\nlocations\nUS - Remote\nposted on\nPosted 19 Days Ago\njob requisition id\nR12085\n\nMeet the Moment with Alteryx\n\n \n\nWe're living through a once-in-a-generation shift in how work gets done. Data, automation, and AI are quickly becoming the center of every business decision - and Alteryx is leading the transformation.\n\n \n\nYou'll be working on the challenges that sit at the heart of modern business. No matter your role, the work you do will help organizations move faster, see more clearly, and tackle questions that used to feel impossible.\n\n \n\nIf you're ready to meet the moment with innovation, curiosity, and excellence, there's a place for you here.\n\nAlteryx is reimagining Designer, our flagship analytics product used by thousands of customers to build complex data workflows. As we evolve Designer with cloud and AI capabilities, we are looking for Software Engineers to help shape the next generation of our platform across both web and desktop environments.\n\nThis is a full-stack role where you will contribute to user-facing experiences, backend services, and the underlying systems that power data processing at scale. You will work alongside experienced engineers to deliver features end-to-end, while growing your technical depth, product understanding, and ownership over time.\n\nWhat You Will Do\n\nDesign, build, and maintain features across the stack, including React-based front-endcomponents, backend services, and desktop-integrated functionality\n\nTake ownership of meaningful product and technical work from planning throughimplementation, testing, and release\n\nContribute to the evolution of a complex application that processes large-scale dataworkflows, balancing performance, usability, and reliability\n\nCollaborate with software engineers, product managers, and quality engineers to deliver high-quality features from design through release\n\nExplore and validate new approaches ",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085/apply"
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1779102960105-zxnabq4iba\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://myalteryxbenefits.com/main-site/"
+    },
+    {
+      "text": "Software Engineer",
+      "selector": "[data-cviance-inspect=\"node-1779102960105-15ivjnsd7ij\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R11907"
+    },
+    {
+      "text": "Sr. Software Engineer",
+      "selector": "[data-cviance-inspect=\"node-1779102960105-0qjgs70k5rhf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Sr-Software-Engineer_R11906"
+    },
+    {
+      "text": "Software Engineer",
+      "selector": "[data-cviance-inspect=\"node-1779102960105-lgsbh4bwmlg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R11780"
+    },
+    {
+      "text": "View All 5 Jobs",
+      "selector": "[data-automation-id=\"toggle-all-jobs\"]",
+      "type": "button",
+      "automationId": "toggle-all-jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Benefits@alteryx.com",
+      "selector": "[data-cviance-inspect=\"node-1779102960105-vve1a8xvchc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://Benefits@alteryx.com/"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 0",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779102960105-f72chfnupmt\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/alteryx/"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779102960106-ehc39sqta1\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/alteryx"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779102960106-db3sumfrdqs\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/alteryx?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779102960106-0l4dpi02kcdq\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/alteryx/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779102960106-fjc6txwzmjh\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Alteryx-EI_IE351220.11,18.htm"
+    },
+    {
+      "text": "Alteryx Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.alteryx.com/privacy-policy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

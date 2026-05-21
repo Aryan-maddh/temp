@@ -1,0 +1,101 @@
+{
+  "url": "https://careers.openvpn.net/o/ai-platform-engineer/c/new",
+  "title": "OpenVPN - AI Platform Engineer - Application",
+  "text": "Record Video \nUpload Video ",
+  "fields": [
+    {
+      "type": "file",
+      "label": "Questions",
+      "selector": "[data-cviance-inspect=\"node-1778584159069-nn1e8w7w6c\"]",
+      "value": "C:\\fakepath\\38975225-1e74-4956-9569-a8169df3ef5b.pdf",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": true,
+      "fileCount": 1
+    },
+    {
+      "type": "file",
+      "label": "Questions",
+      "selector": "[data-cviance-inspect=\"node-1778584159069-iccngpjf2y8\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": true,
+      "fileCount": 0
+    },
+    {
+      "type": "file",
+      "label": "Questions",
+      "selector": "[data-cviance-inspect=\"node-1778584159069-qi7e7vggjfl\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": true,
+      "fileCount": 0
+    },
+    {
+      "type": "file",
+      "label": "Questions",
+      "selector": "[data-cviance-inspect=\"node-1778584159069-ehtpmsqrn6\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": true,
+      "fileCount": 0
+    },
+    {
+      "type": "file",
+      "label": "Questions",
+      "selector": "[data-cviance-inspect=\"node-1778584159069-b7chgr4p6tv\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": false,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Record Video \nUpload Video",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778584159069-f9ojdr6yr1g\"]",
+      "active": true
+    }
+  ],
+  "dropzones": [
+    {
+      "text": "",
+      "hasFileInput": true,
+      "fileInputSelector": "[data-cviance-inspect=\"node-1778584159069-qi7e7vggjfl\"]"
+    }
+  ],
+  "activeModal": true
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nEnglish\nSettings\npankaj@gmail.com\nBack to Job Posting\nSoftware Engineer\ncompleted step 1 of 5\nMy Information\ncurrent step 2 of 5\nMy Experience\nstep 3 of 5\nApplication Questions\nstep 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nMy Experience\n* Indicates a required field\nWork Experience\nAdd\nEducation\nAdd\nLanguages\nAdd\nResume/CV\n\nUpload a file (5MB max)\nDrop files here\nor\nSelect files\n\nWebsites\nAdd any relevant websites.\nAdd\nBack\nSave and Continue",
+  "fields": [
+    {
+      "type": "file",
+      "label": "Upload a file (5MB max)",
+      "selector": "[data-automation-id=\"file-upload-input-ref\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "file-upload-input-ref",
+      "isHidden": true,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "pankaj@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779103603429-md8svvjxje\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779103603429-cd4zsc0ux9m\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779103603430-diuf60xccp\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select files",
+      "selector": "#resumeAttachments--attachments",
+      "type": "button",
+      "automationId": "select-files",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779103603430-boc5iea1r6g\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

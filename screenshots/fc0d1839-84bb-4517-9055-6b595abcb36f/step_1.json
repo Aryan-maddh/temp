@@ -1,0 +1,564 @@
+{
+  "url": "https://www.dice.com/job-detail/dee3db32-a907-4efe-bc19-6122d09fb984?ccuid=71595804334&_ccid=1778579266054znb9773u4",
+  "title": "Gen AI Engineer - ITSYNTAX INC - Remote | Dice.com",
+  "text": "Job Search\nCompanies\nCareer Resources\nWhy Dice\nFor Employers\nRequest a Demo\nLogin/Register\nITSYNTAX INC\nApply Now\nGen AI Engineer\nRemote • Posted 14 hours ago • Updated 14 hours ago\nContract W2\nContract Corp To Corp\nContract Independent\nNo Travel Required\nRemote\n$50 - $55/hr\nFitment\nDice Job Match Score™\n\nTo see how well you match this job, please log in or create an account.\n\nOnce logged in, be sure to complete your profile to get the most accurate match score.\n\nJob Details\nSkills\nBuild Automation\nCloud Computing\nDependency Injection\nData Modeling\nData Warehouse\nContinuous Integration\nCustomer Facing\nCommunication\nContinuous Delivery\nVector Databases\nSoftware Engineering\nOrchestration\nPython\nSQL Tuning\nJavaScript\nMicrosoft Azure\nNoSQL\nGoogle Cloud Platform\nHealth Care\nStreaming\nGood Clinical Practice\nGoogle Cloud\nGenerative Artificial Intelligence (AI)\nDevOps\nExtract, Transform, Load\nGit\nHIPAA\nTypeScript\nLLM\nNext JS\nBig Query\nSummary\n\nPosition:  GenAI Engineer\n\nLocation: Remote within the East Coast time zone\n\nDuration: 6+ Months\n\n \n\nRequired Experience\n\nCloud & Infrastructure\n\n·       4+ years on Google Cloud Platform in production, with hands-on experience across:\n\n·       Cloud Run (containerized service deployment)\n\n·       Firestore (NoSQL document data modeling)\n\n·       BigQuery (data warehousing, SQL, performance tuning)\n\n·       Strong CI/CD experience — pipeline design, build automation, deployment gates\n\n·       Git proficiency, specifically with Azure DevOps (Repos + Pipelines)\n\nBack End\n\n·       5+ years of professional Python development\n\n·       Production experience with FastAPI (REST APIs, async, dependency injection)\n\n·       Strong working knowledge of Pydantic (v1 or v2) for schema validation and settings\n\nFront End\n\n·       3+ years building production applications with Next.js\n\n·       Solid JavaScript / TypeScript fundamentals\n\n·       Comfort building responsive, component-based UIs\n\nGeneral\n\n·       8+ years total professional software engi",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "More options",
+      "selector": "#react-aria7577278095-_r_o_",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Dice home",
+      "selector": "[data-cviance-inspect=\"node-1778579382457-0xszi7sgi7m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/"
+    },
+    {
+      "text": "Job Search",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-nesrdez0dp\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/jobs"
+    },
+    {
+      "text": "Companies",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-11ccnzkc8wk\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/companies"
+    },
+    {
+      "text": "Career Resources",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-9rvaysf9i38\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Why Dice",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-nia29gjy9m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/why-join-dice"
+    },
+    {
+      "text": "For Employers",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-jdv5tkhoee\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Request a Demo",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-v0uqj5lbtxo\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/demo"
+    },
+    {
+      "text": "Login/Register",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-a27dpe0113q\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "ITSYNTAX INC",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-rea0e0t18jq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/1c7ebe52-9cd6-4393-8326-f1ad45078856"
+    },
+    {
+      "text": "Save Job",
+      "selector": "#react-aria7577278095-_r_m_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "More options",
+      "selector": "#react-aria7577278095-_r_o_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply Now",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-3lgf7bop8f\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/dashboard/login?redirectUrl=%2Fjob-applications%2Fdee3db32-a907-4efe-bc19-6122d09fb984%2Fwizard"
+    },
+    {
+      "text": "log in",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-s6wp7fmhvsm\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/dashboard/login?redirectUrl=/job-detail/dee3db32-a907-4efe-bc19-6122d09fb984"
+    },
+    {
+      "text": "create an account",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-3525zuifta\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/register"
+    },
+    {
+      "text": "View Profile",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-8sb4y2i2xq2\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://dice.com/recruiter-profile?id=d6e6522e-6378-4ed8-88c8-b19b0af860f9"
+    },
+    {
+      "text": "Create alert",
+      "selector": "#react-aria7577278095-_r_0_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Company Logo",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-i16yz5upjj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/03635533-d6cd-59cf-85bd-bcd1db2b8721?companyname=Apetan%20Consulting"
+    },
+    {
+      "text": "Apetan Consulting",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-m0emm2jqg2m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/03635533-d6cd-59cf-85bd-bcd1db2b8721?companyname=Apetan%20Consulting"
+    },
+    {
+      "text": "Save Job",
+      "selector": "#react-aria7577278095-_r_3_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Google Cloud Platform Full Stack Engineer/Remote",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-k1b5n8s1uud\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/job-detail/18add3f0-5987-4e8f-bbf9-b66806b45bb5"
+    },
+    {
+      "text": "Company Logo",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-xw9ioyshwfn\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/d10e6a2e-ed3b-5720-a591-51c97fdb36cd?companyname=Buxton%20Consulting"
+    },
+    {
+      "text": "Buxton Consulting",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-kmqjo1r1ps\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/d10e6a2e-ed3b-5720-a591-51c97fdb36cd?companyname=Buxton%20Consulting"
+    },
+    {
+      "text": "Save Job",
+      "selector": "#react-aria7577278095-_r_6_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Principal Cloud Infrastructure Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-xuzzeo2u4b\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/job-detail/c1235e15-9796-4a3e-88ee-ce92a9d14311"
+    },
+    {
+      "text": "Company Logo",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-undkxvoakzi\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/226f0040-5ac6-5c65-b2cd-9bf68dc49e27?companyname=Reliable%20Software%20Resources"
+    },
+    {
+      "text": "Reliable Software Resources",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-80oj8ivpj5r\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/226f0040-5ac6-5c65-b2cd-9bf68dc49e27?companyname=Reliable%20Software%20Resources"
+    },
+    {
+      "text": "Save Job",
+      "selector": "#react-aria7577278095-_r_9_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "AI / Gen AI Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-90wxwvm9sjg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/job-detail/d6f6c64f-9b0d-46de-bf60-6bd76a156a1a"
+    },
+    {
+      "text": "Company Logo",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-uv1iryjeuv\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/c1ecc035-fcf0-4e8d-b69f-d5e647c1a603?companyname=Accylerate"
+    },
+    {
+      "text": "Accylerate",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-n4w21yxpj5\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/c1ecc035-fcf0-4e8d-b69f-d5e647c1a603?companyname=Accylerate"
+    },
+    {
+      "text": "Save Job",
+      "selector": "#react-aria7577278095-_r_c_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Lead Agentic AI Software Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-jhajckda87a\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/job-detail/52494e67-977c-483e-bdfc-b9a03f8118d7"
+    },
+    {
+      "text": "Search all similar jobs",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-g9wuqgqnbs6\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/jobs?q=Gen+AI+Engineer&location=Remote"
+    },
+    {
+      "text": "Dice home",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-br4t2ry4gpn\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-j41splcwdf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/dice"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-6vtsuxsjss\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.youtube.com/Dice"
+    },
+    {
+      "text": "Instagram",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-ci8470c0t0s\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.instagram.com/dicedotcom"
+    },
+    {
+      "text": "TikTok",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-k08so4i9lds\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.tiktok.com/@dicetechjobs"
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-voyumjarrh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/jobs"
+    },
+    {
+      "text": "Jobs Directory",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-xz7kxdfmkap\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/jobs/browse-jobs"
+    },
+    {
+      "text": "Search for Companies",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-7gjm43zvwq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/companies"
+    },
+    {
+      "text": "Company Directory",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-83i2p9fyiu\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/browse"
+    },
+    {
+      "text": "Career Advice",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-vi24mk8l4dc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/career-advice"
+    },
+    {
+      "text": "Career Events",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-dog6s537ubq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/career-events"
+    },
+    {
+      "text": "Post Jobs",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-f518v2dy1r5\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/post-jobs"
+    },
+    {
+      "text": "Find Candidates",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-mtx555x3og\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/find-candidates"
+    },
+    {
+      "text": "Build Employer Brand",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-4akr7u14jsg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/employer-brand"
+    },
+    {
+      "text": "Explore Talent Solutions",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-7fztzor7a7y\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/talent-solutions"
+    },
+    {
+      "text": "View Integrations",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-9wq3ap0dt4u\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/integrations"
+    },
+    {
+      "text": "Recruiting Advice",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-ckr85v78ae\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/recruitment"
+    },
+    {
+      "text": "Hiring Resources",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-yh9r7aass9b\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/employer-resources"
+    },
+    {
+      "text": "About Us",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-stfmszea63h\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://dhigroupinc.com/"
+    },
+    {
+      "text": "Media",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-t4mtfa87nl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/media"
+    },
+    {
+      "text": "Work at Dice",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-25ulerwr3oci\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://dhigroupinc.com/careers/default.aspx"
+    },
+    {
+      "text": "Request a Demo",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-nxn1unby2aa\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/demo"
+    },
+    {
+      "text": "Knowledge Center",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-0g26s5o9xfk6\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/support"
+    },
+    {
+      "text": "Privacy & Trust Center",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-8h91tmprbrl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/privacy-center"
+    },
+    {
+      "text": "Contact Support",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-mz7dduuppf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/contact-us"
+    },
+    {
+      "text": "Download on the Apple App Store",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-ebyqlns3wzn\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://apps.apple.com/app/id794201100"
+    },
+    {
+      "text": "Get it on Google Play",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-txbyedfmli9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://play.google.com/store/apps/details?id=com.dice.app.jobs&referrer=trackingcode%3DDI_OS_UN_MA_UP&utm_campaign%3DDice%2520Universal%2520Header%2520and%2520Footer&utm_source%3DDice&utm_medium%3DOnsite&utm_content%3DUniversal&utm_term%3DUnpaid"
+    },
+    {
+      "text": "Dice",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-exi7sum2v8e\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/"
+    },
+    {
+      "text": "DHI",
+      "selector": "[data-cviance-inspect=\"node-1778579382458-jv3avjd4lml\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://dhigroupinc.com/"
+    },
+    {
+      "text": "Terms & Conditions",
+      "selector": "[data-cviance-inspect=\"node-1778579382459-yf5zi9c8gvm\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/terms-and-conditions"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778579382459-56sjvzbqymt\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/privacy-policy"
+    },
+    {
+      "text": "Do Not Sell or Share My Personal Information",
+      "selector": "[data-cviance-inspect=\"node-1778579382459-suw8t0e3ar9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/ccpa#ccpa-form-anchor"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "about:blank",
+      "title": "Branch Banner Frame",
+      "ariaLabel": "Branch Banner Frame"
+    },
+    {
+      "src": "",
+      "title": "Usabilla Feedback Button",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

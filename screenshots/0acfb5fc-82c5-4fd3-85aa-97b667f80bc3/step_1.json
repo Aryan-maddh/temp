@@ -1,0 +1,76 @@
+{
+  "url": "https://creditacceptance.wd5.myworkdayjobs.com/credit_acceptance/job/usa--remote/financial-analyst--financial-operations_r13446",
+  "title": "Credit Acceptance Careers",
+  "text": "Skip to main content\nCredit Acceptance Careers\nSign In\nCredit Acceptance Home\nSearch for Jobs\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://creditacceptance.wd5.myworkdayjobs.com/credit_acceptance/job/usa--remote/financial-analyst--financial-operations_r13446"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Credit Acceptance Home",
+      "selector": "[data-automation-id=\"navigationItem-Credit Acceptance Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Credit Acceptance Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778499947839-61rzwiw0u3v\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/credit-acceptance"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778499947839-bmshl9fl98\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/CreditAcceptanceCorp/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778499947839-00q0k9jm6nbdn\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Credit-Acceptance-EI_IE2194.11,28.htm"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

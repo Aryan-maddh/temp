@@ -1,0 +1,6 @@
+{
+  "candidate_id": "2d61c740-3b60-4185-aef4-4963207c3855",
+  "outlook_email": "abhy@gmail.com",
+  "redirect_uri": "http://localhost:8001/api/outlook/auth/callback",
+  "created_at": "2026-05-18T05:25:53.086639+00:00"
+}

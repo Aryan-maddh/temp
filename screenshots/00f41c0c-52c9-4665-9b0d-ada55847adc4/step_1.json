@@ -1,0 +1,98 @@
+{
+  "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/UX-Designer---Cigna-HealthCare---Remote_26004438/apply",
+  "title": "UX Designer - Cigna HealthCare - Remote",
+  "text": "Skip to main content\nThe Cigna Group Careers\nEnglish\nSign In\nSearch for Jobs\nStart Your Application\nUX Designer - Cigna HealthCare - Remote\nAutofill with Resume\nApply Manually\nUse My Last Application\nFollow Us\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/UX-Designer---Cigna-HealthCare---Remote_26004438/apply"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/UX-Designer---Cigna-HealthCare---Remote_26004438/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/UX-Designer---Cigna-HealthCare---Remote_26004438/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/UX-Designer---Cigna-HealthCare---Remote_26004438/apply/useMyLastApplication"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778747027822-596bvchhf79\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/the-cigna-group"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778747027822-zcxshhinc8b\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/lifeatcignagroup"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778747027822-y7pq02ufzxr\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCHllPyhBhnbe7-OldMIQhLw/videos?app=desktop"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://applywithlinkedin.myworkdaygadgets.com/awli/",
+      "title": "applyWithLinkedIn",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

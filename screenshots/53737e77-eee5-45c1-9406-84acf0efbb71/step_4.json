@@ -1,0 +1,236 @@
+{
+  "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply",
+  "title": "Senior Data & Automation Engineer (IT Ops)",
+  "text": "Skip to main content\nSettings\nabhy@gmail.com\nPacific Life Careers\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSenior Data & Automation Engineer (IT Ops)\ncompleted step 1 of 5\nMy Information\ncurrent step 2 of 5\nMy Experience\nstep 3 of 5\nApplication Questions\nstep 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nMy Experience\n* Indicates a required field\nWork Experience\n\nImportant: If you are currently a Pacific Life employee, please apply via PL's internal job posting site. Do not continue with your application on this site. \n\nAdd\nEducation\nAdd\nSkills\nType to Add Skills\n1 item selected, Python\n\nPython\n\nResume/CV\n\nImportant: If you are currently a Pacific Life employee, please apply via PL's internal job posting site. Do not continue with your application on this site. \n\nUpload a file (5MB max)*\nDrop files here\nor\nSelect files\n2d61c740-3b60-4185-aef4-4963207c3855.pdf successfully uploaded\n2d61c740-3b60-4185-aef4-4963207c3855.pdf\n310.61 KB\nSuccessfully Uploaded!\n2d61c740-3b60-4185-aef4-4963207c3855.pdf successfully uploaded\n2d61c740-3b60-4185-aef4-4963207c3855.pdf\n310.61 KB\nSuccessfully Uploaded!\n2d61c740-3b60-4185-aef4-4963207c3855.pdf successfully uploaded\n2d61c740-3b60-4185-aef4-4963207c3855.pdf\n310.61 KB\nSuccessfully Uploaded!\n\nWebsites\nAdd any relevant websites.\nAdd\nSocial Network URLs\nLinkedIn URL\nBack\nSave and Continue\nFollow Us\nPrivacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Type to Add Skills",
+      "selector": "#skills--skills",
+      "value": "",
+      "selectedText": "Python",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "1 item selected, Python",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "LinkedIn URL",
+      "selector": "#socialNetworkAccounts--linkedInAccount",
+      "value": "https://www.linkedin.com/in/arbhy-kjh/",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "file-upload-input-ref",
+      "selector": "[data-automation-id=\"file-upload-input-ref\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "file-upload-input-ref",
+      "isHidden": true,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "abhy@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Pacific Life Careers",
+      "selector": "[data-automation-id=\"navigationItem-Pacific Life Careers\"]",
+      "type": "",
+      "automationId": "navigationItem-Pacific Life Careers",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778224505106-eizp8o0ifie\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778224505106-7hz4x2j75z\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select files",
+      "selector": "#resumeAttachments--attachments",
+      "type": "button",
+      "automationId": "select-files",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Delete 2d61c740-3b60-4185-aef4-4963207c3855.pdf",
+      "selector": "[data-cviance-inspect=\"node-1778224505106-511d5785rz7\"]",
+      "type": "button",
+      "automationId": "delete-file",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Delete 2d61c740-3b60-4185-aef4-4963207c3855.pdf",
+      "selector": "[data-cviance-inspect=\"node-1778224505106-emadsa5axqh\"]",
+      "type": "button",
+      "automationId": "delete-file",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Delete 2d61c740-3b60-4185-aef4-4963207c3855.pdf",
+      "selector": "[data-cviance-inspect=\"node-1778224505106-cazhnb4futc\"]",
+      "type": "button",
+      "automationId": "delete-file",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778224505106-8aej4kjgjk6\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-z9dh5seojm\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/pacificlife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-ncl1fg792\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/pacificlife"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-vv63pcee89l\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/pacific-life/life/unleash-your-potential/"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.pacificlife.com/content/dam/paclife/crp/public/Workday/PacificLife_PrivacyNotice.pdf"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

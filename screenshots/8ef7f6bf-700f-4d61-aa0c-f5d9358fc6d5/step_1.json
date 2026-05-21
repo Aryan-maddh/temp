@@ -1,0 +1,108 @@
+{
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reno%2C-Nevada%2C-United-States/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176/apply/applyManually",
+  "title": "Clinical Education Delivery Consultant - IR/CV -Remote (California, Nevada, Oregon)",
+  "text": "Skip to main content\nCareers\nEnglish\nSign In\nCareers Home\nSearch for Jobs\nBack to Job Posting\nClinical Education Delivery Consultant - IR/CV -Remote (California, Nevada, Oregon)\ncurrent step 1 of 6\nMy Information\nstep 2 of 6\nMy Experience\nstep 3 of 6\nApplication Questions\nstep 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nLoading\nFollow Us\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reno%2C-Nevada%2C-United-States/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176/apply/applyManually"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Careers Home",
+      "selector": "[data-automation-id=\"navigationItem-Careers Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Careers Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779106330629-4ma0jpbq3h4\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.nl/Reviews/Philips-Reviews-E3496.htm?&countryRedirect=true"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779106330630-0tyg0feuxjy\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/philips/"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779106330630-z0bxfafqkpd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/Philips"
+    },
+    {
+      "text": "Google Plus",
+      "selector": "[data-cviance-inspect=\"node-1779106330630-bm9g3y9c94m\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://plus.google.com/+Philips"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779106330630-hrie1ceyl0l\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/philips"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779106330630-5zsj1hvao25\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.twitter.com/philips"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

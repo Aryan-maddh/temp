@@ -1,0 +1,257 @@
+{
+  "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale%2C-IA/Software-Engineer-I_JR4072/apply",
+  "title": "Software Engineer I",
+  "text": "Skip to main content\nSettings\npankaj@gmail.com\nIntegrity Careers Home Page\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSoftware Engineer I\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncurrent step 3 of 6\nApplication Questions\nstep 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nApplication Questions\n* Indicates a required field\n\nWhat is your desired start date?*\n\ncurrent value is MM/DD/YYYY\nMM\n/\nDD\n/\nYYYY\n\nWill you now or in the future require sponsorship for employment/visa status to work in the country to which you are applying?*\n\nSelect One\n\nWhat is your desired Total Annual Salary?*\n\nBack\nSave and Continue\nFollow Us\nPrivacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "What is your desired start date?",
+      "selector": "#primaryQuestionnaire--2b67d78c49791001fd839d1d67530001-dateSectionMonth-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionMonth-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "current value is MM/DD/YYYY",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "What is your desired start date?",
+      "selector": "#primaryQuestionnaire--2b67d78c49791001fd839d1d67530001-dateSectionDay-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionDay-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "What is your desired start date?",
+      "selector": "#primaryQuestionnaire--2b67d78c49791001fd839d1d67530001-dateSectionYear-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionYear-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Will you now or in the future require sponsorship for employment/visa status to work in the country to which you are applying?",
+      "selector": "#primaryQuestionnaire--15aa0cde3f8f1001fd96b772b54e0000",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "What is your desired Total Annual Salary?",
+      "selector": "#primaryQuestionnaire--2b67d78c49791001fd839e51135b0003",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale%2C-IA/Software-Engineer-I_JR4072/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "pankaj@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Integrity Careers Home Page",
+      "selector": "[data-automation-id=\"navigationItem-Integrity Careers Home Page\"]",
+      "type": "",
+      "automationId": "navigationItem-Integrity Careers Home Page",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Calendar",
+      "selector": "[data-automation-id=\"dateIcon\"]",
+      "type": "",
+      "automationId": "dateIcon",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--15aa0cde3f8f1001fd96b772b54e0000",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779120116910-db64rwcgk5t\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Integrity-Marketing-Group-EI_IE873106.11,36.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779120116910-1orsic0du0g\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/IntegrityMG"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779120116910-dju6jxingoc\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/IntegrityMG"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779120116910-p85prnj66m\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCXgwXbY_fkDjn8GjdsnfZWw"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779120116910-tdmwh7ug0sk\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/integrity-marketing./"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.integritymarketing.com/privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

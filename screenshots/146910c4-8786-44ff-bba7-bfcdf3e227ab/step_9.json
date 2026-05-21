@@ -1,0 +1,377 @@
+{
+  "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/jobs/details/Engineer--Wells_R000070715/apply",
+  "title": "Search for Jobs - Logo",
+  "text": "Skip to main content\nEnglish\nSign In\nSearch for Jobs\nSearch\nFilters\nLocation\nFull/Part-time\nJob Type\nMore\nSearch for Jobs page is loaded\n\n169 JOBS FOUND\n\nJump to selected job details\nEngineer, Wells\nlocations\nEl Tigre, Anzoategui, Venezuela\ntime type\nFull time\nposted on\nPosted 4 Days Ago\nR000070715\nLogistics Coordinator\nlocations\nGeismar, Louisiana, United States of America\ntime type\nFull time\nposted on\nPosted 7 Days Ago\nR000070863\nMarine Assurance Advisor / Superintendent\nlocations\nHouston, Texas, United States of America\ntime type\nFull time\nposted on\nPosted 17 Days Ago\nR000071045\nMaintenance Planner/Scheduler\nlocations\nGeismar, Louisiana, United States of America\ntime type\nFull time\nposted on\nPosted Today\nR000071046\nFacilities Engineer – Greenfield Projects\nlocations\nGreeley, Colorado, United States of America\ntime type\nFull time\nposted on\nPosted Today\nR000070966\nOptimization Engineer\nlocations\nHouston, Texas, United States of America\ntime type\nFull time\nposted on\nPosted Today\nR000069536\nSenior AP Finance Analyst\nlocations\nAyala, Makati City, Philippines\ntime type\nFull time\nposted on\nPosted Today\nR000068958\nSenior Data Analyst\nlocations\nBangalore, Karnataka, India\ntime type\nFull time\nposted on\nPosted Today\nR000064165\nProcess Engineer\nlocations\nSingapore, Central Singapore, Singapore\ntime type\nFull time\nposted on\nPosted Today\nR000070183\nLead IT System Support Analyst - SAP S/4 HANA\nlocations\nBangalore, Karnataka, India\ntime type\nFull time\nposted on\nPosted Today\nR000062383\nSubsurface Workflow Specialist\nlocations\nBengaluru, Karnataka, India\ntime type\nFull time\nposted on\nPosted Today\nR000068899\nCMMS Engineer\nlocations\nBengaluru, Karnataka, India\ntime type\nFull time\nposted on\nPosted Today\nR000070133\nBFP Analyst\nlocations\nNingbo, Zhejiang, China\ntime type\nFull time\nposted on\nPosted Today\nR000071375\nIUAS System Support & MEC Analyst\nlocations\nAyala, Makati City, Philippines\ntime type\nFull time\nposted on\nPosted Today\nR000071410\nData Strategist\nlocations\nWestferry, London",
+  "fields": [
+    {
+      "type": "text",
+      "label": "keywordSearchInput",
+      "selector": "#w63n1",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search for jobs or keywords",
+      "automationId": "keywordSearchInput",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/jobs/details/Engineer--Wells_R000070715/apply"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search",
+      "selector": "#a98d7402-6ed1-457f-85ea-869a8d9274e2",
+      "type": "submit",
+      "automationId": "keywordSearchButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Location",
+      "selector": "#w63n3",
+      "type": "",
+      "automationId": "distanceLocation",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Full/Part-time",
+      "selector": "#w63n4",
+      "type": "",
+      "automationId": "employmentType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Type",
+      "selector": "#w63n5",
+      "type": "",
+      "automationId": "workerSubType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "More",
+      "selector": "#w63n6",
+      "type": "",
+      "automationId": "more",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Jump to selected job details",
+      "selector": "[data-automation-id=\"jobJumpToDetailsLink\"]",
+      "type": "button",
+      "automationId": "jobJumpToDetailsLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Engineer, Wells",
+      "selector": "[data-cviance-inspect=\"node-1778908011404-pmv6wl84xtd\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/El-Tigre-Anzoategui-Venezuela/Engineer--Wells_R000070715"
+    },
+    {
+      "text": "Logistics Coordinator",
+      "selector": "[data-cviance-inspect=\"node-1778908011404-33sw3ac7rul\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Geismar-Louisiana-United-States-of-America/Logistics-Coordinator_R000070863"
+    },
+    {
+      "text": "Marine Assurance Advisor / Superintendent",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-167fdm2958f\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/Marine-Assurance-Advisor---Superintendent_R000071045"
+    },
+    {
+      "text": "Maintenance Planner/Scheduler",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-tkglz83q7e8\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Geismar-Louisiana-United-States-of-America/Maintenance-Planner-Scheduler_R000071046"
+    },
+    {
+      "text": "Facilities Engineer – Greenfield Projects",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-fse45hpt4p\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Greeley-Colorado-United-States-of-America/Facilities-Engineer---Greenfield-Projects_R000070966"
+    },
+    {
+      "text": "Optimization Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-xgg8hqq5au\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/Optimization-Engineer_R000069536"
+    },
+    {
+      "text": "Senior AP Finance Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-xady06oq04\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Ayala-Makati-City-Philippines/Accounts-Payable-Finance-Analyst_R000068958"
+    },
+    {
+      "text": "Senior Data Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-ervnzhelk8w\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Senior-Data-Analyst_R000064165-3"
+    },
+    {
+      "text": "Process Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-z4ixhw3xlyb\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Singapore-Central-Singapore-Singapore/Process-Engineer_R000070183"
+    },
+    {
+      "text": "Lead IT System Support Analyst - SAP S/4 HANA",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-2y6vbxxem0d\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Lead-IT-System-Support-Analyst---SAP-S-4-HANA_R000062383-1"
+    },
+    {
+      "text": "Subsurface Workflow Specialist",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-moomo6p18d\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Bengaluru-Karnataka-India/Subsurface-Workflow-Specialist_R000068899"
+    },
+    {
+      "text": "CMMS Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-zzk30jgraf\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Bengaluru-Karnataka-India/CMMS-Engineer--EMED-_R000070133"
+    },
+    {
+      "text": "BFP Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-7670g9c7kxk\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Ningbo-Zhejiang-China/BFP-Analyst_R000071375"
+    },
+    {
+      "text": "IUAS System Support & MEC Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-6f1apw974i3\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Ayala-Makati-City-Philippines/IUAS-System-Support---MEC-Analyst_R000071410"
+    },
+    {
+      "text": "Data Strategist",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-xet19jvuk4i\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Westferry-London-United-Kingdom/Data-Strategist_R000070924"
+    },
+    {
+      "text": "HSE Specialist, Industrial Hygienist",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-ufr63oobvqs\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Richmond-136-Main-St-Trailers/HSE-Specialist--Industrial-Hygienist_R000070604"
+    },
+    {
+      "text": "Laboratory Technical Support Specialist, Subsurface - Rock Mechanics and Physics",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-spwc7a3qxfm\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Richmond-California-United-States-of-America/Laboratory-Technical-Support-Specialist--Subsurface---Rock-Mechanics-and-Physics_R000068519"
+    },
+    {
+      "text": "Specialist, Americas Customer Technical Service",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-vuu1guojvga\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/Specialist--Americas-Customer-Technical-Service_R000071366"
+    },
+    {
+      "text": "Maintenance Mechanic",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-ncqft97wxh9\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Portland-Oregon-United-States-of-America/Maintenance-Mechanic_R000070674"
+    },
+    {
+      "text": "Maintenance Mechanic",
+      "selector": "[data-cviance-inspect=\"node-1778908011405-o5r07w50om\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Portland-Oregon-United-States-of-America/Maintenance-Mechanic_R000071136-1"
+    },
+    {
+      "text": "1",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-flgaomk639b\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-d69xe1ekgdd\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-x5u4o1oalsm\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "4",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-pxbfusiupz\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-v8e4yd3tqwk\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "next",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-8bk13py0n26\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Close job details",
+      "selector": "#jobDetailsCloseButton",
+      "type": "button",
+      "automationId": "jobDetailsCloseButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-v7ydtg59xfp\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/Chevron"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-0m3woqvsl2dr\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/chevron"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-qymx9yz8a3b\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/chevron"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778908011406-jbp8d4uk9q\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/Chevron"
+    },
+    {
+      "text": "Chevron Privacy Statement",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.chevron.com/privacy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

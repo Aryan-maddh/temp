@@ -1,0 +1,173 @@
+{
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply/applyManually",
+  "title": "Create Account - Logo",
+  "text": "Skip to main content\nSign In\nSearch for Jobs\nBack to Job Posting\nDigital Channels Product Analyst\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nCreate Account\n\nPassword Requirements:\n\nA minimum of 8 characters\nA lowercase character\nA numeric character\nA special character\nAn uppercase character\nAn alphabetic character\nEmail Address*\nPassword*\nVerify New Password*\nCreate Account\nAlready have an account?\nSign In\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.\nFollow Us\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "#input-4",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "#input-5",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Verify New Password",
+      "selector": "#input-6",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "verifyPassword",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#\\30 b6a758c-e08b-4247-8478-1d08748194d4",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply/applyManually"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"click_filter\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountSubmitButton\"]",
+      "type": "submit",
+      "automationId": "createAccountSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInLink\"]",
+      "type": "",
+      "automationId": "signInLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-automation-id=\"forgotPasswordLink\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779107639348-6p1oac710je\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-F-N-B-PA-EI_IE4832.11,19.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779107639348-0jx6cpb1zcqd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/f-n-b--corporation"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

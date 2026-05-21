@@ -1,0 +1,449 @@
+{
+  "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/details/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176",
+  "title": "Search for Jobs",
+  "text": "Skip to main content\nCareers\nEnglish\nSign In\nCareers Home\nSearch for Jobs\nSearch\nFilters\nLocation\nTime Type\nFunction\nSearch for Jobs page is loaded\n\n1045 JOBS FOUND\n\nJump to selected job details\nSenior Software Technologist – AzurionEye Data Workbench\nlocations\nBangalore\nposted on\nPosted Today\n579001\nSoftware Test Architect – AzurionEye Data Workbench\nlocations\nBangalore\nposted on\nPosted Today\n579003\nSales Support Intern\nlocations\nMadrid\nposted on\nPosted Today\n583004\nSoftware engineer II - Product Security\nlocations\nBangalore\nposted on\nPosted Today\n563262\nSenior IT Architect\nlocations\nBangalore\nposted on\nPosted Today\n578095\nCV Application Specialist\nlocations\nBangkok\nposted on\nPosted Today\n578581\nTrade Promo Analyst\nlocations\nMississauga\nposted on\nPosted Today\n573966\nTeam Lead - Software Engineering\nlocations\nHaifa\nposted on\nPosted Today\n574554\nInternship-Technical Consultant\nlocations\nGenoa\nposted on\nPosted Today\n580093\nSoftware Technologist I\nlocations\nBangalore\nposted on\nPosted Today\n575925\nInternship: Finance & Accounting - Group Consolidation & Reporting (GC&R)\nlocations\nAmsterdam\nposted on\nPosted Today\n583463\nInternship: Retail Marketing & Shopper Experience (Dutch required)\nlocations\nEindhoven\nposted on\nPosted Today\n581400\nComplaint Handling Investigator - HPM\nlocations\nPune\nposted on\nPosted Today\n566113\nE-Commerce Key Account Manager\nlocations\nIstanbul\nposted on\nPosted Today\n580694\nSoftware Architect II\nlocations\nBangalore\nposted on\nPosted Today\n573684\nSoftware Development Engineer – Software Engineering Excellence Enablement\nlocations\nBangalore\nposted on\nPosted Today\n577730\nClinical Data Specialist\nlocations\nBangalore\nposted on\nPosted Today\n582325\nInnovation Project Engineer (all genders)\nlocations\nUnterschleissheim\nposted on\nPosted Today\n579125\nCommercial Operations & Sales Support Graduate (Emiratization)\nlocations\nDubai\nposted on\nPosted Today\n581306\nSoftware Technologist I/II - Java Full Stack\nlocations\nBangalore\nposted on\nPosted Today\n580796\n1\n2\n3\n4\n5\n\n",
+  "fields": [
+    {
+      "type": "text",
+      "label": "keywordSearchInput",
+      "selector": "#xezo1",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search for jobs or keywords",
+      "automationId": "keywordSearchInput",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/details/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Careers Home",
+      "selector": "[data-automation-id=\"navigationItem-Careers Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Careers Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search",
+      "selector": "#\\39 82c0572-006f-494b-ad76-01884d8070ef",
+      "type": "submit",
+      "automationId": "keywordSearchButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Location",
+      "selector": "#xezo3",
+      "type": "",
+      "automationId": "distanceLocation",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Time Type",
+      "selector": "#xezo4",
+      "type": "",
+      "automationId": "employmentType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Function",
+      "selector": "#xezo5",
+      "type": "",
+      "automationId": "jobFamilyGroup",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Jump to selected job details",
+      "selector": "[data-automation-id=\"jobJumpToDetailsLink\"]",
+      "type": "button",
+      "automationId": "jobJumpToDetailsLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Senior Software Technologist – AzurionEye Data Workbench",
+      "selector": "[data-cviance-inspect=\"node-1779106339039-e8otnvt2apr\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Senior-Software-Technologist---AzurionEye-Data-Workbench_579001"
+    },
+    {
+      "text": "Software Test Architect – AzurionEye Data Workbench",
+      "selector": "[data-cviance-inspect=\"node-1779106339039-8mtssq1jqgf\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Software-Test-Architect---AzurionEye-Data-Workbench_579003"
+    },
+    {
+      "text": "Sales Support Intern",
+      "selector": "[data-cviance-inspect=\"node-1779106339039-ysdqgw1nkw\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Madrid/Sales-Support-Intern_583004-1"
+    },
+    {
+      "text": "Software engineer II - Product Security",
+      "selector": "[data-cviance-inspect=\"node-1779106339039-f6ak9s4gq4c\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Software-engineer-II---Product-Security_563262"
+    },
+    {
+      "text": "Senior IT Architect",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-r49qae6c2j\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Senior-IT-Architect_578095"
+    },
+    {
+      "text": "CV Application Specialist",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-tlx4zgu3g7\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangkok/CV-Application-Specialist_578581"
+    },
+    {
+      "text": "Trade Promo Analyst",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-aighcuttzyv\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Mississauga/Trade-Promo-Analyst_573966-1"
+    },
+    {
+      "text": "Team Lead - Software Engineering",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-k6fzkye4yx\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Haifa/Team-Lead---Software-Engineering_574554"
+    },
+    {
+      "text": "Internship-Technical Consultant",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-k8sy6g6lu6\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Genoa/Technical-Consultant_580093"
+    },
+    {
+      "text": "Software Technologist I",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-zwtxrpdjr6p\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Software-Technologist-I_575925-1"
+    },
+    {
+      "text": "Internship: Finance & Accounting - Group Consolidation & Reporting (GC&R)",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-u3ii4gnlx8\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Amsterdam/Internship--Finance---Accounting---Group-Consolidation---Reporting--GC-R-_583463"
+    },
+    {
+      "text": "Internship: Retail Marketing & Shopper Experience (Dutch required)",
+      "selector": "[data-cviance-inspect=\"node-1779106339040-3cb5pnpwpne\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Shopper-Marketing_581400"
+    },
+    {
+      "text": "Complaint Handling Investigator - HPM",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-vn05e2cg9f\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Pune/Complaint-Handling-Investigator---HPM_566113"
+    },
+    {
+      "text": "E-Commerce Key Account Manager",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-vxr0292d48b\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Istanbul/E-Commerce-Key-Account-Manager_580694"
+    },
+    {
+      "text": "Software Architect II",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-pouqv4mr7qf\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Software-Architect-II_573684-1"
+    },
+    {
+      "text": "Software Development Engineer – Software Engineering Excellence Enablement",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-rg25339h4wk\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577730"
+    },
+    {
+      "text": "Clinical Data Specialist",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-4rpp7no4q7f\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Clinical-Data-Specialist_582325"
+    },
+    {
+      "text": "Innovation Project Engineer (all genders)",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-thqthquikk\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Unterschleissheim/Innovation-Project-Engineer_579125-1"
+    },
+    {
+      "text": "Commercial Operations & Sales Support Graduate (Emiratization)",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-q1fhxu79zl\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Dubai/Commercial-Operations---Sales-Support-Graduate--Emiratization-_581306"
+    },
+    {
+      "text": "Software Technologist I/II - Java Full Stack",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-9p6q9b80p7w\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Software-Technologist-I-II---Java-Full-Stack_580796"
+    },
+    {
+      "text": "1",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-u85yu3tw8hp\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-186ohanlspx\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-mq6z44kx5kj\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "4",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-lgpeootrexr\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-x7axszbj4dk\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "next",
+      "selector": "[data-cviance-inspect=\"node-1779106339041-a29jx9uh3xv\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Close job details",
+      "selector": "#jobDetailsCloseButton",
+      "type": "button",
+      "automationId": "jobDetailsCloseButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Return to selected search result",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-caupx6s93p7\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Open in new window",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-cjj7ar4ukue\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176"
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/details/Clinical-Education-Delivery-Consultant---IR-CV--Remote--Travel--West-Zone-_583176/apply"
+    },
+    {
+      "text": "Clinical",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-i6zw4lqoi7j\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.careers.philips.com/na/en/clinical-support-physical,-cognitive-and-environmental-pce-job-requirements"
+    },
+    {
+      "text": "our business",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-xu4t0viruhc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.philips.com/a-w/about.html"
+    },
+    {
+      "text": "our rich and exciting history.",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-4ax86xsb63r\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.philips.com/a-w/about/our-history.html"
+    },
+    {
+      "text": "our purpose.",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-nu9qx1kz7l\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.philips.com/a-w/about/environmental-social-governance/our-purpose"
+    },
+    {
+      "text": "our culture.",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-4obvrxvyhzh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.careers.philips.com/na/en/our-culture-philips-careers"
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-mfdtlekpq8m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.philipsusbenefits.com/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-ohhep900k9\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.nl/Reviews/Philips-Reviews-E3496.htm?&countryRedirect=true"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-zakcetas1f\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/philips/"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-qzdwm8mkybo\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/Philips"
+    },
+    {
+      "text": "Google Plus",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-lfkdycvnn0k\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://plus.google.com/+Philips"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-9b7pi7b1ew\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/philips"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779106339042-ft6s5jc8x3n\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.twitter.com/philips"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

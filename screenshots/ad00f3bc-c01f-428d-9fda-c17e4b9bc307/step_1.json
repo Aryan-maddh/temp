@@ -1,0 +1,84 @@
+{
+  "url": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Senior-Business-Intelligence-Analyst_P750075-2",
+  "title": "Senior Business Intelligence Analyst, Strategic Planning & Insights",
+  "text": "Skip to main content\nSign In\nSearch for Jobs\nSenior Business Intelligence Analyst, Strategic Planning & Insights page is loaded\nSenior Business Intelligence Analyst, Strategic Planning & Insights\nApply\nremote type\nRemote\nlocations\nRemote-USA\ntime type\nFull time\nposted on\nPosted 22 Days Ago\njob requisition id\nP750075\n\nAbout the team\nZillow’s Preferred Strategy & Insights team helps shape the future of the selling experience by turning data into decisions across our for-sale partner program. This team works closely with partners across Product, Operations, Sales, Marketing, and Finance to improve the seller journey, inform strategy, and support solutions that help more customers move with confidence.\n\nAbout the role\n\nAs a Senior Business Intelligence Analyst, you will help drive strategy for Zillow’s Preferred Seller business by translating complex data into clear recommendations and measurable action. You’ll partner across teams to identify growth opportunities, improve conversion and operational performance, and shape the reporting, forecasting, and insights that guide business decisions.\n\nYou Will Get To\n\nDefine and track key success metrics across the Preferred Seller journey to measure performance and identify growth opportunities.\n\nOwn core business reporting, dashboards, forecasts, and weekly, monthly, and quarterly reviews to inform stakeholders and executive leadership.\n\nLead A/B tests, pilots, and experiments to evaluate performance and guide data-driven decisions.\n\nUse data to uncover trends and opportunities that improve seller conversion, sales performance, and operational efficiency across the seller and buyer funnels.\n\nPartner with leaders across Product, Operations, Sales, Marketing, and Finance to turn business questions into actionable analysis and recommendations.\n\nWork with Engineering, Data, and business stakeholders to define requirements and build scalable datasets, models, and analytic solutions.\n\nDesign clear, compelling analyses and visualiza",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Senior-Business-Intelligence-Analyst_P750075-2"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Senior-Business-Intelligence-Analyst_P750075-2/apply"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779275269317-reecez5osic\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/zillow/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779275269317-etxaco2eup6\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Zillow-EI_IE40802.11,17.html"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779275269317-dgs6cyy4h1\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779275269317-chbn26z0c7w\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "Zillow’s Global Applicant Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.zillow.com/careers/global-applicant-privacy-notice/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

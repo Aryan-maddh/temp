@@ -1,0 +1,116 @@
+{
+  "url": "https://formfactor.wd1.myworkdayjobs.com/en-US/FFI-Careers/job/Remote-CA/Cybersecurity-Analyst_JR100038",
+  "title": "Careers at FormFactor",
+  "text": "Skip to main content\n\nBy using this site, you agree to our updated Privacy Policy and Web Terms of Use.\n\nWe use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nDecline\nAccept Cookies\nCareers at FormFactor\nEnglish\nSign In\nCareers Home\nSearch for Jobs\nJoin Our Talent Community\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\nRecruitment Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://formfactor.wd1.myworkdayjobs.com/en-US/FFI-Careers/job/Remote-CA/Cybersecurity-Analyst_JR100038"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778678345209-qwvi2w09k8c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.formfactor.com/company/legal-information/privacy-policy/"
+    },
+    {
+      "text": "Web Terms of Use",
+      "selector": "[data-cviance-inspect=\"node-1778678345209-bwthom7dhmq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.formfactor.com/company/legal-information/web-terms-of-use/"
+    },
+    {
+      "text": "Decline",
+      "selector": "[data-automation-id=\"legalNoticeDeclineButton\"]",
+      "type": "",
+      "automationId": "legalNoticeDeclineButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Accept Cookies",
+      "selector": "[data-automation-id=\"legalNoticeAcceptButton\"]",
+      "type": "",
+      "automationId": "legalNoticeAcceptButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Careers Home",
+      "selector": "[data-automation-id=\"navigationItem-Careers Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Careers Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join Our Talent Community",
+      "selector": "[data-automation-id=\"navigationItem-Join Our Talent Community\"]",
+      "type": "",
+      "automationId": "navigationItem-Join Our Talent Community",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-automation-id=\"socialIcon\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/formfactor/"
+    },
+    {
+      "text": "Recruitment Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.formfactor.com/company/careers/recruitment-privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

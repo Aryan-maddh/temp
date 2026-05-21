@@ -1,0 +1,220 @@
+{
+  "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P750075-2/apply",
+  "title": "Senior Business Intelligence Analyst, Strategic Planning & Insights",
+  "text": "Skip to main content\nSettings\njohn@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSenior Business Intelligence Analyst, Strategic Planning & Insights\ncompleted step 1 of 5\nMy Information\ncurrent step 2 of 5\nMy Experience\nstep 3 of 5\nApplication Questions\nstep 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nMy Experience\n* Indicates a required field\nWork Experience\nAdd\nEducation\nAdd\nSkills\nType to Add Skills\n0 items selected\nResume/CV\n\nSubmit just one resume file with your application.\nIf you'd like to include a cover letter, please incorporate it within your resume attachment.\nOtherwise, a separate cover letter is not required.\n\nUpload a file (5MB max)*\nDrop files here\nor\nSelect files\n38975225-1e74-4956-9569-a8169df3ef5b.pdf\n280.71 KB\nSuccessfully Uploaded!\n\nWebsites\nAdd any relevant websites.\nAdd\nSocial Network URLs\nLinkedIn Account:\nBack\nSave and Continue\nFollow Us\nZillow’s Global Applicant Privacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Type to Add Skills",
+      "selector": "#skills--skills",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "0 items selected",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "LinkedIn Account:",
+      "selector": "#socialNetworkAccounts--linkedInAccount",
+      "value": "https://www.linkedin.com/in/john-ssp/",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "Upload a file (5MB max)",
+      "selector": "[data-automation-id=\"file-upload-input-ref\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "file-upload-input-ref",
+      "isHidden": true,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P750075-2/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779104026353-jp3hgjnrzdh\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779104026353-rfkuayqbg1\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select files",
+      "selector": "#resumeAttachments--attachments",
+      "type": "button",
+      "automationId": "select-files",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Delete 38975225-1e74-4956-9569-a8169df3ef5b.pdf",
+      "selector": "[data-automation-id=\"delete-file\"]",
+      "type": "button",
+      "automationId": "delete-file",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779104026353-o0fugtfuob8\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-2fz87wfxe7b\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/zillow/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-z7i2g0u1ohq\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Zillow-EI_IE40802.11,17.html"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-34y6qtjtl3\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-g3rvdy4vowc\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "Zillow’s Global Applicant Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.zillow.com/careers/global-applicant-privacy-notice/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

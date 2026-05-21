@@ -1,0 +1,116 @@
+{
+  "url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Senior-UX-UI-Design-Specialist_JR101209",
+  "title": "Careers",
+  "text": "Skip to main content\n\nWe use cookies to make the safest and most effective website possible.\n\nDecline\nAccept Cookies\nCareers\nSign In\nCareers Home\nSearch for Jobs\nIntroduce Yourself\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\nRisepoint's Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Senior-UX-UI-Design-Specialist_JR101209"
+    },
+    {
+      "text": "Decline",
+      "selector": "[data-automation-id=\"legalNoticeDeclineButton\"]",
+      "type": "",
+      "automationId": "legalNoticeDeclineButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Accept Cookies",
+      "selector": "[data-automation-id=\"legalNoticeAcceptButton\"]",
+      "type": "",
+      "automationId": "legalNoticeAcceptButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Careers Home",
+      "selector": "[data-automation-id=\"navigationItem-Careers Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Careers Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Introduce Yourself",
+      "selector": "[data-automation-id=\"navigationItem-Introduce Yourself\"]",
+      "type": "",
+      "automationId": "navigationItem-Introduce Yourself",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778736869090-yg6stxrff0b\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/@AcademicPartnerships"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778736869091-7n1onmckc3n\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/academicpartnerships/mycompany/verification/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778736869091-bx8ilk2et2q\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Academic-Partnerships-EI_IE454381.11,32.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778736869091-lnl7914ic7n\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/AcademicPartnerships"
+    },
+    {
+      "text": "Risepoint's Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://policies.risepoint.com/privacy-main/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

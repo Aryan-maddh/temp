@@ -1,0 +1,73 @@
+{
+  "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Product-Manager_R0021177",
+  "title": "Product Manager",
+  "text": "Start Your Application\nProduct Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Newton%2C-MA/Product-Manager_R0021177/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Newton%2C-MA/Product-Manager_R0021177/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Newton%2C-MA/Product-Manager_R0021177/apply/useMyLastApplication"
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nProduct Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nProduct Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nProduct Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778500151331-accqgts9ppi\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nProduct Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778500151331-pms1581a0cl\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

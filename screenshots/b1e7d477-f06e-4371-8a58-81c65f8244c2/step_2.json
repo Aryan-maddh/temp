@@ -1,0 +1,116 @@
+{
+  "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467/apply",
+  "title": "Software Development Engineer I - Early Career (2026 Starts)",
+  "text": "Skip to main content\nSettings\npankaj@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nStart Your Application\nSoftware Development Engineer I - Early Career (2026 Starts)\n\nWithdrawal of your application will result in the inability to re-apply to the same job via the careers site.\n\nAutofill with Resume\nApply Manually\nUse My Last Application\nFollow Us\nBlue Origin Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "pankaj@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467/apply/useMyLastApplication"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779115799344-gey742ankjr\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779115799344-uamf03usmo8\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/blueorigin?lang=en"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779115799344-arqkdxsqbbp\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/blue-origin"
+    },
+    {
+      "text": "Blue Origin Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.blueorigin.com/privacy-policy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

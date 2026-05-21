@@ -1,0 +1,124 @@
+{
+  "url": "https://bullhorn.wd1.myworkdayjobs.com/bullhorncareers/job/remote---noam/senior-customer-insights-analyst---customer-success-operations_jr1182",
+  "title": "Careers",
+  "text": "Skip to main content\n\nBullhorn uses cookies to enhance your website experience, to personalize and display relevant content and advertisements, and to help us better understand how you use our websites in an effort to make them more user-friendly. By continuing to browse or by closing out of this message, you indicate your agreement. To set your own preferences, click “Cookie Settings” and you can learn more about the cookies we use by reviewing our cookie policy. \n\nDecline\nAccept Cookies\nSign In\nVisit Us\nSearch for Jobs\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\nBullhorn Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://bullhorn.wd1.myworkdayjobs.com/bullhorncareers/job/remote---noam/senior-customer-insights-analyst---customer-success-operations_jr1182"
+    },
+    {
+      "text": "cookie policy.",
+      "selector": "[data-cviance-inspect=\"node-1779095622169-azec7sw2jst\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.bullhorn.com/privacy/"
+    },
+    {
+      "text": "Decline",
+      "selector": "[data-automation-id=\"legalNoticeDeclineButton\"]",
+      "type": "",
+      "automationId": "legalNoticeDeclineButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Accept Cookies",
+      "selector": "[data-automation-id=\"legalNoticeAcceptButton\"]",
+      "type": "",
+      "automationId": "legalNoticeAcceptButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Visit Us",
+      "selector": "[data-automation-id=\"navigationItem-Visit Us\"]",
+      "type": "",
+      "automationId": "navigationItem-Visit Us",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779095622169-afcf8cclkka\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/BULLHORNTV"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779095622169-nsrzp3le8u\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Bullhorn-EI_IE155930.11,19.htm"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779095622169-hjinj9hdzv\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/bullhorn"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779095622169-3iedtdn28ki\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/Bullhorn/"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779095622169-58pyrl3fxrh\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/bullhorn/?original_referer=https%3A%2F%2Fcareers.bullhorn.com%2F"
+    },
+    {
+      "text": "Bullhorn Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.bullhorn.com/privacy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

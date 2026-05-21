@@ -1,0 +1,201 @@
+{
+  "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Software-Engineer-I_JR4072/apply/applyManually",
+  "title": "Sign In",
+  "text": "Skip to main content\nSign In\nIntegrity Careers Home Page\nSearch for Jobs\nIntroduce Yourself\nBack to Job Posting\nSoftware Engineer I\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nSign In\nEmail Address*\nPassword*\nSign In\nDon't have an account yet?\nCreate Account\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.\nFollow Us\nPrivacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "#input-6",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "#input-7",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#\\37 777bc75-a4dc-43c1-8969-fb5083c53578",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Software-Engineer-I_JR4072/apply/applyManually"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Integrity Careers Home Page",
+      "selector": "[data-automation-id=\"navigationItem-Integrity Careers Home Page\"]",
+      "type": "",
+      "automationId": "navigationItem-Integrity Careers Home Page",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Introduce Yourself",
+      "selector": "[data-automation-id=\"navigationItem-Introduce Yourself\"]",
+      "type": "",
+      "automationId": "navigationItem-Introduce Yourself",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Submit",
+      "selector": "[data-automation-id=\"click_filter\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInSubmitButton\"]",
+      "type": "submit",
+      "automationId": "signInSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountLink\"]",
+      "type": "",
+      "automationId": "createAccountLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-automation-id=\"forgotPasswordLink\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779119161255-ardjsp5zi1a\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Integrity-Marketing-Group-EI_IE873106.11,36.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779119161255-pqn56dwvzq\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/IntegrityMG"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779119161255-s1gvmw8vlyr\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/IntegrityMG"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779119161255-s3kxmk0tbgs\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCXgwXbY_fkDjn8GjdsnfZWw"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779119161255-bsubnh647n\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/integrity-marketing./"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.integritymarketing.com/privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

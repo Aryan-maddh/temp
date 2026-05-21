@@ -1,0 +1,100 @@
+{
+  "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Software-Engineer-Quote-To-Order-Remote_2005971",
+  "title": "Careers",
+  "text": "Skip to main content\nCareers\nEnglish\nSign In\nSearch for Jobs\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\nPrivacy Policy - This site uses essential cookies only.\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Software-Engineer-Quote-To-Order-Remote_2005971"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778840260014-2u7evoov8m\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UC5ZvfE6jhrPSGtY4C3pDOhA"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778840260014-yinggjogu1\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.twitter.com/wearecisco"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778840260014-hi5f60ugbsc\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/cisco/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778840260014-4fbm5ljqc69\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Cisco-Systems-EI_IE1425.11,24.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778840260014-hhtsmauhxa\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/WeAreCisco/"
+    },
+    {
+      "text": "Privacy Policy - This site uses essential cookies only.",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.cisco.com/c/en/us/about/legal/privacy.html"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

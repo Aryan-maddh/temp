@@ -1,0 +1,114 @@
+{
+  "url": "https://premera.wd5.myworkdayjobs.com/Premera/job/Telecommuter/AI-Engineer-III_R28500/apply?source=LinkedIn",
+  "title": "AI Engineer III",
+  "text": "Skip to main content\nPremera Careers\nSign In\nLearn More\nSearch for Jobs\nStart Your Application\nAI Engineer III\n\nWe're pleased you're considering us for the next step in your career! Tip for success: Make sure your resume loads accurately.\n\nAutofill with Resume\nApply Manually\nUse My Last Application\nFollow Us\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://premera.wd5.myworkdayjobs.com/Premera/job/Telecommuter/AI-Engineer-III_R28500/apply?source=LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Learn More",
+      "selector": "[data-automation-id=\"navigationItem-Learn More\"]",
+      "type": "",
+      "automationId": "navigationItem-Learn More",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://premera.wd5.myworkdayjobs.com/en-US/Premera/job/Telecommuter/AI-Engineer-III_R28500/apply/autofillWithResume?source=LinkedIn"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://premera.wd5.myworkdayjobs.com/en-US/Premera/job/Telecommuter/AI-Engineer-III_R28500/apply/applyManually?source=LinkedIn"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://premera.wd5.myworkdayjobs.com/en-US/Premera/job/Telecommuter/AI-Engineer-III_R28500/apply/useMyLastApplication?source=LinkedIn"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778583293065-r4g8pqylr3\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/premerabluecross"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778583293065-0q2xzb81tiv9\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/premera"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778583293065-bsu7dvwtrdf\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/premera-blue-cross"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778583293065-qzeotkps2ck\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Premera-Blue-Cross-EI_IE16853.11,29.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778583293065-n999p4m85hj\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/premerabluecross"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://applywithlinkedin.myworkdaygadgets.com/awli/",
+      "title": "applyWithLinkedIn",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

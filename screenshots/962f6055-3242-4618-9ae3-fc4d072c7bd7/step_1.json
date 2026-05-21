@@ -1,0 +1,108 @@
+{
+  "url": "https://stblaw.wd1.myworkdayjobs.com/careers/job/New-York-NY/Data-Scientist_R-2026-75",
+  "title": "Careers",
+  "text": "Skip to main content\n\nWe use necessary cookies to make our website work. We would also like to set non-essential analytics and performance cookies that help us make improvements by measuring how you use the website. These will be set only if you accept. For more detailed information about the cookies we use, see our cookie section in our Privacy Notice.\n\nDecline\nAccept Cookies\nSign In\nCareers Homepage\nSearch for Jobs\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\nPrivacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://stblaw.wd1.myworkdayjobs.com/careers/job/New-York-NY/Data-Scientist_R-2026-75"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-cviance-inspect=\"node-1778499918827-toi5impqqx\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.stblaw.com/other/privacy-notice#cookies"
+    },
+    {
+      "text": "Decline",
+      "selector": "[data-automation-id=\"legalNoticeDeclineButton\"]",
+      "type": "",
+      "automationId": "legalNoticeDeclineButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Accept Cookies",
+      "selector": "[data-automation-id=\"legalNoticeAcceptButton\"]",
+      "type": "",
+      "automationId": "legalNoticeAcceptButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Careers Homepage",
+      "selector": "[data-automation-id=\"navigationItem-Careers Homepage\"]",
+      "type": "",
+      "automationId": "navigationItem-Careers Homepage",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778499918828-a0s40cz0mps\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/simpson-thacher-&-bartlett-llp"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778499918828-ryiuop329r\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Reviews/Simpson-Thacher-Reviews-E3378.htm"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778499918828-74y3xm1s3cr\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/simpsonthacher?lang=en"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.stblaw.com/other/privacy-notice"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,212 @@
+{
+  "url": "https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Project-Manager---Cybersecurity_JR2793/apply/applyManually",
+  "title": "Project Manager - Cybersecurity",
+  "text": "Skip to main content\nEnglish\nSettings\njohn@gmail.com\nSHI Careers\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nProject Manager - Cybersecurity\ncompleted step 1 of 6\nMy Information\ncurrent step 2 of 6\nMy Experience\nstep 3 of 6\nApplication Questions\nstep 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nMy Experience\n* Indicates a required field\nWork Experience\nAdd\nEducation\nAdd\nCertifications\nAdd\nLanguages\nAdd\nResume/CV\n\nUpload a file (5MB max)*\nDrop files here\nor\nSelect files\n\nWebsites\nAdd any relevant websites.\nAdd\nBack\nSave and Continue\nFollow Us\nPrivacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "file",
+      "label": "file-upload-input-ref",
+      "selector": "[data-automation-id=\"file-upload-input-ref\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "file-upload-input-ref",
+      "isHidden": true,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Project-Manager---Cybersecurity_JR2793/apply/applyManually"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "SHI Careers",
+      "selector": "[data-automation-id=\"navigationItem-SHI Careers\"]",
+      "type": "",
+      "automationId": "navigationItem-SHI Careers",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778500538801-zdw9h5sazs\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778500538801-j4kua9kflhe\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778500538801-6jwiary82gs\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778500538801-96d77plxjt8\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select files",
+      "selector": "#resumeAttachments--attachments",
+      "type": "button",
+      "automationId": "select-files",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1778500538801-ua8grwjttb\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778500470754-6lym6y6i1sw\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-SHI-International-EI_IE14216.11,28.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778500470754-423svy2vtvj\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/shi-international-corp-"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778500470754-szqmw0469ae\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/SHIInternational/"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778500470754-fxavrfsfo6m\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://x.com/SHI_Intl"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778500470754-x70xjlwpvrj\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/shicorporation"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.shi.com/terms/privacy-notice-prospective-employees"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

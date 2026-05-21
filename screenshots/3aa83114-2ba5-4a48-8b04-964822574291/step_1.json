@@ -1,0 +1,132 @@
+{
+  "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Machine-Learning-Intern---Summer-2026_319677",
+  "title": "Careers",
+  "text": "Skip to main content\nBy continuing to use this site, you are agreeing to our use of cookies. Please take a moment to review our corporate privacy and cookie policy, as well as our candidate privacy policy and notice.\nDecline\nAccept Cookies\nSign In\nSearch for Jobs\nSubmit A General Application\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\nS&P Candidate Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Machine-Learning-Intern---Summer-2026_319677"
+    },
+    {
+      "text": "privacy",
+      "selector": "[data-cviance-inspect=\"node-1778500471702-30qvs3cygrs\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://www.spglobal.com/en/privacy/privacy-policy-english"
+    },
+    {
+      "text": "cookie",
+      "selector": "[data-cviance-inspect=\"node-1778500471702-xlye7emwim\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://www.spglobal.com/en/cookie-notice"
+    },
+    {
+      "text": "candidate privacy policy and notice",
+      "selector": "[data-cviance-inspect=\"node-1778500471702-fyjwhvgclii\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://www.spglobal.com/content/dam/spglobal/corporate/en/documents/careers/Candidate_Privacy_Policy.pdf"
+    },
+    {
+      "text": "Decline",
+      "selector": "[data-automation-id=\"legalNoticeDeclineButton\"]",
+      "type": "",
+      "automationId": "legalNoticeDeclineButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Accept Cookies",
+      "selector": "[data-automation-id=\"legalNoticeAcceptButton\"]",
+      "type": "",
+      "automationId": "legalNoticeAcceptButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Submit A General Application",
+      "selector": "[data-automation-id=\"navigationItem-Submit A General Application\"]",
+      "type": "",
+      "automationId": "navigationItem-Submit A General Application",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778500471702-wtw4acj82v7\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-S-and-P-Global-EI_IE1259396.11,25.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778500471702-30r0fpq4r9j\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company-beta/2934/"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778500471702-9fj7chquok\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/spglobal?lang=en"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778500471702-nsandai7ic\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/sandpglobal/"
+    },
+    {
+      "text": "S&P Candidate Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.spglobal.com/content/dam/spglobal/corporate/en/documents/careers/Candidate_Privacy_Policy.pdf"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

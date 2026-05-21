@@ -1,0 +1,100 @@
+{
+  "url": "https://ryder.wd5.myworkdayjobs.com/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635",
+  "title": "UX/UI Designer- REMOTE - Logo",
+  "text": "Skip to main content\nEnglish\nSign In\nSearch for Jobs\nUX/UI Designer- REMOTE page is loaded\nUX/UI Designer- REMOTE\nApply\nlocations\nUSA - Coral Gables FL 33134\ntime type\nFull time\nposted on\nPosted 16 Days Ago\njob requisition id\nR170635\n\nJob Seekers can review the Job Applicant Privacy Policy by clicking here.\n\nJob Description:\n\nSummary\nThe UI / UX Designer will be responsible for conceptualizing, designing, prototyping and delivering compelling and intuitive experiences for our customer facing web and mobile applications, including ecommerce websites and customer-facing administrative platforms. Working closely with the product teams and digital analysts, the individual will translate ideas into customer experiences, flows, wireframes and mockups using modern UX/UI best practices and emerging AI-informed design approaches. He or she will also help develop strategies around conducting usability tests and integrating findings into the final output.\n\nEssential Functions\nTranslate product strategy and user requirements into full-fledged user experiences, creating pixel perfect mockups, user flow diagrams, and interactive prototypes to convey complex interactions.\nUnderstand and interpret brand, user and business needs, in order to develop innovative, creative and results-oriented digital solutions across ecommerce and customer-facing admin experiences\nConduct competitive research and analytic rigor in designing our user experiences\nOptimize existing user interface designs and test new ideas before implementing\nWorking with engineers to construct dynamic, interactive designs that are technically feasible\nCreate journey maps, user profiles, user cases/scenarios, and personas that are aligned with project and business goals\nCommunicate and ardently defend good user experience design to stakeholders\n\nAdditional Responsibilities\nPerforms other duties as assigned.\n\nSkills and Abilities\nExpert-level proficiency in Figma (our exclusive design tool), including component libraries,",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://ryder.wd5.myworkdayjobs.com/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://ryder.wd5.myworkdayjobs.com/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635/apply"
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1778852037167-d8brxscgpj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://ryder.com/job-applicant-privacy-policy"
+    },
+    {
+      "text": "www.ryder.com/careers",
+      "selector": "[data-cviance-inspect=\"node-1778852037167-znrn1w58zi\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://www.ryder.com/careers"
+    },
+    {
+      "text": "careers@ryder.com",
+      "selector": "[data-cviance-inspect=\"node-1778852037167-cfx8ztft0co\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "mailto:careers@ryder.com"
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1778852037167-s1yukk4xsy\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://wd5.myworkday.com/ryder/d/task/1422$3.htmld"
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1778852037167-3tf5qk8s3o4\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://ryder.com/job-applicant-privacy-policy"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 0",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

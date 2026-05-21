@@ -1,0 +1,272 @@
+{
+  "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085/apply",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nSettings\njohn@gmail.com\nSearch for Jobs\nCandidate Home\nBack to Job Posting\nSoftware Engineer\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncompleted step 3 of 6\nApplication Questions\ncurrent step 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nVoluntary Disclosures\n* Indicates a required field\nPersonal Data Statement\n\nSection Instructions\n\nU.S. Equal Employment Opportunity/Affirmative Action Information\n\nIndividuals seeking employment are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.\n\nCompletion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.\n\nPlease select the ethnicity which most accurately describes how you identify yourself.*\nSelect One\nPlease select your gender.\nSelect One\nPlease indicate if you are Hispanic or Latino?\nSelect One\nPlease select the veteran status which most accurately describes your status.*\nSelect One\nTerms and Conditions\n\nTerms and Conditions\n\nWe respect the privacy of candidates for employment.  This privacy notice sets forth how we will use the information we obtain when you apply for a position through this career site.  If you do not consent to the terms of this Privacy Notice, please do not submit information to us. \n\nYes, I have read and consent to the terms and conditions*\nBack\nSave and Continue\nFollow Us\nAlteryx Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Please the ethnicity which most accurately describes how you identify yourself.",
+      "selector": "#personalInfoUS--ethnicity",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please your gender.",
+      "selector": "#personalInfoUS--gender",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please indicate if you are Hispanic or Latino?",
+      "selector": "#personalInfoUS--hispanicOrLatino",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please the veteran status which most accurately describes your status.",
+      "selector": "#personalInfoUS--veteranStatus",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Yes, I have read and consent to the terms and conditions",
+      "selector": "#termsAndConditions--acceptTermsAndAgreements",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Yes, I have read and consent to the terms and conditions*",
+          "checked": false,
+          "selector": "#termsAndConditions--acceptTermsAndAgreements"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--ethnicity",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--gender",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--hispanicOrLatino",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--veteranStatus",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-cviance-inspect=\"node-1778844802967-8hp28zguwr\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.alteryx.com/privacy-policy"
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778844774406-yfsiazo407\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/alteryx/"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778844774406-loowhbhh8\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/alteryx"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778844774406-7szsuny47a3\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/alteryx?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778844774407-z3ol2s8ixmd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/alteryx/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778844774407-9jt1umwri3t\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Alteryx-EI_IE351220.11,18.htm"
+    },
+    {
+      "text": "Alteryx Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.alteryx.com/privacy-policy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

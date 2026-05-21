@@ -1,0 +1,36 @@
+{
+  "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/jobTasks/completed/application",
+  "title": "Candidate Home",
+  "text": "Application Submitted\nYour application has been submitted. We look forward to reviewing your application and will invite you to the next step if your experience is a match for the role. The next step can include an invitation for an on-demand video interview through HireVue, our virtual interviewing partner.\nYou have no more tasks.\nReturn to Home",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"taskModalCloseButton\"]",
+      "type": "",
+      "automationId": "taskModalCloseButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Return to Home",
+      "selector": "[data-automation-id=\"returnToHome\"]",
+      "type": "",
+      "automationId": "returnToHome",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Application Submitted\nYour application has been submitted. We look forward to reviewing your application and will invite you to the next step if your experience is a match for the role. The next step can include an invitation for an on-demand video interview through HireVue, our virtual interviewing partner.\nYou have no more tasks.\nReturn to Home",
+      "automationId": "candidateHomeTaskModal",
+      "selector": "[data-automation-id=\"candidateHomeTaskModal\"]",
+      "active": true
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

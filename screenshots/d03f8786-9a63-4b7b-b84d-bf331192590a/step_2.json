@@ -1,0 +1,73 @@
+{
+  "url": "https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Remote---USA/Software-Engineer_R24398",
+  "title": "Software Engineer",
+  "text": "Start Your Application\nSoftware Engineer\nAutofill with Resume\nApply Manually\nUse My Last Application",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply/useMyLastApplication"
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nSoftware Engineer\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nSoftware Engineer\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nSoftware Engineer\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779107708897-isnm95qhe38\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nSoftware Engineer\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779107708897-id9ef2oc0m\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

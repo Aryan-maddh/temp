@@ -1,0 +1,124 @@
+{
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1?source=AutoAppend_LinkedIn",
+  "title": "AI Engineer",
+  "text": "Skip to main content\nSign In\nSearch and Apply\nJoin our Talent Community!\nAI Engineer page is loaded\nAI Engineer\nApply\nlocations\nAny Location / Remote\ntime type\nFull time\nposted on\nPosted 3 Days Ago\njob requisition id\nRQ219864\n\nType of Requisition:\n\nPipeline\n\nClearance Level Must Currently Possess:\n\nNone\n\nClearance Level Must Be Able to Obtain:\n\nNone\n\nPublic Trust/Other Required:\n\nMBI (T2)\n\nJob Family:\n\nData Science and Data Engineering\n\nJob Qualifications:\n\nSkills:\n\nAgentic AI, Artificial Intelligence (AI), Data Science, Higher Mathematics, Machine Learning (ML)\n\nCertifications:\n\nNone\n\nExperience:\n\n2 + years of related experience\n\nUS Citizenship Required:\n\nNo\n\nJob Description:\n\nOwn your opportunity to shape the future of AI at GDIT\nAs an AI Engineer supporting the mission of the United States Postal Service (USPS), you will help design, develop, and deploy AI solutions that modernize and optimize essential nationwide operations. Your work will directly contribute to improved efficiency, automated processes, and data‑driven decision making across a high‑impact federal environment.\n\nMEANINGFUL WORK AND PERSONAL IMPACT\nAs an AI Engineer, you will play a critical role in identifying where AI can streamline business processes and deliver measurable outcomes. You will:\n\nDevelop and advance AI capabilities across USPS business functions.\nBuild tools that automate requirements and test case generation using technologies such as Visual Studio Code, Python, Microsoft Copilot, CrewAI, and other USPS‑approved platforms.\nIntegrate AI solutions with existing automation frameworks to reduce manual effort and enhance quality.\nEvaluate opportunities to embed AI across enterprise workflows and design solutions aligned with mission needs.\nCollaborate with cross‑functional teams and communicate technical concepts to both technical and non‑technical stakeholders.\nEnsure all AI solutions meet USPS security, compliance, and execution requirements.\nTrain designated team members to maintain",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search and Apply",
+      "selector": "[data-automation-id=\"navigationItem-Search and Apply\"]",
+      "type": "",
+      "automationId": "navigationItem-Search and Apply",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join our Talent Community!",
+      "selector": "[data-automation-id=\"navigationItem-Join our Talent Community!\"]",
+      "type": "",
+      "automationId": "navigationItem-Join our Talent Community!",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "gdit.com/tc",
+      "selector": "[data-cviance-inspect=\"node-1778497354729-pf4yqx2q42h\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.gdit.com/tc"
+    },
+    {
+      "text": "Play video About Us",
+      "selector": "[data-cviance-inspect=\"node-1778497354729-0mt5v2jepre\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "https://www.gdit.com/privacy-policy/notices/",
+      "selector": "[data-cviance-inspect=\"node-1778497354729-oyovbdx1koc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.gdit.com/privacy-policy/notices/"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 0",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778497354729-8qrmrmxpfr6\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCaB-uSlpjnUQzNzXajf2L_w"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778497354729-f2di4m2z7b4\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/GDIT"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778497354729-y8mb3q10ig\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/GeneralDynamicsIT/"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778497354729-welb3fbu15\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/general-dynamics-information-technology/"
+    },
+    {
+      "text": "GDIT Privacy Notice and California Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.gdit.com/privacy-policy/notices/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://ciena.wd5.myworkdayjobs.com/ms-MY/Careers/job/Project-Manager---Cyber-Security_R029022",
+  "title": "Careers at Ciena",
+  "text": "Langkau ke Kandungan Utama\n\nUse of Cookies and Similar Technologies\nAt Ciena, we use the following classifications of cookies:\n\nEssential Cookies\n\nEssential cookies enable you to navigate the website and to use its services and features. Without these necessary cookies, the website will not perform without errors, and we may not be able to provide the website or certain services or features. Essential cookies further allow us to maintain the safety and security of our website.\n\nTo the extent these cookies can be attributed to you, the processing of your Personal Data will be based on our legitimate interests in providing effective, error-free, and secure functionalities, features and services on our website, including management of your cookie choices.\nThis is a primary processing purpose.\n\nPersonalization Cookies (or Functional Cookies)\n\nPersonalization cookies are optional. personalization cookies collect information about your choices and preferences and allow us to remember language or other local settings and customize the website accordingly. Personalization cookies also collect information about your use of the website and enable us to improve the way it works. For example, they show us which are the most frequently visited pages on the website, help us record any difficulties you have with the website, and help us to evaluate the effectiveness of our advertising. This allows us to see the overall patterns of usage on the website, rather than the usage of a single person. We may use the information to analyze website traffic in an aggregated or anonymized form, but we do not examine this information at the individual level.\n\nWe will only place personalization cookies, and process any related data, if you accept these cookies and provide your consent for the related processing of your Personal Data.\nThis is a secondary processing purpose.\n\nAnalytics Cookies\n\nAnalytics cookies, also known as analytical cookies, are a type of tracking technology used on websites",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Langkau ke Kandungan Utama",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://ciena.wd5.myworkdayjobs.com/ms-MY/Careers/job/Project-Manager---Cyber-Security_R029022"
+    },
+    {
+      "text": "Baca Mesej Privasi Penuh",
+      "selector": "[data-automation-id=\"legalNoticeToggleButton\"]",
+      "type": "",
+      "automationId": "legalNoticeToggleButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Tolak",
+      "selector": "[data-automation-id=\"legalNoticeDeclineButton\"]",
+      "type": "",
+      "automationId": "legalNoticeDeclineButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Terima Kuki",
+      "selector": "[data-automation-id=\"legalNoticeAcceptButton\"]",
+      "type": "",
+      "automationId": "legalNoticeAcceptButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Bahasa Melayu (‏Malaysia)",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Daftar Masuk",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create an Account",
+      "selector": "[data-automation-id=\"navigationItem-Create an Account\"]",
+      "type": "",
+      "automationId": "navigationItem-Create an Account",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Cari Pekerjaan",
+      "selector": "[data-automation-id=\"navigationItem-Cari Pekerjaan\"]",
+      "type": "",
+      "automationId": "navigationItem-Cari Pekerjaan",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Cari Pekerjaan",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778500391162-ya9py92ubm8\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.co.uk/Reviews/Ciena-Reviews-E6612.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778500391162-ncvqox5cg7p\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company-beta/3960/"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778500391162-wejakfuiphi\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/Ciena?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778500391162-90kvnevdsf7\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/CienaCorp"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778500391162-3kw15gr7nm5\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/CienaCorp"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

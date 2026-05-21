@@ -1,0 +1,385 @@
+{
+  "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs",
+  "title": "Search for Jobs",
+  "text": "Skip to main content\nManulife and John Hancock Careers\nEnglish\nSign In\nSearch for Jobs\nSearch\nFilters\nDistance or Location\nTime Type\nJob Category\nMore\nSearch for Jobs page is loaded\n\n683 JOBS FOUND\n\nActuarial Manager\nlocations\nKuala Lumpur, Wilayah Persekutuan Kuala Lumpur\nposted on\nPosted 2 Days Ago\nJR25120776Kuala Lumpur\nCompliance Executive, COE Hub (Malaysia)\nlocations\nKuala Lumpur, Wilayah Persekutuan Kuala Lumpur\nposted on\nPosted 2 Days Ago\nJR26041064Kuala Lumpur\nCompliance Executive (COE Hub) Malaysia\nlocations\nKuala Lumpur, Wilayah Persekutuan Kuala Lumpur\nposted on\nPosted 2 Days Ago\nJR26041062Kuala Lumpur\nSoftware Engineer, Java (Cloud & Microservices)\nlocations\nWaterloo, Ontario\nposted on\nPosted 3 Days Ago\nJR26032159Waterloo\nLead Quality Engineer\nlocations\nCAN, Ontario, Waterloo, 500 King Street North\nposted on\nPosted 3 Days Ago\nJR26040281Waterloo\nSenior IT Business Analyst\nlocations\nWaterloo, Ontario\nposted on\nPosted 3 Days Ago\nJR26040302Waterloo\nClient Service Specialist – AdminAdvantage\nlocations\n5 Locations\nposted on\nPosted 3 Days Ago\nJR26021060Waterloo\nManager – AdminAdvantage Operations\nlocations\n4 Locations\nposted on\nPosted 3 Days Ago\nJR26040298Halifax\nSupervisor, GB Operations\nlocations\n4 Locations\nposted on\nPosted 3 Days Ago\nJR26031218Waterloo\nResearch Benefits Administrator\nlocations\n4 Locations\nposted on\nPosted 3 Days Ago\nJR26040297Montreal\nTraining & Documentation Specialist\nlocations\n3 Locations\nposted on\nPosted 3 Days Ago\nJR26041199Waterloo\nInstallation Specialist, Group Benefits – Document Creation & Support\nlocations\n4 Locations\nposted on\nPosted 3 Days Ago\nJR26041447Montreal\nFull-stack Software Engineer\nlocations\nToronto, Ontario\nposted on\nPosted 3 Days Ago\nJR26041202Toronto\nAssociate Data Analyst\nlocations\nToronto, Ontario\nposted on\nPosted 3 Days Ago\nJR26031160Toronto\nBusiness Operations Manager\nlocations\nBoston, Massachusetts\nposted on\nPosted 3 Days Ago\nJR26050155Boston\nActuary, Corporate Development\nlocations\n4 Locations\nposted on\nPosted",
+  "fields": [
+    {
+      "type": "text",
+      "label": "keywordSearchInput",
+      "selector": "#v8gl2",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search for jobs or keywords",
+      "automationId": "keywordSearchInput",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search",
+      "selector": "#aee89630-635b-4bde-86d7-87cc4b11a307",
+      "type": "submit",
+      "automationId": "keywordSearchButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Distance or Location",
+      "selector": "#v8gl4",
+      "type": "",
+      "automationId": "distanceLocation",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Time Type",
+      "selector": "#v8gl5",
+      "type": "",
+      "automationId": "employmentType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Category",
+      "selector": "#v8gl6",
+      "type": "",
+      "automationId": "jobFamilyGroup",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "More",
+      "selector": "#v8gl7",
+      "type": "",
+      "automationId": "more",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Actuarial Manager",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-0ymv1dyaozv\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Actuarial-Manager_JR25120776"
+    },
+    {
+      "text": "Compliance Executive, COE Hub (Malaysia)",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-5lnwqkuzvk\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Compliance-Executive--COE-Hub--Malaysia-_JR26041064-1"
+    },
+    {
+      "text": "Compliance Executive (COE Hub) Malaysia",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-oz64penl3gj\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Compliance-Executive--COE-Hub--Malaysia_JR26041062"
+    },
+    {
+      "text": "Software Engineer, Java (Cloud & Microservices)",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-odwb4ak2ija\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Software-Engineer--Java--Cloud---Microservices-_JR26032159-1"
+    },
+    {
+      "text": "Lead Quality Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-ct8u38nkptw\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Ontario-Waterloo-500-King-Street-North/Lead-Quality-Engineer_JR26040281-1"
+    },
+    {
+      "text": "Senior IT Business Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-iufjwgt2u3g\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Senior-IT-Business-Analyst_JR26040302-1"
+    },
+    {
+      "text": "Client Service Specialist – AdminAdvantage",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-cj9x7zklihp\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Responsable-bilingue-de-service---AdminAdvantage_JR26021060-1"
+    },
+    {
+      "text": "Manager – AdminAdvantage Operations",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-aviqhlq05v5\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Halifax-Nova-Scotia/Gestionnaire---Oprations-AdminAdvantage_JR26040298-1"
+    },
+    {
+      "text": "Supervisor, GB Operations",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-s67vyce9a6\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Ontario-Waterloo-500-King-Street-North/Superviseur-e--bilingue--Oprations-GB_JR26031218-1"
+    },
+    {
+      "text": "Research Benefits Administrator",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-abuui7dh5h\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Montreal-Quebec/Bilingual-Research-Benefits-Administrator_JR26040297-2"
+    },
+    {
+      "text": "Training & Documentation Specialist",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-8rvv7d518g9\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Spcialiste--Formation-et-documentation_JR26041199-1"
+    },
+    {
+      "text": "Installation Specialist, Group Benefits – Document Creation & Support",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-vcb62dhqr2o\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Montreal-Quebec/Spcialiste--l-implantation--Assurance-collective---Cration-et-soutien-de-la-documentation_JR26041447"
+    },
+    {
+      "text": "Full-stack Software Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-2ixajnoqgdw\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Full-stack-Software-Engineer_JR26041202"
+    },
+    {
+      "text": "Associate Data Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-qbke6fgsw6s\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Data-Analyst_JR26031160"
+    },
+    {
+      "text": "Business Operations Manager",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-499qr8fqjgm\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Business-Operations-Manager_JR26050155-2"
+    },
+    {
+      "text": "Actuary, Corporate Development",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-guu4gt7y4jm\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Actuary--Corporate-Development_JR26010903-2"
+    },
+    {
+      "text": "Lead Product Owner",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-vqrfpoljqq\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Lead-Product-Owner_JR26041903"
+    },
+    {
+      "text": "Director, IT Finance",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-7jr7dfx6zkj\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Director--IT-Finance_JR26050166-1"
+    },
+    {
+      "text": "Search Engine Optimization Manager",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-89tfx88x18v\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Search-Engine-Optimization-Manager_JR26020615"
+    },
+    {
+      "text": "Subject Matter Expert",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-0c5ba0zxck7v\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Subject-Matter-Expert_JR26041855"
+    },
+    {
+      "text": "previous",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-rfihoonl92\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-rvqlvuou2v\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-8ahgy4jv13w\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-4oz260cktgm\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "4",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-g5umqyouubn\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-e57oqnm9map\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "next",
+      "selector": "[data-cviance-inspect=\"node-1778499867025-ceuk5ahicig\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "https://www.manulife.com/",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-8jcyd0p8vuq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.manulife.com/"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 9",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Play video ",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-z8rxqzj7ixo\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-ehrsymzrbp\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/manulife-financial"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-oloowzdhgn\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.twitter.com/manulife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-oal9fln2ut\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/Manulife"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-lc9b1jfkq88\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/ManulifeFinancial"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-unlkjtineo\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.ca/Overview/Working-at-Manulife-EI_IE9373.11%2C19.htm"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

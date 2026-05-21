@@ -1,0 +1,1068 @@
+{
+  "url": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635/apply/applyManually",
+  "title": "UX/UI Designer- REMOTE",
+  "text": "Skip to main content\nEnglish\nSettings\nfaizan@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nUX/UI Designer- REMOTE\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncurrent step 3 of 6\nApplication Questions\nstep 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nApplication Questions\n* Indicates a required field\n\nAre you currently authorized to work in the United States on a full-time basis for any employer?*\n\nSelect One\n\nWill you (now or in the future) require any type of employment visa sponsorship (i.e., H-1B visa)?*\n\nSelect One\n\nAre you currently a Ryder employee?*\n\nSelect One\n\nHave you ever worked for Ryder?*\n\nSelect One\n\nMay we text your mobile phone?*\n\nSelect One\n\nDo you have a family member who works at Ryder?\n\nThe definition of family member is as follows: spouse, domestic partner, a person with whom the employee has a non-platonic relationship, persons related by blood, adoption or marriage to the employee (including in-laws, children, parents, siblings, grandparents, grandchildren, nephews, nieces, cousins, aunts, uncles and their spouses) and anyone residing in the same household (including roommates)*\n\nSelect One\n\nDo you have a family member who works for or owns a business that is a Ryder customer, supplier or competitor?\n\nThe definition of family member is as follows: spouse, domestic partner, a person with whom the employee has a non-platonic relationship, persons related by blood, adoption or marriage to the employee (including in-laws, children, parents, siblings, grandparents, grandchildren, nephews, nieces, cousins, aunts, uncles and their spouses) and anyone residing in the same household (including roommates)*\n\nSelect One\n\nAs a Ryder employee, would you have your own business or work for another company outside of Ryder while working at Ryder?*\n\nSelect One\n\nWhat is your willingness to travel?*\n\nSelect One\n\nWhat are your minimum salary requirements?*\n\nSelect One\n\nWhat are you",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Are you currently authorized to work in the United States on a full-time basis for any employer?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f901cf71f60000",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Will you (now or in the future) require any type of employment visa sponsorship (i.e., H-1B visa)?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f901cf71f60003",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Are you currently a Ryder employee?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a48290001",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Have you ever worked for Ryder?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a48290004",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "May we text your mobile phone?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a48290007",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Do you have a family member who works at Ryder? The definition of family member is as follows: spouse, domestic partner, a person with whom the employee has a non-platonic relationship, persons related by blood, adoption or marriage to the employee (including in-laws, children, parents, siblings, grandparents, grandchildren, nephews, nieces, cousins, aunts, uncles and their spouses) and anyone residing in the same household (including roommates)",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a4829000a",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Do you have a family member who works for or owns a business that is a Ryder customer, supplier or competitor? The definition of family member is as follows: spouse, domestic partner, a person with whom the employee has a non-platonic relationship, persons related by blood, adoption or marriage to the employee (including in-laws, children, parents, siblings, grandparents, grandchildren, nephews, nieces, cousins, aunts, uncles and their spouses) and anyone residing in the same household (including roommates)",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903052c8c0000",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "As a Ryder employee, would you have your own business or work for another company outside of Ryder while working at Ryder?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903052c8c0004",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "What is your willingness to travel?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903052c8c0008",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "What are your minimum salary requirements?",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903a021de0001",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": true,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "What are your relocation preferences?",
+      "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Not Willing to Relocate",
+          "checked": true,
+          "selector": "#df3203d32e1b01c1f0d85048407a5324-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Lakes",
+          "checked": false,
+          "selector": "#df3203d32e1b017f30e05048407a5424-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Great Plains (including Texas)",
+          "checked": false,
+          "selector": "#df3203d32e1b01e197fd5048407a5524-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Mid-Atlantic",
+          "checked": false,
+          "selector": "#df3203d32e1b016e73075148407a5624-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northwest",
+          "checked": false,
+          "selector": "#df3203d32e1b01b5460f5148407a5724-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Northeast",
+          "checked": false,
+          "selector": "#df3203d32e1b01b236185148407a5824-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southwest",
+          "checked": false,
+          "selector": "#df3203d32e1b017b50205148407a5924-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Southeast",
+          "checked": false,
+          "selector": "#df3203d32e1b013c83275148407a5a24-3d4e91e21330100153f9043b2ceb0005"
+        },
+        {
+          "value": "on",
+          "label": "Upper Midwest",
+          "checked": false,
+          "selector": "#df3203d32e1b0108732e5148407a5b24-3d4e91e21330100153f9043b2ceb0005"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "If willing to relocate, please list preferred states (2-3 choices).",
+      "selector": "#primaryQuestionnaire--74dc92d877b4102201eb8691bac60000",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635/apply/applyManually"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "faizan@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f901cf71f60000",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f901cf71f60003",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a48290001",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a48290004",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a48290007",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f9026a4829000a",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903052c8c0000",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903052c8c0004",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903052c8c0008",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--3d4e91e21330100153f903a021de0001",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,358 @@
+{
+  "url": "https://career.berrybytes.com/career/ai-infra-engineer-sre-kubernetes/",
+  "title": "AI Infra Engineer – SRE (Kubernetes) – BerryBytes",
+  "text": "Home\nAbout\nProducts\nCloud\nAgents\nSecurity\nSandbox\nCompliance\n\nAn easier way to deploy your apps\n\nAutomated infrastructure management platform for high availability\nMinimizes manual effort and operational overhead\nUses predictive auto-scaling to handle demand dynamically\nProvides instant failover to prevent downtime\nLeverages intelligent orchestration for seamless operations\nEnsures systems stay online 24/7\n\nView Product\nServices\n\nWHAT WE OFFER\n\nAI Engineering\nPlatform Engineering\nFine-Tuning\nAdvanced RAG Pipeline\nInfrastructure Automation\nCloud Native Architecture\nInternet Of Things (IoT)\nCareers\nContact\nAI Infra Engineer – SRE (Kubernetes)\nJob Category: Software Engineering\nJob Type: Full Time\nJob Location: HybridRemote\n\nAbout the Role\n\nWe are a fast-growing AI infrastructure company building cutting-edge GPU cloud platforms and high-performance inference solutions that empower AI developers, startups, and enterprises worldwide. As we scale our global operations, we are looking for a skilled and hands-on AI Infra Engineer – SRE (Kubernetes) to join our Global Infrastructure team.\n\nRole Overview\n\nThis is a critical hands-on position focused on the reliability, performance, and operational excellence of large-scale, high-performance AI/ML GPU clusters in our data centers. As an AI Infra Engineer – SRE (Kubernetes), you will design, operate, and optimize Kubernetes-based infrastructure to ensure maximum uptime, efficiency, and scalability for demanding AI workloads. You will bring deep expertise in system-level troubleshooting, GPU cluster management, and automation to keep our platforms running at peak performance.\n\nKey Responsibilities\n\nDesign, build, and maintain scalable, production-grade AI/ML infrastructure using Kubernetes.\nProactively monitor GPU cluster health, performance, and utilization across compute, accelerators, storage, and networking layers, performing root-cause analysis and resolution.\nDevelop and implement automation for infrastructure provisionin",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Full Name",
+      "selector": "#awsm-applicant-name",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "email",
+      "label": "Email",
+      "selector": "#awsm-applicant-email",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "tel",
+      "label": "Phone",
+      "selector": "#awsm-applicant-phone",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "Cover Letter",
+      "selector": "#awsm-cover-letter",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "By using this form you agree with the storage and handling of your data by this website.",
+      "selector": "#awsm_form_privacy_policy",
+      "value": "yes",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "Upload CV/Resume",
+      "selector": "#awsm-application-file",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": false,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Home",
+      "selector": "[data-cviance-inspect=\"node-1778583974025-88aoezj0gt8\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/"
+    },
+    {
+      "text": "About",
+      "selector": "[data-cviance-inspect=\"node-1778583974025-aa60tp826zg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/about-us/"
+    },
+    {
+      "text": "Products",
+      "selector": "[data-cviance-inspect=\"node-1778583974025-nsu7onhk86s\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://career.berrybytes.com/career/ai-infra-engineer-sre-kubernetes/#"
+    },
+    {
+      "text": "Cloud",
+      "selector": "[data-cviance-inspect=\"node-1778583974025-lvf7mz4uajc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://01cloud.com/"
+    },
+    {
+      "text": "Agents",
+      "selector": "[data-cviance-inspect=\"node-1778583974025-azk6vhlqdp\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://ai.01cloud.com/"
+    },
+    {
+      "text": "Security",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-1xdr1ogomwe\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://01security.com/"
+    },
+    {
+      "text": "Sandbox",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-1pm6mrisg5m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://sandbox.01security.com/"
+    },
+    {
+      "text": "Compliance",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-0cuml5f29qij\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://compliance.01security.com/"
+    },
+    {
+      "text": "View Product",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-y4t0l05ela\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://01cloud.com/"
+    },
+    {
+      "text": "Services",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-8jr60pekbrw\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://career.berrybytes.com/career/ai-infra-engineer-sre-kubernetes/#"
+    },
+    {
+      "text": "Careers",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-l8618lrf6c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://career.berrybytes.com/"
+    },
+    {
+      "text": "Contact",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-27hruvt7vk3\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/contact/"
+    },
+    {
+      "text": "Submit",
+      "selector": "#awsm-application-submit-btn",
+      "type": "submit",
+      "automationId": "",
+      "tagName": "input",
+      "href": ""
+    },
+    {
+      "text": "Contact Us",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-x6gld2511k\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/contact/"
+    },
+    {
+      "text": "Home",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-fgv54dlepxa\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/"
+    },
+    {
+      "text": "About",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-lvihdfs05vh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/about-us/"
+    },
+    {
+      "text": "Careers",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-v76cx0lprni\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://career.berrybytes.com/"
+    },
+    {
+      "text": "Contact",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-pf4kzbpu1l\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/contact/"
+    },
+    {
+      "text": "AI Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-u57rhm72qvh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/ai-ml/"
+    },
+    {
+      "text": "Platform Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-3cg11w85mbj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/platform-engineering-services/"
+    },
+    {
+      "text": "Fine-Tuning",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-edn8wzddcat\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/finetuning/"
+    },
+    {
+      "text": "Advanced RAG Pipeline",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-0bg0diy8k4w9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/graph-rag/"
+    },
+    {
+      "text": "Infrastructure Automation",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-mnj6leeteoj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/infra-automation/"
+    },
+    {
+      "text": "Cloud Native Architecture",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-7aee81yqo8\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/cloud-native-architecture/"
+    },
+    {
+      "text": "Internet Of Things (IoT)",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-xmuq5x0sxck\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/iot/"
+    },
+    {
+      "text": "Terms & Conditions",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-ydrcx7sr4k7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/terms/"
+    },
+    {
+      "text": "Cookie Policy",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-cf3cedq905\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/cookie/"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778583974026-aomylrzk8o\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://berrybytes.com/privacy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [
+    {
+      "text": "",
+      "hasFileInput": true,
+      "fileInputSelector": "#awsm-application-file"
+    }
+  ],
+  "activeModal": false
+}

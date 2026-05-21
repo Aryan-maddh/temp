@@ -1,0 +1,79 @@
+{
+  "url": "https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Wilmington-NC/Product-Marketing-Manager_R6161",
+  "title": "Senior Product Marketing Manager",
+  "text": "Start Your Application\nSenior Product Marketing Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Wilmington%2C-NC/Product-Marketing-Manager_R6161/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Wilmington%2C-NC/Product-Marketing-Manager_R6161/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Wilmington%2C-NC/Product-Marketing-Manager_R6161/apply/useMyLastApplication"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://applywithlinkedin.myworkdaygadgets.com/awli/",
+      "title": "applyWithLinkedIn",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nSenior Product Marketing Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nSenior Product Marketing Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nSenior Product Marketing Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778500154913-p1p97iu7pop\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nSenior Product Marketing Manager\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778500154914-jxok2f8eu7j\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

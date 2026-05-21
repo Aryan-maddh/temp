@@ -1,0 +1,19 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+</head>
+<body id="awliPlugin">
+    <script>!function(e){var t={};function a(i){if(t[i])return t[i].exports;var n=t[i]={i:i,l:!1,exports:{}};return e[i].call(n.exports,n,n.exports,a),n.l=!0,n.exports}a.m=e,a.c=t,a.d=function(e,t,i){a.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:i})},a.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},a.t=function(e,t){if(1&t&&(e=a(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var i=Object.create(null);if(a.r(i),Object.defineProperty(i,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var n in e)a.d(i,n,function(t){return e[t]}.bind(null,n));return i},a.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(t,"a",t),t},a.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},a.p="dist/",a(a.s="./src/awli/awli-main.js")}({"./src/awli/awli-main.js":
+/*!*******************************!*\
+  !*** ./src/awli/awli-main.js ***!
+  \*******************************/
+/*! no static exports found */function(module,exports,__webpack_require__){"use strict";eval('var awli=__webpack_require__(/*! ./awli */ "./src/awli/awli.js");window.awli=awli;\n\n//# sourceURL=webpack:///./src/awli/awli-main.js?')},"./src/awli/awli.js":
+/*!**************************!*\
+  !*** ./src/awli/awli.js ***!
+  \**************************/
+/*! no static exports found */function(module,exports,__webpack_require__){"use strict";eval('var awli={};(function(){function a(){var a=document.createElement("div");a.setAttribute("name","widget-holder"),d.awliV3&&(a.style.justifyContent="center",a.style.display="flex");var b=document.createElement("script");b.setAttribute("type","text/javascript"),b.setAttribute("src","https://www.linkedin.com/mjobs/awli/awliWidget"),a.appendChild(b);var e=document.createElement("script");return e.setAttribute("type","IN/AwliWidget"),e.setAttribute("data-api-key",d.clientId),e.setAttribute("data-allow-sign-in","true"),e.setAttribute("data-callback-method",c(d.dataMode)),e.setAttribute("data-color",d.dataColor||"blue"),e.setAttribute("data-company-job-code",d.jobCode),e.setAttribute("data-integration-context",d.integrationContext),e.setAttribute("data-mode",d.dataMode),e.setAttribute("data-size",d.dataSize||"medium"),a.appendChild(e),a}function b(a){return e=a.data.sourceDomain,{clientId:a.data.apiKey,dataColor:a.data.dataColor,dataMode:a.data.dataMode,dataSize:a.data.dataSize,integrationContext:a.data.integrationContext,jobCode:a.data.jobCode,modelId:a.data.modelId,awliV3:a.data.awliV3}}function c(a){if("BUTTON_DATA"===a||"CONVERSION"===a)return"awli.profileCallBack"}var d,e,f=!1;awli.initConfig=function(){window.addEventListener("message",function(c){if(!f&&(d=b(c),void 0!==d)){var e=document.getElementById("awliPlugin");e.appendChild(a()),f=!0}})},awli.profileCallBack=function(a){if(e!==void 0){var b={profileData:a,modelId:d.modelId};window.parent.postMessage(JSON.stringify(b),e)}}})(awli),module.exports=awli;\n\n//# sourceURL=webpack:///./src/awli/awli.js?')}});</script>
+    <script>
+        window.onload = awli.initConfig();
+    </script>
+
+
+</body></html>

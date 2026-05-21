@@ -1,0 +1,66 @@
+{
+  "url": "https://beckgroup.wd12.myworkdayjobs.com/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply",
+  "title": "Finance Systems & Data Analyst",
+  "text": "Skip to main content\nJoin Us\nSign In\nSearch for Jobs\nStart Your Application\nFinance Systems & Data Analyst\nAutofill with Resume\nApply Manually\nUse My Last Application\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://beckgroup.wd12.myworkdayjobs.com/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://beckgroup.wd12.myworkdayjobs.com/en-US/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://beckgroup.wd12.myworkdayjobs.com/en-US/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://beckgroup.wd12.myworkdayjobs.com/en-US/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply/useMyLastApplication"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://applywithlinkedin.myworkdaygadgets.com/awli/",
+      "title": "applyWithLinkedIn",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,108 @@
+{
+  "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply",
+  "title": "Senior Data & Automation Engineer (IT Ops)",
+  "text": "Skip to main content\nSign In\nPacific Life Careers\nSearch for Jobs\nIntroduce Yourself\nStart Your Application\nSenior Data & Automation Engineer (IT Ops)\nAutofill with Resume\nApply Manually\nUse My Last Application\nFollow Us\nPrivacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Pacific Life Careers",
+      "selector": "[data-automation-id=\"navigationItem-Pacific Life Careers\"]",
+      "type": "",
+      "automationId": "navigationItem-Pacific Life Careers",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Introduce Yourself",
+      "selector": "[data-automation-id=\"navigationItem-Introduce Yourself\"]",
+      "type": "",
+      "automationId": "navigationItem-Introduce Yourself",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply/useMyLastApplication"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778224473295-ulm01cg1drq\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/pacificlife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778224473295-mappihteqe9\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/pacificlife"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778224473295-4e4gbf6q0zc\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/pacific-life/life/unleash-your-potential/"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.pacificlife.com/content/dam/paclife/crp/public/Workday/PacificLife_PrivacyNotice.pdf"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

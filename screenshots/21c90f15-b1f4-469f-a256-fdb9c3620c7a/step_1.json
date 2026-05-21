@@ -1,0 +1,52 @@
+{
+  "url": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nEnglish\nSettings\njohn@gmail.com\nSoftware Engineer\nYou've already applied for this job.\nView My Applications",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "View My Applications",
+      "selector": "[data-cviance-inspect=\"node-1779103737801-tr70cx626vn\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

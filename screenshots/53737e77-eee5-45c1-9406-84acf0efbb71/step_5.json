@@ -1,0 +1,257 @@
+{
+  "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply",
+  "title": "Senior Data & Automation Engineer (IT Ops)",
+  "text": "Skip to main content\nSettings\nabhy@gmail.com\nPacific Life Careers\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSenior Data & Automation Engineer (IT Ops)\ncompleted step 1 of 5\nMy Information\ncompleted step 2 of 5\nMy Experience\ncurrent step 3 of 5\nApplication Questions\nstep 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nApplication Questions\n* Indicates a required field\n\nAre you currently or have you previously been employed by Deloitte?\n\nThis information will not be used to contact Deloitte during your application process without your knowledge. We collect this information to minimize external auditor independence issues. Your Talent Acquisition Partner will discuss our employment verification process with you directly should you be considered further in the interview process.*\n\nNo\n\nWill you now or in the future require immigration sponsorship in order to work in the USA (for example, H-1B, CPT/OPT, TN)?*\n\nNo\n\nDo you have any relatives employed by Pacific Life?*\n\nNo\n\nWhat is your desired salary?*\n\nAre you open to relocation?*\n\nYes\nBack\nSave and Continue\nFollow Us\nPrivacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Are you currently or have you previously been employed by Deloitte? This information will not be used to contact Deloitte during your application process without your knowledge. We collect this information to minimize external auditor independence issues. Your Talent Acquisition Partner will discuss our employment verification process with you directly should you be considered further in the interview process.",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167d577c4551a0001",
+      "value": "cbcef10dfc98019776791c245a01628a",
+      "selectedText": "No",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Will you now or in the future require immigration sponsorship in order to work in the USA (for example, H-1B, CPT/OPT, TN)?",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167deab245ecd0000",
+      "value": "91620f70fc8a100167db40e5d7610001",
+      "selectedText": "No",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Do you have any relatives employed by Pacific Life?",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167d5785e73f70000",
+      "value": "663c87ce3e06017d71b6ee320302e983",
+      "selectedText": "No",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "What is your desired salary?",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167d5785e73f70004",
+      "value": "40000",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Are you open to relocation?",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167d5785e73f70005",
+      "value": "cd3f9fc9336d100201582f45b4700000",
+      "selectedText": "Yes",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "abhy@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Pacific Life Careers",
+      "selector": "[data-automation-id=\"navigationItem-Pacific Life Careers\"]",
+      "type": "",
+      "automationId": "navigationItem-Pacific Life Careers",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "No",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167d577c4551a0001",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "No",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167deab245ecd0000",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "No",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167d5785e73f70000",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Yes",
+      "selector": "#primaryQuestionnaire--91620f70fc8a100167d5785e73f70005",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-z9dh5seojm\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/pacificlife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-ncl1fg792\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/pacificlife"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778224498285-vv63pcee89l\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/pacific-life/life/unleash-your-potential/"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.pacificlife.com/content/dam/paclife/crp/public/Workday/PacificLife_PrivacyNotice.pdf"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

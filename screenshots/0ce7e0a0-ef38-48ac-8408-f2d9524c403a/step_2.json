@@ -1,0 +1,92 @@
+{
+  "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Van-Horn-TX/Test-Engineer-I--TX----Early-Career--2026-Starts-_R58490/apply",
+  "title": "Test Engineer I (TX) - Early Career (2026 Starts)",
+  "text": "Skip to main content\nSign In\nSearch for Jobs\nStart Your Application\nTest Engineer I (TX) - Early Career (2026 Starts)\n\nWithdrawal of your application will result in the inability to re-apply to the same job via the careers site.\n\nAutofill with Resume\nApply Manually\nUse My Last Application\nFollow Us\nBlue Origin Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Van-Horn-TX/Test-Engineer-I--TX----Early-Career--2026-Starts-_R58490/apply"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Van-Horn-TX/Test-Engineer-I--TX----Early-Career--2026-Starts-_R58490/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Van-Horn-TX/Test-Engineer-I--TX----Early-Career--2026-Starts-_R58490/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Van-Horn-TX/Test-Engineer-I--TX----Early-Career--2026-Starts-_R58490/apply/useMyLastApplication"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778568677614-oro4q23df4\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778568677614-hefbp5om7z\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/blueorigin?lang=en"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778568677614-ng3t3gpw3t\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/blue-origin"
+    },
+    {
+      "text": "Blue Origin Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.blueorigin.com/privacy-policy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

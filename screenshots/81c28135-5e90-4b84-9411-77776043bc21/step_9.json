@@ -1,0 +1,300 @@
+{
+  "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467/apply/applyManually",
+  "title": "Software Development Engineer I - Early Career (2026 Starts)",
+  "text": "Skip to main content\nSettings\nnah@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSoftware Development Engineer I - Early Career (2026 Starts)\ncompleted step 1 of 7\nMy Information\ncurrent step 2 of 7\nMy Experience\nstep 3 of 7\nApplication Questions 1 of 2\nstep 4 of 7\nApplication Questions 2 of 2\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nMy Experience\n* Indicates a required field\nWork Experience\nAdd\nEducation\n\nPlease type all or part of your School name and press Enter to select. If your School does not appear in the drop-down, type Other and press Enter to move forward.\n\nEducation 1\nSchool or University*\n0 items selected\nDegree*\nSelect One\nField of Study\n1 item selected, Accounting\n\nAccounting\n\nOverall Result (GPA)*\nFrom\ncurrent value is 2026\n2026\nTo (Actual or Expected)\ncurrent value is 2026\n2026\nAdd Another\nResume/CV\n\nUpload a file (5MB max)*\nDrop files here\nor\nSelect files\n\nWebsites\nAdd any relevant websites.\nAdd\nBack\nSave and Continue\nFollow Us\nBlue Origin Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "School or University",
+      "selector": "#education-22--school",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "0 items selected",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Degree",
+      "selector": "#education-22--degree",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Field of Study",
+      "selector": "#education-22--fieldOfStudy",
+      "value": "",
+      "selectedText": "Accounting",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "1 item selected, Accounting",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Overall Result (GPA)",
+      "selector": "#education-22--gradeAverage",
+      "value": "8",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "From",
+      "selector": "#education-22--firstYearAttended-dateSectionYear-input",
+      "value": "2026",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionYear-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "current value is 2026",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "To (Actual or Expected)",
+      "selector": "#education-22--lastYearAttended-dateSectionYear-input",
+      "value": "2026",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionYear-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "current value is 2026",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "Upload a file (5MB max)",
+      "selector": "[data-automation-id=\"file-upload-input-ref\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "file-upload-input-ref",
+      "isHidden": true,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467/apply/applyManually"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "nah@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779250949641-mtm4i012y7t\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#education-22--degree",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "The field will alphabetically return the first 100 results and can also return specified matches.",
+      "selector": "[data-cviance-inspect=\"node-1779250949642-broqizqr289\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add Another",
+      "selector": "[data-cviance-inspect=\"node-1779250949642-46rx30pn71\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select files",
+      "selector": "#resumeAttachments--attachments",
+      "type": "button",
+      "automationId": "select-files",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Add",
+      "selector": "[data-cviance-inspect=\"node-1779250949642-bupjtugj3sa\"]",
+      "type": "",
+      "automationId": "add-button",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779250887898-9vo1vot72yd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779250887898-dcubh0pjj0m\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/blueorigin?lang=en"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779250887898-95lh785hbk\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/blue-origin"
+    },
+    {
+      "text": "Blue Origin Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.blueorigin.com/privacy-policy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

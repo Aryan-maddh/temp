@@ -1,0 +1,116 @@
+{
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398/apply/applyManually",
+  "title": "Sign In",
+  "text": "Skip to main content\nCAREERS AT NVIDIA\nSign In\nHome\nSearch for Jobs\nBack to Job Posting\nApplied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nSign In\nSign in with Google\nOR\nSign in with email\nFollow Us\nApplicant Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398/apply/applyManually"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Home",
+      "selector": "[data-automation-id=\"navigationItem-Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with Google",
+      "selector": "[data-automation-id=\"GoogleSignInButton\"]",
+      "type": "button",
+      "automationId": "GoogleSignInButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with email",
+      "selector": "[data-automation-id=\"SignInWithEmailButton\"]",
+      "type": "",
+      "automationId": "SignInWithEmailButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778570906317-mslhorky2va\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778570906317-lvgbomyotok\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/NVIDIA"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778570906317-4867gn8ln8t\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778570906317-v00ssi4qcin\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/nvidia"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778570906317-lr8tnvpj8z\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/nvidia"
+    },
+    {
+      "text": "Applicant Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

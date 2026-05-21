@@ -1,0 +1,369 @@
+{
+  "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs",
+  "title": "Search for Jobs",
+  "text": "Skip to main content\nManulife and John Hancock Careers\nEnglish\nSign In\nSearch for Jobs\nSearch\nFilters\nDistance or Location\nTime Type\nJob Category\nMore\nSearch for Jobs page is loaded\n\n683 JOBS FOUND\n\nBusiness Process Senior Associate\nlocations\nQuezon City\nposted on\nPosted Today\nJR26031859Quezon City\nJH Life Inforce Consulting\nlocations\nQuezon City\nposted on\nPosted Today\nJR26021469Quezon City\nData Scientist\nlocations\nChengdu, Sichuan\nposted on\nPosted Today\nJR26050309Chengdu\nMarketing Manager\nlocations\nDist.7, Ho Chi Minh\nposted on\nPosted Today\nJR26050527Dist.7\nAssistant Manager, Project Management Office\nlocations\nDist.7, Ho Chi Minh\nposted on\nPosted Today\nJR26041590Dist.7\nManulife Co-op 6-Month Internship Program – Global Information Risk Management (2026 June/July Intake)\nlocations\n2 Locations\nposted on\nPosted Today\nJR26031584Hong Kong\nBrand Intern\nlocations\nKuala Lumpur, Wilayah Persekutuan Kuala Lumpur\nposted on\nPosted Today\nJR26041979Kuala Lumpur\n(Senior) Associate, Global Manager Research Asia\nlocations\nHong Kong\nposted on\nPosted Today\nJR26050209Hong Kong\nPenetration Tester\nlocations\nQuezon City\nposted on\nPosted Today\nJR26050643Quezon City\nSenior Disability Administrator\nlocations\nQuezon City\nposted on\nPosted Today\nJR26042058Quezon City\nSenior Administrator, Sales Promotion & Event Management (MIS & Projects)\nlocations\nMacau\nposted on\nPosted Today\nJR26040436Macau\nSoftware Engineer (12 Months)\nlocations\nHong Kong\nposted on\nPosted Today\nJR26041157Hong Kong\nOfficer, Customer Relations (12 Months)\nlocations\nHong Kong, Manulife Financial Centre\nposted on\nPosted Today\nJR26031586Hong Kong\nSenior Manager / Associate Director, Customer Relations\nlocations\nHong Kong\nposted on\nPosted Today\nJR25110596Hong Kong\n个险培训，湖北分公司\nlocations\nWuhan, Hubei\nposted on\nPosted Today\nJR25091998Wuhan\nAI Engineer\nlocations\n2 Locations\nposted on\nPosted Today\nJR26010641Quezon City\nAssistant Manager, Business Analyst - IT\nlocations\nShanghai\nposted on\nPosted 2 Days Ago\nJR26050519\nSpecialist, Busin",
+  "fields": [
+    {
+      "type": "text",
+      "label": "keywordSearchInput",
+      "selector": "#v8gl2",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search for jobs or keywords",
+      "automationId": "keywordSearchInput",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search",
+      "selector": "#a290db74-d9b8-49fe-8053-cec727724e04",
+      "type": "submit",
+      "automationId": "keywordSearchButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Distance or Location",
+      "selector": "#v8gl4",
+      "type": "",
+      "automationId": "distanceLocation",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Time Type",
+      "selector": "#v8gl5",
+      "type": "",
+      "automationId": "employmentType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Category",
+      "selector": "#v8gl6",
+      "type": "",
+      "automationId": "jobFamilyGroup",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "More",
+      "selector": "#v8gl7",
+      "type": "",
+      "automationId": "more",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Business Process Senior Associate",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-vv74prf8sel\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Business-Process-Senior-Associate_JR26031859-1"
+    },
+    {
+      "text": "JH Life Inforce Consulting",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-sz1eer24tq\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/JH-Life-Inforce-Consulting_JR26021469"
+    },
+    {
+      "text": "Data Scientist",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-co5igwvbmkb\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Chengdu-Sichuan/Data-Scientist_JR26050309"
+    },
+    {
+      "text": "Marketing Manager",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-4t27o0fo5bv\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Dist7-Ho-Chi-Minh/Marketing-Manager_JR26050527"
+    },
+    {
+      "text": "Assistant Manager, Project Management Office",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-z5krxz8734c\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Dist7-Ho-Chi-Minh/Assistant-Manager--Project-Management-Office_JR26041590"
+    },
+    {
+      "text": "Brand Intern",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-sj7o3ep994\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Brand-Intern_JR26041979"
+    },
+    {
+      "text": "(Senior) Associate, Global Manager Research Asia",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-x0dzhvalmu\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Hong-Kong/Senior-Associate---Associate-Director--Global-Manager-Research-Asia_JR26050209"
+    },
+    {
+      "text": "Penetration Tester",
+      "selector": "[data-cviance-inspect=\"node-1778499860093-z8rzycqnvel\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Penetration-Tester_JR26050643"
+    },
+    {
+      "text": "Senior Disability Administrator",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-ocm4p8d6os\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Senior-Disability-Administrator_JR26042058"
+    },
+    {
+      "text": "Senior Administrator, Sales Promotion & Event Management (MIS & Projects)",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-n6xoxoq036k\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Macau/Senior-Administrator--Sales-Promotion---Event-Management--MIS---Projects-_JR26040436-1"
+    },
+    {
+      "text": "Software Engineer (12 Months)",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-qwtit3ehbp\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Hong-Kong/Business-Systems-Analyst--12-Months-_JR26041157"
+    },
+    {
+      "text": "Officer, Customer Relations (12 Months)",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-sp2mmsmyt3\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Hong-Kong-Manulife-Financial-Centre/Officer--Customer-Service--12-Months-_JR26031586-1"
+    },
+    {
+      "text": "Senior Manager / Associate Director, Customer Relations",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-sossbtfgcxf\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Hong-Kong/Senior-Manager---Associate-Director--Customer-Relations_JR25110596"
+    },
+    {
+      "text": "个险培训，湖北分公司",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-mcxi0k7evb\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Wuhan-Hubei/-_JR25091998"
+    },
+    {
+      "text": "AI Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-skialety08\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/AI-Engineer_JR26010641"
+    },
+    {
+      "text": "Assistant Manager, Business Analyst - IT",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-yqzgjjtxy3g\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Shanghai/Assistant-Manager--Business-Analyst---IT_JR26050519"
+    },
+    {
+      "text": "Specialist, Business Analyst - IT",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-5lfy9ar3s25\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Shanghai/Specialist---Business-Analyst---IT_JR26050518"
+    },
+    {
+      "text": "Agency Officer-Liaoning Branch",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-pvi6wvsdc28\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Shenyang-Liaoning/Agency-Officer-Liaoning-Branch_JR26050390"
+    },
+    {
+      "text": "Assistant Manager, Asia Finance Transformation",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-h0p24j4x1b\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Assistant-Manager--Asia-Finance-Transformation_JR26031062"
+    },
+    {
+      "text": "1",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-og4eos16apg\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-7w7nn0db3q2\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-a7zm8z140nu\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "4",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-mcf2sxtoas\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-cbfms1rze3r\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "next",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-1d5km1wyu6h\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "https://www.manulife.com/",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-8jcyd0p8vuq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.manulife.com/"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 1",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Play video ",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-z8rxqzj7ixo\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-ehrsymzrbp\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/manulife-financial"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-oloowzdhgn\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.twitter.com/manulife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-oal9fln2ut\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/Manulife"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-lc9b1jfkq88\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/ManulifeFinancial"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778499860094-unlkjtineo\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.ca/Overview/Working-at-Manulife-EI_IE9373.11%2C19.htm"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

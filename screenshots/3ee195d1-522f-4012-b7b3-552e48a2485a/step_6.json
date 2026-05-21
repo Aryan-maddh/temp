@@ -1,0 +1,385 @@
+{
+  "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs",
+  "title": "Search for Jobs",
+  "text": "Skip to main content\nManulife and John Hancock Careers\nEnglish\nSign In\nSearch for Jobs\nSearch\nFilters\nDistance or Location\nTime Type\nJob Category\nMore\nSearch for Jobs page is loaded\n\n683 JOBS FOUND\n\nTeam Lead, Testing COE\nlocations\n2 Locations\nposted on\nPosted 3 Days Ago\nJR26041143Quezon City\nFinance Control Analyst\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR26041170Quezon City\nRetirement Customer Correspondence\nlocations\nJakarta\nposted on\nPosted 3 Days Ago\nJR26041317Jakarta\nFinancial Reporting Analyst\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR26050203Quezon City\nScrum Master\nlocations\nHong Kong\nposted on\nPosted 3 Days Ago\nJR26041973Hong Kong\nBPD Marketing-Wenzhou CSB, Zhejiang Branch\nlocations\nWenzhou, Zhejiang\nposted on\nPosted 3 Days Ago\nJR26041148Wenzhou\nWorkforce Data Coordinator\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR26041411Quezon City\nAnalyst, Assessment Claims\nlocations\nDist.7, Ho Chi Minh\nposted on\nPosted 3 Days Ago\nJR26032016Dist.7\nBusiness Process Senior Associate\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR26041252Quezon City\nCompliance Business Systems Specialist\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR25080160Quezon City\nAssistant Manager - Customer Services\nlocations\nHong Kong\nposted on\nPosted 3 Days Ago\nJR26050350Hong Kong\nCustomer Advocacy Reporting & Insights Specialist\nlocations\nMakati City\nposted on\nPosted 3 Days Ago\nJR26050514Makati City\nBusiness Process Senior Associate\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR26041808Quezon City\nDirector, Finance Planning, Analysis & Advisory (FPA&A) Retail\nlocations\nHong Kong\nposted on\nPosted 3 Days Ago\nJR26041410Hong Kong\nAudit Associate Manager\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR25080086Quezon City\nSoftware Technical Analyst - Databricks\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR26032012Quezon City\nAssociate Software Technical Analyst - Databricks\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR25120530Quezon City\n",
+  "fields": [
+    {
+      "type": "text",
+      "label": "keywordSearchInput",
+      "selector": "#thvf2",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search for jobs or keywords",
+      "automationId": "keywordSearchInput",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search",
+      "selector": "#fbff1614-16ae-4a89-b488-07d766560b59",
+      "type": "submit",
+      "automationId": "keywordSearchButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Distance or Location",
+      "selector": "#thvf4",
+      "type": "",
+      "automationId": "distanceLocation",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Time Type",
+      "selector": "#thvf5",
+      "type": "",
+      "automationId": "employmentType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Category",
+      "selector": "#thvf6",
+      "type": "",
+      "automationId": "jobFamilyGroup",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "More",
+      "selector": "#thvf7",
+      "type": "",
+      "automationId": "more",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Team Lead, Testing COE",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-ta69r9a7qu\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Team-Lead--Testing-COE_JR26041143-1"
+    },
+    {
+      "text": "Finance Control Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-ju84o4scsga\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Finance-Control-Analyst_JR26041170"
+    },
+    {
+      "text": "Retirement Customer Correspondence",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-qjhlgqmdzfo\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Jakarta/Retirement-Customer-Correspondence_JR26041317-1"
+    },
+    {
+      "text": "Financial Reporting Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-togrdds447n\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Financial-Reporting-Analyst_JR26050203"
+    },
+    {
+      "text": "Scrum Master",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-lmdrhi5a45n\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Hong-Kong/Scrum-Master_JR26041973-1"
+    },
+    {
+      "text": "BPD Marketing-Wenzhou CSB, Zhejiang Branch",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-nqtd32de4m\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Wenzhou-Zhejiang/-_JR26041148"
+    },
+    {
+      "text": "Workforce Data Coordinator",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-kiqed21rqx\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Workforce-Data-Coordinator_JR26041411"
+    },
+    {
+      "text": "Analyst, Assessment Claims",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-61yvuuvidnw\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Dist7-Ho-Chi-Minh/Specialist--Assessment-Claims_JR26032016-1"
+    },
+    {
+      "text": "Business Process Senior Associate",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-34bauvkg2hp\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Business-Process-Senior-Associate_JR26041252"
+    },
+    {
+      "text": "Compliance Business Systems Specialist",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-cx9gs0ioeja\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Compliance-Business-Systems-Specialist_JR25080160"
+    },
+    {
+      "text": "Assistant Manager - Customer Services",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-0j6xt0tmw7j\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Hong-Kong/Assistant-Manager---Customer-Services_JR26050350-2"
+    },
+    {
+      "text": "Customer Advocacy Reporting & Insights Specialist",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-2ixkublhtd3\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Makati-City/Customer-Advocacy-Reporting---Insights-Specialist_JR26050514-1"
+    },
+    {
+      "text": "Business Process Senior Associate",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-f5ewfqfh2f4\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Business-Process-Senior-Associate_JR26041808-1"
+    },
+    {
+      "text": "Director, Finance Planning, Analysis & Advisory (FPA&A) Retail",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-n2t59bvstd\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Hong-Kong/Director--Finance-Planning--Analysis---Advisory--FPA-A--Retail_JR26041410"
+    },
+    {
+      "text": "Audit Associate Manager",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-ktq8fn4st9\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Audit-Associate-Manager_JR25080086"
+    },
+    {
+      "text": "Software Technical Analyst - Databricks",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-qnha57ulzt\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Software-Technical-Analyst_JR26032012"
+    },
+    {
+      "text": "Associate Software Technical Analyst - Databricks",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-bof3yzhz8z\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Associate-Software-Technical-Analyst_JR25120530"
+    },
+    {
+      "text": "Associate Software Technical Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-b1b04szyyia\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Associate-Software-Technical-Analyst_JR26031024-1"
+    },
+    {
+      "text": "Shareholder Services Specialist",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-qn0skxelfhk\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Shareholder-Services-Specialist_JR26041469-1"
+    },
+    {
+      "text": "Coordinator, Behavioural Insurance",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-seebp9cnpb\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Coordinator--Behavioural-Insurance_JR26041553-1"
+    },
+    {
+      "text": "previous",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-vcq3uy3oc9\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-c3a13yfjusb\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-7b9xs48tzyi\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-8qay3oekk1i\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "4",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-4gklwlxqu9\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-9ctw89gqdak\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "next",
+      "selector": "[data-cviance-inspect=\"node-1778499563074-m0qgutda8a\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "https://www.manulife.com/",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-5ptz76n5ttt\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.manulife.com/"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\34 7",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Play video ",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-mt9bx7i4v7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-ua4c8iy10p\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/manulife-financial"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-5grzfm04ue\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.twitter.com/manulife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-4p8ovglwhet\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/Manulife"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-rc0s0knwwf\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/ManulifeFinancial"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-lfii8xmtc7\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.ca/Overview/Working-at-Manulife-EI_IE9373.11%2C19.htm"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

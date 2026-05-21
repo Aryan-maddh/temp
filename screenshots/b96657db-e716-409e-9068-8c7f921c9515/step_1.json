@@ -1,0 +1,132 @@
+{
+  "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Software-Engineer-I_JR4072",
+  "title": "Software Engineer I",
+  "text": "Skip to main content\nSettings\npankaj@gmail.com\nIntegrity Careers Home Page\nSearch for Jobs\nCandidate Home\nJob Alerts\nSoftware Engineer I page is loaded\nSoftware Engineer I\nContinue Application\nlocations\nUrbandale, IA\ntime type\nFull time\nposted on\nPosted 4 Days Ago\njob requisition id\nJR4072\n\nWhat You'll Do\n\nBuild and maintain full-stack web applications using Blazor (Server and/or WebAssembly) and ASP.NET Core\n\nDesign and implement RESTful APIs, background services, and data access layers using .NET 8+ and Entity Framework Core\n\nWrite and maintain automated tests (unit, integration, and end-to-end) to ensure code quality and prevent regressions\n\nDeploy, monitor, and troubleshoot applications hosted on Microsoft Azure (App Services, Azure SQL, Azure Functions, Storage, etc.)\n\nParticipate in CI/CD pipeline development and maintenance using GitHub Actions\n\nCollaborate with product, design, and fellow engineers through code reviews, architecture discussions, and sprint ceremonies\n\nContribute to technical documentation and help establish team standards and best practices\n\nInvestigate and resolve production issues, balancing speed with long-term code health\n\nWhat We're Looking For\n\nRequired:\n\n0-3 years of professional software development experience. Bachelors or Associates degree in Computer Science.\n\nStrong communication skills and the ability to pair with colleagues to gain relevant experience.\n\nProficiency with a modern programming language (python, c#, java, Go, etc)\n\nFront-end fundamentals: HTML, CSS, and JavaScript/TypeScript\n\nFamiliarity with relational databases\n\n \n\nNice to Have:\n\nExperience with GitHub Actions or CI/CD workflows\n\nFamiliarity with containerization (Docker) and orchestration basics\n\nExposure to messaging systems (Azure Service Bus, RabbitMQ)\n\nExperience with identity and access management (Azure AD / Entra ID, OAuth/OIDC)\n\nUnderstanding of clean architecture, CQRS, or domain-driven design patterns\n\nAny Azure certifications (AZ-900, AZ-204, etc.)\n\nA",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Software-Engineer-I_JR4072"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "pankaj@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Integrity Careers Home Page",
+      "selector": "[data-automation-id=\"navigationItem-Integrity Careers Home Page\"]",
+      "type": "",
+      "automationId": "navigationItem-Integrity Careers Home Page",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Continue Application",
+      "selector": "[data-automation-id=\"continueButton\"]",
+      "type": "",
+      "automationId": "continueButton",
+      "tagName": "a",
+      "href": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale%2C-IA/Software-Engineer-I_JR4072/apply"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 6",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779119512723-wis1cn6qohd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Integrity-Marketing-Group-EI_IE873106.11,36.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779119512723-zdeyrdb9eih\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/IntegrityMG"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779119512723-6xjqxykm9ax\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/IntegrityMG"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779119512723-zd63zdrd58\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCXgwXbY_fkDjn8GjdsnfZWw"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779119512723-8gh8rqbbh9\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/integrity-marketing./"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.integritymarketing.com/privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

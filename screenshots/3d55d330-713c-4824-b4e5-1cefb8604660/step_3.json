@@ -1,0 +1,100 @@
+{
+  "url": "https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Remote---USA/Software-Engineer_R24398",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nEnglish\nSign In\nSoftware Engineer page is loaded\nSoftware Engineer\nApply\nlocations\nRemote - USA\ntime type\nFull time\nposted on\nPosted 4 Days Ago\njob requisition id\nR24398\n\nWe inspire purpose-filled living that brings joy to the modern home. With a team of more than 8,000 associates spanning 130 store and distribution locations across the U.S. and Canada, we achieve together, drive results and innovate to inspire. Drawn together by a shared passion for our customers and a spirit of fun, we deliver high-quality home furnishings that are expertly designed, responsibly sourced and bring beauty and function to people’s homes. From the day we opened our first store in Chicago in 1962 to the digital innovations that engage millions of customers today, our iconic brand is nearly 60 years in the making—and our story is still unfolding.\n\n \n\nWe are seeking an experienced and proactive Software Engineer to take a significant role in designing, developing, and delivering robust and scalable software solutions for our Customer Care team. You will tackle complex technical challenges and contribute to the technical direction of our products. Your expertise will be crucial in driving innovation and ensuring the quality and performance of our software.\n\n \n\nThis position is fully remote\n\nThis role is an Individual Contributor\n\nA day in the life as a Software Engineer...\n\nDesign, develop, test, and deploy software features and enhancements with a moderate level of autonomy within an iterative development process\n\nParticipate in agile ceremonies to contribute to effective sprint planning, transparent communication, and the successful delivery of sprint goals\n\nContribute to the technical design of software components and systems\n\nParticipate actively in code reviews, providing and receiving constructive feedback\n\nWork closely with product managers and other cross-functional team members to deeply understand user stories and deliver valuable solutions in alignment with",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Remote---USA/Software-Engineer_R24398"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Remote---USA/Software-Engineer_R24398/apply"
+    },
+    {
+      "text": "Lead Software Engineer, API and Backend",
+      "selector": "[data-cviance-inspect=\"node-1778850431840-aewvb610jh8\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Lead-Software-Engineer--API-and-Backend_R24097"
+    },
+    {
+      "text": "Senior Software Engineer, Gift Registry",
+      "selector": "[data-cviance-inspect=\"node-1778850431840-c2pnm2owhu\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---Illinois/Senior-Software-Engineer--Gift-Registry_R23712"
+    },
+    {
+      "text": "Senior Systems Engineer",
+      "selector": "[data-cviance-inspect=\"node-1778850431840-r6dvgoudi0q\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---Illinois/Senior-Systems-Engineer_R23756"
+    },
+    {
+      "text": "View All 4 Jobs",
+      "selector": "[data-automation-id=\"toggle-all-jobs\"]",
+      "type": "button",
+      "automationId": "toggle-all-jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 8",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "https://jobs.crateandbarrel.com/benefits",
+      "selector": "[data-cviance-inspect=\"node-1778850431840-247ckd82cnd\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.crateandbarrel.com/benefits"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\32 0",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

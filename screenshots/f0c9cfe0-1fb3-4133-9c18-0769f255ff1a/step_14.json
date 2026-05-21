@@ -1,0 +1,92 @@
+{
+  "url": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635/apply/applyManually",
+  "title": "UX/UI Designer- REMOTE",
+  "text": "Skip to main content\nEnglish\nSettings\nfaizan@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nUX/UI Designer- REMOTE\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncompleted step 3 of 6\nApplication Questions\ncompleted step 4 of 6\nVoluntary Disclosures\ncompleted step 5 of 6\nSelf Identify\ncurrent step 6 of 6\nReview\nReview\nMy Information\nHow Did You Hear About Us?\nLinkedIn\nHave you worked at Ryder before?\nNo\nLegal Name\nfaizan saikh (faizan saikh)\nI have a preferred name\nNo\nAddress\nSWT\nAhmedabad- 789654\nIndia\nEmail Address\nfaizan@gmail.com\nPhone\n+91 78965 41237 (Mobile)\nMy Experience\nWork Experience\nWork Experience 1\nJob Title\nSoftware Engineer\nCompany\nPrevious Employer\nLocation\nPakwan\nI currently work here\nNo\nFrom\n05/2026\nTo\n05/2026\nRole Description\nDeveloped and maintained software applications.\nEducation\nEducation 1\nSchool or University\nGujarat University\nDegree\nB.S.C.\nField of Study\n* General High School Education\nSkills\nResume/CV\n\n4f8eb44e-0851-4d76-8304-5904bc9fe4ba.pdf\n280.71 KB\n\nApplication Questions\n\nAre you currently authorized to work in the United States on a full-time basis for any employer?*\n\nYes\n\nWill you (now or in the future) require any type of employment visa sponsorship (i.e., H-1B visa)?*\n\nYes\n\nAre you currently a Ryder employee?*\n\nNo\n\nHave you ever worked for Ryder?*\n\nNo\n\nMay we text your mobile phone?*\n\nYes\n\nDo you have a family member who works at Ryder?\n\nThe definition of family member is as follows: spouse, domestic partner, a person with whom the employee has a non-platonic relationship, persons related by blood, adoption or marriage to the employee (including in-laws, children, parents, siblings, grandparents, grandchildren, nephews, nieces, cousins, aunts, uncles and their spouses) and anyone residing in the same household (including roommates)*\n\nNo\n\nDo you have a family member who works for or owns a business that is a Ryder customer, supplier or competitor?\n\nThe definition of family member i",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635/apply/applyManually"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "faizan@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Submit",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

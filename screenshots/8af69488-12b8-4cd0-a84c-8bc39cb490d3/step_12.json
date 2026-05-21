@@ -1,0 +1,100 @@
+{
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Digital-Channels-Product-Analyst_2026-00783/apply/applyManually",
+  "title": "Digital Channels Product Analyst",
+  "text": "Skip to main content\nSettings\nfaizan@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nDigital Channels Product Analyst\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncompleted step 3 of 6\nApplication Questions\ncompleted step 4 of 6\nVoluntary Disclosures\ncompleted step 5 of 6\nSelf Identify\ncurrent step 6 of 6\nReview\nReview\nMy Information\nHow Did You Hear About Us?\nLinkedIn\nName\nfaizan saikh (faizan saikh)\nAddress\nSWT\nAhmedabad- 789654\nIndia\nEmail Address\nfaizan@gmail.com\nPhone\n+91 (78965) 41237 (Mobile)\nMy Experience\nWork Experience\nNo Response\nEducation\nNo Response\nSkills\nResume/CV\n\n4f8eb44e-0851-4d76-8304-5904bc9fe4ba.pdf\n280.71 KB\n\nWebsites\nAdd any relevant websites.\nNo Response\nSocial Network URLs\nDo you have a LinkedIn profile? If so, please share the link here.\nNo Response\nApplication Questions\n\nAre you at least 18 years of age?*\n\nYes\n\nAre you authorized to work in the U.S.?*\n\nYes\n\nWill you now or in future require a sponsorship?*\n\nNo\n\nDo you currently or have you ever worked for FNB?*\n\nNo\n\nDo you have any family members or relatives who are currently employed by the FNB Corporation?*\n\nNo\n\nWhat is your minimum compensation expectation?*\n\nNegotiable\n\nIs the position you are applying to within the state of Maryland?*\n\nNo\nVoluntary Disclosures\nPersonal Data Statement\nPlease select your gender\nMale\nPlease select a status\nNo Response\nPlease select your ethnicity\nI prefer not to disclose. (United States of America)\nHispanic or Latino?\nNo\nTerms and Conditions\nYes, I have read and consent to the terms and conditions\nYes\nSelf Identify\nName\nfaizan saikh\nEmployee ID (if applicable)\nNo Response\nDate\n05/21/2026\nPlease check one of the boxes below:\nNo, I do not have a disability and have not had one in the past\nBack\nSubmit\nFollow Us\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Digital-Channels-Product-Analyst_2026-00783/apply/applyManually"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "faizan@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Submit",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779350512334-t6wtwxzh5q\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-F-N-B-PA-EI_IE4832.11,19.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779350512334-hd3iffkcbyv\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/f-n-b--corporation"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

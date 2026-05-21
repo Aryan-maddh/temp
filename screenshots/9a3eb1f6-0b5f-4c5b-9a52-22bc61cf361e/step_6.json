@@ -1,0 +1,768 @@
+{
+  "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P750075-2/apply",
+  "title": "Senior Business Intelligence Analyst, Strategic Planning & Insights",
+  "text": "Skip to main content\nSettings\njohn@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSenior Business Intelligence Analyst, Strategic Planning & Insights\ncompleted step 1 of 5\nMy Information\ncompleted step 2 of 5\nMy Experience\ncompleted step 3 of 5\nApplication Questions\ncurrent step 4 of 5\nVoluntary Disclosures\nstep 5 of 5\nReview\nVoluntary Disclosures\n* Indicates a required field\nEqual Employment Opportunity Information\n\nIndividuals seeking employment at Zillow Group are considered without regard to race, color, ethnicity, religion, sex, sexual orientation, gender identification, national origin, age, marital status, ancestry, physical or mental disability, veteran status, or other protected characteristic. You are being given the opportunity to provide the following information in order to help us comply with the requirements of U.S. federal equal employment opportunity laws.\n\nPlease note: Completion of this form is voluntary. \n\nThe information you provide will not be considered in the hiring process or thereafter in connection with the terms of your employment (if you are hired). Any information you provide will be recorded and maintained in a confidential file, separate and apart from applicant and personnel files.\n\nSelf-Identification of Ethnicity:\nAmerican Indian or Alaska Native (United States of America)\nAsian (United States of America)\nBlack or African American (United States of America)\nDecline to state (United States of America)\nHispanic or Latino (United States of America)\nMiddle Eastern or North Aftrican (United States of America)\nNative Hawaiian or Other Pacific Islander (United States of America)\nWhite (United States of America)\nSelf-Identification of Gender:\nSelect One\nSelf-Identification of Veteran and Military Spouse Status:\nSelect One\nTerms and Conditions\n\nYou agree to receive recurring automated text messages from us at the phone number you have provided. Consent is not a condition of candidacy. Reply STOP to opt-out at any ti",
+  "fields": [
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Self-Identification of Ethnicity:",
+      "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c258338f729192-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c24bec14fa918a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c25084cf2a918d-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Decline to state (United States of America)",
+          "checked": false,
+          "selector": "#f40b9d6c2e7e106d39807b30b1d4f74a-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c252102632918e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Middle Eastern or North Aftrican (United States of America)",
+          "checked": false,
+          "selector": "#\\30 88dedf6bd821001aca392f4af370000-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c2539f0b62918f-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (United States of America)",
+          "checked": false,
+          "selector": "#\\31 56fb9a2f01c10bed7c256a648529191-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Self-Identification of Gender:",
+      "selector": "#personalInfoUS--gender",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Self-Identification of Veteran and Military Spouse Status:",
+      "selector": "#personalInfoUS--veteranStatus",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Acknowledged",
+      "selector": "#termsAndConditions--acceptTermsAndAgreements",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Acknowledged*",
+          "checked": false,
+          "selector": "#termsAndConditions--acceptTermsAndAgreements"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P750075-2/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--gender",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--veteranStatus",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1779104084795-xbkn5zuh2os\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.zillow.com/careers/disclosure/"
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-2fz87wfxe7b\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/zillow/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-z7i2g0u1ohq\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Zillow-EI_IE40802.11,17.html"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-34y6qtjtl3\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779103996711-g3rvdy4vowc\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/ZillowGroup"
+    },
+    {
+      "text": "Zillow’s Global Applicant Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.zillow.com/careers/global-applicant-privacy-notice/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

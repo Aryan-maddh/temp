@@ -1,0 +1,60 @@
+{
+  "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Senior-Data-Engineer_R-121717-1",
+  "title": "Careers",
+  "text": "Skip to main content\nCareers\nEnglish\nSign In\nCareers Home\nJoin Our Talent Community\nThe page you are looking for doesn't exist.\nCareer Site Privacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Senior-Data-Engineer_R-121717-1"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Careers Home",
+      "selector": "[data-automation-id=\"navigationItem-Careers Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Careers Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join Our Talent Community",
+      "selector": "[data-automation-id=\"navigationItem-Join Our Talent Community\"]",
+      "type": "",
+      "automationId": "navigationItem-Join Our Talent Community",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Career Site Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://jobs.prudential.com/us-en/policies/privacy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,249 @@
+{
+  "url": "https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Remote-FL-USA/QA-Engineer_R2600438/apply/applyManually?source=LinkedIn",
+  "title": "Create Account",
+  "text": "Skip to main content\nWiley Careers\nSign In\nHome\nSearch for Jobs\nJoin Our Talent Community!\nBack to Job Posting\nQA Engineer\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nCreate Account\n\nPassword Requirements:\n\nA minimum of 8 characters\nAn uppercase character\nAn alphabetic character\nA special character\nA lowercase character\nA numeric character\nEmail Address*\nPassword*\nVerify New Password*\n\nBy creating an account with Wiley's careers portal, you acknowledge and consent to the secure storage of your personal information in our system in accordance with our Privacy Policy. This account will allow you to:\n\nTrack the status of your current application\nView and update your profile information\nAccess your application history\nApply for other opportunities at Wiley\nReceive relevant job alerts based on your preferences\n\nYour account credentials will be sent to your registered email address. You may log in at any time to monitor the status of your application or explore new opportunities at Wiley.\n\nBy proceeding, you agree to create this account and represent that all information provided is true, accurate, and complete to the best of your knowledge.\n\nRead More\nI accept\nCreate Account\nAlready have an account?\nSign In\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.\nFollow Us\nWiley Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "#input-4",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "#input-5",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Verify New Password",
+      "selector": "#input-6",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "verifyPassword",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "I accept",
+      "selector": "#input-9",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "createAccountCheckbox",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#\\39 c480bc9-51f2-4478-a018-83ca6fe0445d",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Remote-FL-USA/QA-Engineer_R2600438/apply/applyManually?source=LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Home",
+      "selector": "[data-automation-id=\"navigationItem-Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join Our Talent Community!",
+      "selector": "[data-automation-id=\"navigationItem-Join Our Talent Community!\"]",
+      "type": "",
+      "automationId": "navigationItem-Join Our Talent Community!",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778493518341-xa0i3vsmd3\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.wiley.com/en-us/privacy"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 0",
+      "type": "button",
+      "automationId": "createAccountExpandButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"click_filter\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountSubmitButton\"]",
+      "type": "submit",
+      "automationId": "createAccountSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInLink\"]",
+      "type": "",
+      "automationId": "signInLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-automation-id=\"forgotPasswordLink\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778493518341-zzhlzt9wcui\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://x.com/WileyGlobal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&mx=2"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778493518341-rajeo2oikjm\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/JohnWileySons/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778493518341-5e2jwnaxgz4\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Wiley-EI_IE1551.11,16.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778493518341-7p0lox45xoi\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/john-wiley-and-sons/posts/?feedView=all"
+    },
+    {
+      "text": "Wiley Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.wiley.com/en-us/privacy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

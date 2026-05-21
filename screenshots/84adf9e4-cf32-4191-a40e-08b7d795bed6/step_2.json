@@ -1,0 +1,73 @@
+{
+  "url": "https://ryder.wd5.myworkdayjobs.com/rydercareers/job/usa---coral-gables-fl-33134/ux-ui-designer--remote_R170635",
+  "title": "UX/UI Designer- REMOTE - Logo",
+  "text": "Start Your Application\nUX/UI Designer- REMOTE\n\nAfter selecting your apply method, you’ll be prompted to sign in. First-time users, click ‘Create Account’ on the next screen.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/USA---Coral-Gables-FL-33134/UX-UI-Designer--REMOTE_R170635/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/USA---Coral-Gables-FL-33134/UX-UI-Designer--REMOTE_R170635/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/USA---Coral-Gables-FL-33134/UX-UI-Designer--REMOTE_R170635/apply/useMyLastApplication"
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nUX/UI Designer- REMOTE\n\nAfter selecting your apply method, you’ll be prompted to sign in. First-time users, click ‘Create Account’ on the next screen.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nUX/UI Designer- REMOTE\n\nAfter selecting your apply method, you’ll be prompted to sign in. First-time users, click ‘Create Account’ on the next screen.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nUX/UI Designer- REMOTE\n\nAfter selecting your apply method, you’ll be prompted to sign in. First-time users, click ‘Create Account’ on the next screen.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779275091087-hcw7079wzy\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nUX/UI Designer- REMOTE\n\nAfter selecting your apply method, you’ll be prompted to sign in. First-time users, click ‘Create Account’ on the next screen.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779275091088-lg5n0dk0p9n\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

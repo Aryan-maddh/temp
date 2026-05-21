@@ -1,0 +1,1389 @@
+{
+  "url": "https://jobs.lever.co/sophos/3f1993bd-cdf0-4c36-b46d-06f3f17fc5d9/apply?source=LinkedIn",
+  "title": "Sophos - AI Solutions & Enablement Engineer",
+  "text": "AI Solutions & Enablement Engineer\nUnited StatesSales – Sales Engineering /Permanent /Remote\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nApply with LinkedIn\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nGitHub URL\nPortfolio URL\nOther website\nELIGIBILITY TO WORK\nApplicants must have authorization to work in the jurisdiction where the position is posted, without requiring employer sponsorship. By submitting this application, you are affirming that you have or reasonably expect to have such work authorization by the expected start date.\n✱\nYes – I confirm I meet the above requirement\nNo – I do not meet the above requirement\nDEMOGRAPHIC SURVEY\nWhat is your location?\nSelect...\nAfghanistan\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua and Barbuda\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda\nBhutan\nBolivia\nBonaire, Sint Eustatius and Saba\nBosnia and Herzegovina\nBotswana\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands\nCentral African Republic\nChad\nChile\nChina\nChristmas Island\nCocos (Keeling) Islands\nColombia\nComoros\nCongo\nCongo, the Democratic Republic of the\nCook Islands\nCosta Rica\nCroatia\nCuba\nCuraçao\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini\nEthiopia\nFalkland Islands\nFaroe Islands\nFiji\nFinland\nFrance\nFrench Guiana\nFrench Polynesia\nFrench Southern Territories\nGabon\nGambia\nGeorgia\nGermany\nGhana\nGibraltar\nGreece\nGreenland\nGrenada\nGuadeloupe\nGuam\nGuatemala\nGuernsey\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHeard Island and McDonald Islands\nHoly See (Vatican City State)\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsle",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Full name ✱",
+      "selector": "input[name=\"name\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "email",
+      "label": "Email ✱",
+      "selector": "input[name=\"email\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Phone ✱",
+      "selector": "input[name=\"phone\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Current location",
+      "selector": "#location-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Current company",
+      "selector": "input[name=\"org\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "LinkedIn URL",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "GitHub URL",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Portfolio URL",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Other website",
+      "selector": "input[name=\"urls[Other Website]\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "radio",
+      "label": "Yes – I confirm I meet the above requirement",
+      "selector": "[data-cviance-inspect=\"node-1778583245682-ds2od8ediea\"]",
+      "value": "Yes – I confirm I meet the above requirement",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "Yes – I confirm I meet the above requirement",
+          "label": "Yes – I confirm I meet the above requirement",
+          "checked": false,
+          "selector": "[data-cviance-inspect=\"node-1778583245682-ds2od8ediea\"]"
+        },
+        {
+          "value": "No – I do not meet the above requirement",
+          "label": "No – I do not meet the above requirement",
+          "checked": false,
+          "selector": "[data-cviance-inspect=\"node-1778583245682-3twte01tcpo\"]"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_radio",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "radio",
+      "label": "Yes – I confirm I meet the above requirement",
+      "selector": "[data-cviance-inspect=\"node-1778583245682-3twte01tcpo\"]",
+      "value": "No – I do not meet the above requirement",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "Yes – I confirm I meet the above requirement",
+          "label": "Yes – I confirm I meet the above requirement",
+          "checked": false,
+          "selector": "[data-cviance-inspect=\"node-1778583245682-ds2od8ediea\"]"
+        },
+        {
+          "value": "No – I do not meet the above requirement",
+          "label": "No – I do not meet the above requirement",
+          "checked": false,
+          "selector": "[data-cviance-inspect=\"node-1778583245682-3twte01tcpo\"]"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_radio",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "What is your location? ... Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Ivory Coast Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Romania Russia Rwanda Réunion Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela Vietnam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Åland Islands",
+      "selector": "[data-cviance-inspect=\"node-1778583245683-l396m2nx6e\"]",
+      "value": "",
+      "selectedText": "Select...",
+      "checked": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "text": "Select..."
+        },
+        {
+          "value": "AF",
+          "text": "Afghanistan"
+        },
+        {
+          "value": "AL",
+          "text": "Albania"
+        },
+        {
+          "value": "DZ",
+          "text": "Algeria"
+        },
+        {
+          "value": "AS",
+          "text": "American Samoa"
+        },
+        {
+          "value": "AD",
+          "text": "Andorra"
+        },
+        {
+          "value": "AO",
+          "text": "Angola"
+        },
+        {
+          "value": "AI",
+          "text": "Anguilla"
+        },
+        {
+          "value": "AQ",
+          "text": "Antarctica"
+        },
+        {
+          "value": "AG",
+          "text": "Antigua and Barbuda"
+        },
+        {
+          "value": "AR",
+          "text": "Argentina"
+        },
+        {
+          "value": "AM",
+          "text": "Armenia"
+        },
+        {
+          "value": "AW",
+          "text": "Aruba"
+        },
+        {
+          "value": "AU",
+          "text": "Australia"
+        },
+        {
+          "value": "AT",
+          "text": "Austria"
+        },
+        {
+          "value": "AZ",
+          "text": "Azerbaijan"
+        },
+        {
+          "value": "BS",
+          "text": "Bahamas"
+        },
+        {
+          "value": "BH",
+          "text": "Bahrain"
+        },
+        {
+          "value": "BD",
+          "text": "Bangladesh"
+        },
+        {
+          "value": "BB",
+          "text": "Barbados"
+        },
+        {
+          "value": "BY",
+          "text": "Belarus"
+        },
+        {
+          "value": "BE",
+          "text": "Belgium"
+        },
+        {
+          "value": "BZ",
+          "text": "Belize"
+        },
+        {
+          "value": "BJ",
+          "text": "Benin"
+        },
+        {
+          "value": "BM",
+          "text": "Bermuda"
+        },
+        {
+          "value": "BT",
+          "text": "Bhutan"
+        },
+        {
+          "value": "BO",
+          "text": "Bolivia"
+        },
+        {
+          "value": "BQ",
+          "text": "Bonaire, Sint Eustatius and Saba"
+        },
+        {
+          "value": "BA",
+          "text": "Bosnia and Herzegovina"
+        },
+        {
+          "value": "BW",
+          "text": "Botswana"
+        },
+        {
+          "value": "BV",
+          "text": "Bouvet Island"
+        },
+        {
+          "value": "BR",
+          "text": "Brazil"
+        },
+        {
+          "value": "IO",
+          "text": "British Indian Ocean Territory"
+        },
+        {
+          "value": "BN",
+          "text": "Brunei"
+        },
+        {
+          "value": "BG",
+          "text": "Bulgaria"
+        },
+        {
+          "value": "BF",
+          "text": "Burkina Faso"
+        },
+        {
+          "value": "BI",
+          "text": "Burundi"
+        },
+        {
+          "value": "KH",
+          "text": "Cambodia"
+        },
+        {
+          "value": "CM",
+          "text": "Cameroon"
+        },
+        {
+          "value": "CA",
+          "text": "Canada"
+        },
+        {
+          "value": "CV",
+          "text": "Cape Verde"
+        },
+        {
+          "value": "KY",
+          "text": "Cayman Islands"
+        },
+        {
+          "value": "CF",
+          "text": "Central African Republic"
+        },
+        {
+          "value": "TD",
+          "text": "Chad"
+        },
+        {
+          "value": "CL",
+          "text": "Chile"
+        },
+        {
+          "value": "CN",
+          "text": "China"
+        },
+        {
+          "value": "CX",
+          "text": "Christmas Island"
+        },
+        {
+          "value": "CC",
+          "text": "Cocos (Keeling) Islands"
+        },
+        {
+          "value": "CO",
+          "text": "Colombia"
+        },
+        {
+          "value": "KM",
+          "text": "Comoros"
+        },
+        {
+          "value": "CG",
+          "text": "Congo"
+        },
+        {
+          "value": "CD",
+          "text": "Congo, the Democratic Republic of the"
+        },
+        {
+          "value": "CK",
+          "text": "Cook Islands"
+        },
+        {
+          "value": "CR",
+          "text": "Costa Rica"
+        },
+        {
+          "value": "HR",
+          "text": "Croatia"
+        },
+        {
+          "value": "CU",
+          "text": "Cuba"
+        },
+        {
+          "value": "CW",
+          "text": "Curaçao"
+        },
+        {
+          "value": "CY",
+          "text": "Cyprus"
+        },
+        {
+          "value": "CZ",
+          "text": "Czech Republic"
+        },
+        {
+          "value": "DK",
+          "text": "Denmark"
+        },
+        {
+          "value": "DJ",
+          "text": "Djibouti"
+        },
+        {
+          "value": "DM",
+          "text": "Dominica"
+        },
+        {
+          "value": "DO",
+          "text": "Dominican Republic"
+        },
+        {
+          "value": "EC",
+          "text": "Ecuador"
+        },
+        {
+          "value": "EG",
+          "text": "Egypt"
+        },
+        {
+          "value": "SV",
+          "text": "El Salvador"
+        },
+        {
+          "value": "GQ",
+          "text": "Equatorial Guinea"
+        },
+        {
+          "value": "ER",
+          "text": "Eritrea"
+        },
+        {
+          "value": "EE",
+          "text": "Estonia"
+        },
+        {
+          "value": "SZ",
+          "text": "Eswatini"
+        },
+        {
+          "value": "ET",
+          "text": "Ethiopia"
+        },
+        {
+          "value": "FK",
+          "text": "Falkland Islands"
+        },
+        {
+          "value": "FO",
+          "text": "Faroe Islands"
+        },
+        {
+          "value": "FJ",
+          "text": "Fiji"
+        },
+        {
+          "value": "FI",
+          "text": "Finland"
+        },
+        {
+          "value": "FR",
+          "text": "France"
+        },
+        {
+          "value": "GF",
+          "text": "French Guiana"
+        },
+        {
+          "value": "PF",
+          "text": "French Polynesia"
+        },
+        {
+          "value": "TF",
+          "text": "French Southern Territories"
+        },
+        {
+          "value": "GA",
+          "text": "Gabon"
+        },
+        {
+          "value": "GM",
+          "text": "Gambia"
+        },
+        {
+          "value": "GE",
+          "text": "Georgia"
+        },
+        {
+          "value": "DE",
+          "text": "Germany"
+        },
+        {
+          "value": "GH",
+          "text": "Ghana"
+        },
+        {
+          "value": "GI",
+          "text": "Gibraltar"
+        },
+        {
+          "value": "GR",
+          "text": "Greece"
+        },
+        {
+          "value": "GL",
+          "text": "Greenland"
+        },
+        {
+          "value": "GD",
+          "text": "Grenada"
+        },
+        {
+          "value": "GP",
+          "text": "Guadeloupe"
+        },
+        {
+          "value": "GU",
+          "text": "Guam"
+        },
+        {
+          "value": "GT",
+          "text": "Guatemala"
+        },
+        {
+          "value": "GG",
+          "text": "Guernsey"
+        },
+        {
+          "value": "GN",
+          "text": "Guinea"
+        },
+        {
+          "value": "GW",
+          "text": "Guinea-Bissau"
+        },
+        {
+          "value": "GY",
+          "text": "Guyana"
+        },
+        {
+          "value": "HT",
+          "text": "Haiti"
+        },
+        {
+          "value": "HM",
+          "text": "Heard Island and McDonald Islands"
+        },
+        {
+          "value": "VA",
+          "text": "Holy See (Vatican City State)"
+        },
+        {
+          "value": "HN",
+          "text": "Honduras"
+        },
+        {
+          "value": "HK",
+          "text": "Hong Kong"
+        },
+        {
+          "value": "HU",
+          "text": "Hungary"
+        },
+        {
+          "value": "IS",
+          "text": "Iceland"
+        },
+        {
+          "value": "IN",
+          "text": "India"
+        },
+        {
+          "value": "ID",
+          "text": "Indonesia"
+        },
+        {
+          "value": "IR",
+          "text": "Iran"
+        },
+        {
+          "value": "IQ",
+          "text": "Iraq"
+        },
+        {
+          "value": "IE",
+          "text": "Ireland"
+        },
+        {
+          "value": "IM",
+          "text": "Isle of Man"
+        },
+        {
+          "value": "IL",
+          "text": "Israel"
+        },
+        {
+          "value": "IT",
+          "text": "Italy"
+        },
+        {
+          "value": "CI",
+          "text": "Ivory Coast"
+        },
+        {
+          "value": "JM",
+          "text": "Jamaica"
+        },
+        {
+          "value": "JP",
+          "text": "Japan"
+        },
+        {
+          "value": "JE",
+          "text": "Jersey"
+        },
+        {
+          "value": "JO",
+          "text": "Jordan"
+        },
+        {
+          "value": "KZ",
+          "text": "Kazakhstan"
+        },
+        {
+          "value": "KE",
+          "text": "Kenya"
+        },
+        {
+          "value": "KI",
+          "text": "Kiribati"
+        },
+        {
+          "value": "XK",
+          "text": "Kosovo"
+        },
+        {
+          "value": "KW",
+          "text": "Kuwait"
+        },
+        {
+          "value": "KG",
+          "text": "Kyrgyzstan"
+        },
+        {
+          "value": "LA",
+          "text": "Laos"
+        },
+        {
+          "value": "LV",
+          "text": "Latvia"
+        },
+        {
+          "value": "LB",
+          "text": "Lebanon"
+        },
+        {
+          "value": "LS",
+          "text": "Lesotho"
+        },
+        {
+          "value": "LR",
+          "text": "Liberia"
+        },
+        {
+          "value": "LY",
+          "text": "Libya"
+        },
+        {
+          "value": "LI",
+          "text": "Liechtenstein"
+        },
+        {
+          "value": "LT",
+          "text": "Lithuania"
+        },
+        {
+          "value": "LU",
+          "text": "Luxembourg"
+        },
+        {
+          "value": "MO",
+          "text": "Macao"
+        },
+        {
+          "value": "MK",
+          "text": "Macedonia, the Former Yugoslav Republic of"
+        },
+        {
+          "value": "MG",
+          "text": "Madagascar"
+        },
+        {
+          "value": "MW",
+          "text": "Malawi"
+        },
+        {
+          "value": "MY",
+          "text": "Malaysia"
+        },
+        {
+          "value": "MV",
+          "text": "Maldives"
+        },
+        {
+          "value": "ML",
+          "text": "Mali"
+        },
+        {
+          "value": "MT",
+          "text": "Malta"
+        },
+        {
+          "value": "MH",
+          "text": "Marshall Islands"
+        },
+        {
+          "value": "MQ",
+          "text": "Martinique"
+        },
+        {
+          "value": "MR",
+          "text": "Mauritania"
+        },
+        {
+          "value": "MU",
+          "text": "Mauritius"
+        },
+        {
+          "value": "YT",
+          "text": "Mayotte"
+        },
+        {
+          "value": "MX",
+          "text": "Mexico"
+        },
+        {
+          "value": "FM",
+          "text": "Micronesia, Federated States of"
+        },
+        {
+          "value": "MD",
+          "text": "Moldova"
+        },
+        {
+          "value": "MC",
+          "text": "Monaco"
+        },
+        {
+          "value": "MN",
+          "text": "Mongolia"
+        },
+        {
+          "value": "ME",
+          "text": "Montenegro"
+        },
+        {
+          "value": "MS",
+          "text": "Montserrat"
+        },
+        {
+          "value": "MA",
+          "text": "Morocco"
+        },
+        {
+          "value": "MZ",
+          "text": "Mozambique"
+        },
+        {
+          "value": "MM",
+          "text": "Myanmar"
+        },
+        {
+          "value": "NA",
+          "text": "Namibia"
+        },
+        {
+          "value": "NR",
+          "text": "Nauru"
+        },
+        {
+          "value": "NP",
+          "text": "Nepal"
+        },
+        {
+          "value": "NL",
+          "text": "Netherlands"
+        },
+        {
+          "value": "NC",
+          "text": "New Caledonia"
+        },
+        {
+          "value": "NZ",
+          "text": "New Zealand"
+        },
+        {
+          "value": "NI",
+          "text": "Nicaragua"
+        },
+        {
+          "value": "NE",
+          "text": "Niger"
+        },
+        {
+          "value": "NG",
+          "text": "Nigeria"
+        },
+        {
+          "value": "NU",
+          "text": "Niue"
+        },
+        {
+          "value": "NF",
+          "text": "Norfolk Island"
+        },
+        {
+          "value": "KP",
+          "text": "North Korea"
+        },
+        {
+          "value": "MP",
+          "text": "Northern Mariana Islands"
+        },
+        {
+          "value": "NO",
+          "text": "Norway"
+        },
+        {
+          "value": "OM",
+          "text": "Oman"
+        },
+        {
+          "value": "PK",
+          "text": "Pakistan"
+        },
+        {
+          "value": "PW",
+          "text": "Palau"
+        },
+        {
+          "value": "PS",
+          "text": "Palestine, State of"
+        },
+        {
+          "value": "PA",
+          "text": "Panama"
+        },
+        {
+          "value": "PG",
+          "text": "Papua New Guinea"
+        },
+        {
+          "value": "PY",
+          "text": "Paraguay"
+        },
+        {
+          "value": "PE",
+          "text": "Peru"
+        },
+        {
+          "value": "PH",
+          "text": "Philippines"
+        },
+        {
+          "value": "PN",
+          "text": "Pitcairn"
+        },
+        {
+          "value": "PL",
+          "text": "Poland"
+        },
+        {
+          "value": "PT",
+          "text": "Portugal"
+        },
+        {
+          "value": "PR",
+          "text": "Puerto Rico"
+        },
+        {
+          "value": "QA",
+          "text": "Qatar"
+        },
+        {
+          "value": "RO",
+          "text": "Romania"
+        },
+        {
+          "value": "RU",
+          "text": "Russia"
+        },
+        {
+          "value": "RW",
+          "text": "Rwanda"
+        },
+        {
+          "value": "RE",
+          "text": "Réunion"
+        },
+        {
+          "value": "BL",
+          "text": "Saint Barthélemy"
+        },
+        {
+          "value": "SH",
+          "text": "Saint Helena, Ascension and Tristan da Cunha"
+        },
+        {
+          "value": "KN",
+          "text": "Saint Kitts and Nevis"
+        },
+        {
+          "value": "LC",
+          "text": "Saint Lucia"
+        },
+        {
+          "value": "MF",
+          "text": "Saint Martin (French part)"
+        },
+        {
+          "value": "PM",
+          "text": "Saint Pierre and Miquelon"
+        },
+        {
+          "value": "VC",
+          "text": "Saint Vincent and the Grenadines"
+        },
+        {
+          "value": "WS",
+          "text": "Samoa"
+        },
+        {
+          "value": "SM",
+          "text": "San Marino"
+        },
+        {
+          "value": "ST",
+          "text": "Sao Tome and Principe"
+        },
+        {
+          "value": "SA",
+          "text": "Saudi Arabia"
+        },
+        {
+          "value": "SN",
+          "text": "Senegal"
+        },
+        {
+          "value": "RS",
+          "text": "Serbia"
+        },
+        {
+          "value": "SC",
+          "text": "Seychelles"
+        },
+        {
+          "value": "SL",
+          "text": "Sierra Leone"
+        },
+        {
+          "value": "SG",
+          "text": "Singapore"
+        },
+        {
+          "value": "SX",
+          "text": "Sint Maarten (Dutch part)"
+        },
+        {
+          "value": "SK",
+          "text": "Slovakia"
+        },
+        {
+          "value": "SI",
+          "text": "Slovenia"
+        },
+        {
+          "value": "SB",
+          "text": "Solomon Islands"
+        },
+        {
+          "value": "SO",
+          "text": "Somalia"
+        },
+        {
+          "value": "ZA",
+          "text": "South Africa"
+        },
+        {
+          "value": "GS",
+          "text": "South Georgia and the South Sandwich Islands"
+        },
+        {
+          "value": "KR",
+          "text": "South Korea"
+        },
+        {
+          "value": "SS",
+          "text": "South Sudan"
+        },
+        {
+          "value": "ES",
+          "text": "Spain"
+        },
+        {
+          "value": "LK",
+          "text": "Sri Lanka"
+        },
+        {
+          "value": "SD",
+          "text": "Sudan"
+        },
+        {
+          "value": "SR",
+          "text": "Suriname"
+        },
+        {
+          "value": "SJ",
+          "text": "Svalbard and Jan Mayen"
+        },
+        {
+          "value": "SE",
+          "text": "Sweden"
+        },
+        {
+          "value": "CH",
+          "text": "Switzerland"
+        },
+        {
+          "value": "SY",
+          "text": "Syria"
+        },
+        {
+          "value": "TW",
+          "text": "Taiwan"
+        },
+        {
+          "value": "TJ",
+          "text": "Tajikistan"
+        },
+        {
+          "value": "TZ",
+          "text": "Tanzania"
+        },
+        {
+          "value": "TH",
+          "text": "Thailand"
+        },
+        {
+          "value": "TL",
+          "text": "Timor-Leste"
+        },
+        {
+          "value": "TG",
+          "text": "Togo"
+        },
+        {
+          "value": "TK",
+          "text": "Tokelau"
+        },
+        {
+          "value": "TO",
+          "text": "Tonga"
+        },
+        {
+          "value": "TT",
+          "text": "Trinidad and Tobago"
+        },
+        {
+          "value": "TN",
+          "text": "Tunisia"
+        },
+        {
+          "value": "TR",
+          "text": "Turkey"
+        },
+        {
+          "value": "TM",
+          "text": "Turkmenistan"
+        },
+        {
+          "value": "TC",
+          "text": "Turks and Caicos Islands"
+        },
+        {
+          "value": "TV",
+          "text": "Tuvalu"
+        },
+        {
+          "value": "UG",
+          "text": "Uganda"
+        },
+        {
+          "value": "UA",
+          "text": "Ukraine"
+        },
+        {
+          "value": "AE",
+          "text": "United Arab Emirates"
+        },
+        {
+          "value": "GB",
+          "text": "United Kingdom"
+        },
+        {
+          "value": "US",
+          "text": "United States"
+        },
+        {
+          "value": "UM",
+          "text": "United States Minor Outlying Islands"
+        },
+        {
+          "value": "UY",
+          "text": "Uruguay"
+        },
+        {
+          "value": "UZ",
+          "text": "Uzbekistan"
+        },
+        {
+          "value": "VU",
+          "text": "Vanuatu"
+        },
+        {
+          "value": "VE",
+          "text": "Venezuela"
+        },
+        {
+          "value": "VN",
+          "text": "Vietnam"
+        },
+        {
+          "value": "VG",
+          "text": "Virgin Islands, British"
+        },
+        {
+          "value": "VI",
+          "text": "Virgin Islands, U.S."
+        },
+        {
+          "value": "WF",
+          "text": "Wallis and Futuna"
+        },
+        {
+          "value": "EH",
+          "text": "Western Sahara"
+        },
+        {
+          "value": "YE",
+          "text": "Yemen"
+        },
+        {
+          "value": "ZM",
+          "text": "Zambia"
+        },
+        {
+          "value": "ZW",
+          "text": "Zimbabwe"
+        },
+        {
+          "value": "AX",
+          "text": "Åland Islands"
+        }
+      ],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_select",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "select",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Yes, Sophos can contact me about future job opportunities for up to 1 year Privacy policy",
+      "selector": "[data-cviance-inspect=\"node-1778583245683-epfxgn1dy7f\"]",
+      "value": "1",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "selector": "#resume-upload-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": true,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Apply with LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778583245683-w8ttbvbg96g\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Learn more",
+      "selector": "[data-cviance-inspect=\"node-1778583245683-sa6jn2jiyxo\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/help/linkedin/answer/a507542/"
+    },
+    {
+      "text": "ATTACH RESUME/CV",
+      "selector": "[data-cviance-inspect=\"node-1778583245683-cbxz1hp2qfu\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.lever.co/sophos/3f1993bd-cdf0-4c36-b46d-06f3f17fc5d9/apply?source=LinkedIn#"
+    },
+    {
+      "text": "Privacy policy",
+      "selector": "[data-cviance-inspect=\"node-1778583245683-o52609xot4l\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sophos.com/en-us/legal/sophos-global-job-candidate-privacy-notice"
+    },
+    {
+      "text": "SUBMIT APPLICATION",
+      "selector": "#btn-submit",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": "#"
+    },
+    {
+      "text": "Jobs powered by",
+      "selector": "[data-cviance-inspect=\"node-1778583245683-5fka8681sgp\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.lever.co/job-seeker-support/"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "about:blank",
+      "title": "LinkedIn Embedded Content",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [],
+  "dropzones": [
+    {
+      "text": "Resume/CV\n✱\nATTACH RESUME/CV",
+      "hasFileInput": true,
+      "fileInputSelector": "#resume-upload-input"
+    },
+    {
+      "text": "ATTACH RESUME/CV",
+      "hasFileInput": true,
+      "fileInputSelector": "#resume-upload-input"
+    },
+    {
+      "text": "Select...\nAfghanistan\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua and ",
+      "hasFileInput": true,
+      "fileInputSelector": "#resume-upload-input"
+    }
+  ],
+  "activeModal": false
+}

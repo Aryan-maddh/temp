@@ -1,0 +1,265 @@
+{
+  "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085/apply",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nSettings\njohn@gmail.com\nSearch for Jobs\nCandidate Home\nBack to Job Posting\nSoftware Engineer\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncurrent step 3 of 6\nApplication Questions\nstep 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nApplication Questions\n* Indicates a required field\n\nAre you authorized to work lawfully in the country for the position in which you are applying for within Alteryx, Inc.?*\n\nYes\n\nWill you now or at any point in the future require Alteryx to commence “sponsor” an immigration case or initiate a visa transfer in order to employ you, for example (TN, O1, F1/OPT/STEM OPT, or H1B)?*\n\nYes\n\nAre you over the age of 18?*\n\nYes\n\nHave you ever worked for Alteryx, Inc., an Alteryx subsidiary, or affiliate as a temporary, consultant or contingent worker?*\n\nNo\n\nDo you have any relatives working for Alteryx, Inc., an Alteryx subsidiary, or affiliate?*\n\nNo\nBack\nSave and Continue\nFollow Us\nAlteryx Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Are you authorized to work lawfully in the country for the position in which you are applying for within Alteryx, Inc.?",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e4990ee9600000",
+      "value": "d4c81826a4e301fcf3472143952a7dd8",
+      "selectedText": "Yes",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Will you now or at any point in the future require Alteryx to commence “sponsor” an immigration case or initiate a visa transfer in order to employ you, for example (TN, O1, F1/OPT/STEM OPT, or H1B)?",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173ec8af6dd770000",
+      "value": "53132478308f100173f5705ac6880000",
+      "selectedText": "Yes",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Are you over the age of 18?",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e49a429b320002",
+      "value": "d4c81826a4e30134990d2743952a85d8",
+      "selectedText": "Yes",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Have you ever worked for Alteryx, Inc., an Alteryx subsidiary, or affiliate as a temporary, consultant or contingent worker?",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e49a429b320005",
+      "value": "d4c81826a4e3014193bc2d43952a8ed8",
+      "selectedText": "No",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Do you have any relatives working for Alteryx, Inc., an Alteryx subsidiary, or affiliate?",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e49adc62a50002",
+      "value": "d4c81826a4e3016f38ef3043952a92d8",
+      "selectedText": "No",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/Software-Engineer_R12085/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Yes",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e4990ee9600000",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Yes",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173ec8af6dd770000",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Yes",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e49a429b320002",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "No",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e49a429b320005",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "No",
+      "selector": "#primaryQuestionnaire--29cb01b475d8100173e49adc62a50002",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778844774406-yfsiazo407\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/alteryx/"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778844774406-loowhbhh8\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/alteryx"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778844774406-7szsuny47a3\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/alteryx?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778844774407-z3ol2s8ixmd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/alteryx/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778844774407-9jt1umwri3t\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Alteryx-EI_IE351220.11,18.htm"
+    },
+    {
+      "text": "Alteryx Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.alteryx.com/privacy-policy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

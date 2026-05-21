@@ -1,0 +1,36 @@
+{
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/jobTasks/completed/application",
+  "title": "Candidate Home",
+  "text": "Application Submitted\nThank you for expressing interest in career opportunities with FNB Corporation!\nThis email is to confirm that we have received your application. In the event your skills and experience match the qualifications and job requirements associated with the position in which you have expressed interest, a member of our Talent Acquisition team will be in contact.\nYou have no more tasks.\nReturn to Home",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"taskModalCloseButton\"]",
+      "type": "",
+      "automationId": "taskModalCloseButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Return to Home",
+      "selector": "[data-automation-id=\"returnToHome\"]",
+      "type": "",
+      "automationId": "returnToHome",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Application Submitted\nThank you for expressing interest in career opportunities with FNB Corporation!\nThis email is to confirm that we have received your application. In the event your skills and experience match the qualifications and job requirements associated with the position in which you have expressed interest, a member of our Talent Acquisition team will be in contact.\nYou have no more tasks.\nReturn to Home",
+      "automationId": "candidateHomeTaskModal",
+      "selector": "[data-automation-id=\"candidateHomeTaskModal\"]",
+      "active": true
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

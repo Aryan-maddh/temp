@@ -1,0 +1,201 @@
+{
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Business-Development-Representative--UKI_JR-0106691-1",
+  "title": "Search for Jobs",
+  "text": "Skip to main content\nEarly Careers at Workday\nEnglish\nSign In\nVisit Workday.com\nSearch for Jobs\nJoin Our Talent Community!\nSearch\nFilters\nDistance or Location\nTime Type\nRemote Type\nMore\nSearch for Jobs page is loaded\n\n1 JOB FOUND\n\nJump to selected job details\nBusiness Development Representative, UKI\nremote type\nFlex\nlocations\nIreland, Dublin\nposted on\nPosted 21 Days Ago\nJR-0106691\n1\n\n1 - 1 of 1 jobs\n\nReturn to selected search result\nBusiness Development Representative, UKI\nApply\nremote type\nFlex\nlocations\nIreland, Dublin\ntime type\nFull Time\nposted on\nPosted 21 Days Ago\njob requisition id\nJR-0106691\n\nYour work days are brighter here.\n\nWe’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you’ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy, and shared enthusiasm. We’re in this together, tackling big challenges with bold ideas and genuine care. We look for curious minds and courageous collaborators who bring sun-drenched optimism and drive. Whether you're building smarter solutions, supporting customers, or creating a space where everyone belongs, you’ll do meaningful work with Workmates who’ve got your back. In return, we’ll give you the trust to take risks, the tools to grow, the skills to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too.\n\nAbout the Team\n\nWorkday is looking for Business Development Representatives to join our expanding  team. We are looking for driven individuals to be able to proactively build relationships with prospects for Workday, dealing ",
+  "fields": [
+    {
+      "type": "text",
+      "label": "keywordSearchInput",
+      "selector": "#nmf11",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search for jobs or keywords",
+      "automationId": "keywordSearchInput",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Business-Development-Representative--UKI_JR-0106691-1"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Visit Workday.com",
+      "selector": "[data-automation-id=\"navigationItem-Visit Workday.com\"]",
+      "type": "",
+      "automationId": "navigationItem-Visit Workday.com",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join Our Talent Community!",
+      "selector": "[data-automation-id=\"navigationItem-Join Our Talent Community!\"]",
+      "type": "",
+      "automationId": "navigationItem-Join Our Talent Community!",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search",
+      "selector": "#b7c47c8b-b2d7-47b4-b4aa-415554195ed4",
+      "type": "submit",
+      "automationId": "keywordSearchButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Distance or Location",
+      "selector": "#nmf13",
+      "type": "",
+      "automationId": "distanceLocation",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Time Type",
+      "selector": "#nmf14",
+      "type": "",
+      "automationId": "employmentType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Remote Type",
+      "selector": "#nmf15",
+      "type": "",
+      "automationId": "remoteType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "More",
+      "selector": "#nmf16",
+      "type": "",
+      "automationId": "more",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Jump to selected job details",
+      "selector": "[data-automation-id=\"jobJumpToDetailsLink\"]",
+      "type": "button",
+      "automationId": "jobJumpToDetailsLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Business Development Representative, UKI",
+      "selector": "[data-automation-id=\"jobTitle\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Ireland-Dublin/Business-Development-Representative--UKI_JR-0106691-1"
+    },
+    {
+      "text": "1",
+      "selector": "[data-cviance-inspect=\"node-1779196388633-3lzofnu6o02\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Close job details",
+      "selector": "#jobDetailsCloseButton",
+      "type": "button",
+      "automationId": "jobDetailsCloseButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Return to selected search result",
+      "selector": "[data-cviance-inspect=\"node-1779196388633-2vdxsb0hd7t\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Business-Development-Representative--UKI_JR-0106691-1/apply"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779196388633-j9zkqgp88ug\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/workday"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779196388633-z8xqc03ayxd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/workday"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779196388633-9d81ramwh65\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/workday"
+    },
+    {
+      "text": "Recruitment Privacy Statement",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.workday.com/en-us/privacy/recruiting-privacy-statement.html"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

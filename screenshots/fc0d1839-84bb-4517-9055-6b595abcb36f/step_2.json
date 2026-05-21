@@ -1,0 +1,412 @@
+{
+  "url": "https://www.dice.com/dashboard/login?redirectUrl=%2Fjob-applications%2Fdee3db32-a907-4efe-bc19-6122d09fb984%2Fwizard",
+  "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+  "text": "Job Search\nCompanies\nCareer Resources\nWhy Dice\nFor Employers\nRequest a Demo\nLogin/Register\nITSYNTAX INC\n\nGen AI Engineer\n\nRemote • Posted 14 hours ago • Updated 14 hours ago\n\nContract W2\nContract Independent\nContract Corp To Corp\nRemote\n$50 - $55/hr\nLet's get you hired\nCreate an account or sign in to continue\nEmail address\nContinue with email\nContinue with Google\nContinue with Apple\n\nBy continuing, you are agreeing to Dice's Privacy Policy, Terms of Use , and to receive emails from Dice.\n\nTechnology Professionals\nSearch for Jobs\nJobs Directory\nSearch for Companies\nCompany Directory\nCareer Advice\nCareer Events\nEmployers and Recruiters\nPost Jobs\nFind Candidates\nBuild Employer Brand\nExplore Talent Solutions\nView Integrations\nRecruiting Advice\nHiring Resources\nCompany Information\nAbout Us\nMedia\nWork at Dice\nContact Us\nRequest a Demo\nSupport\nKnowledge Center\nPrivacy & Trust Center\nContact Support\nGet the Dice app.\n\nUnlock your tech potential.\n\nCopyright © 1990 - 2026 Dice. All Rights Reserved. Dice is a DHI service.\n\nTerms & ConditionsPrivacy Policy Do Not Sell or Share My Personal Information",
+  "fields": [
+    {
+      "type": "email",
+      "label": "Email address",
+      "selector": "#react-aria7577278095-_r_f7_",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "name@yourdomain.com",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Dice home",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-mwat56ppag9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/"
+    },
+    {
+      "text": "Job Search",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-lba559bw9pf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/jobs"
+    },
+    {
+      "text": "Companies",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-q77ylaeb4g\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/companies"
+    },
+    {
+      "text": "Career Resources",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-z3emhxh2kj\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Why Dice",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-dho0hxpg6y6\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/why-join-dice"
+    },
+    {
+      "text": "For Employers",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-mca03ar4m4\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Request a Demo",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-ur9r22b56mo\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/demo"
+    },
+    {
+      "text": "Login/Register",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-9jbsnoszdqa\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "ITSYNTAX INC",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-8picelzfn3m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/1c7ebe52-9cd6-4393-8326-f1ad45078856"
+    },
+    {
+      "text": "Continue with email",
+      "selector": "#react-aria7577278095-_r_fc_",
+      "type": "submit",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Continue with Google",
+      "selector": "#react-aria7577278095-_r_fe_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Continue with Apple",
+      "selector": "#react-aria7577278095-_r_fg_",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-306yx6p4o7t\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/privacy-policy"
+    },
+    {
+      "text": "Terms of Use",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-rf57b1yoeun\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/terms-and-conditions"
+    },
+    {
+      "text": "Dice home",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-i6btzh7qd9l\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-xmtluuhnzd\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/dice"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-0ilri76yy6qg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.youtube.com/Dice"
+    },
+    {
+      "text": "Instagram",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-m4ic5slzpf8\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.instagram.com/dicedotcom"
+    },
+    {
+      "text": "TikTok",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-hzq2d4gvvii\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.tiktok.com/@dicetechjobs"
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-d55yxzd8z1h\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/jobs"
+    },
+    {
+      "text": "Jobs Directory",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-w72iostzc2n\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/jobs/browse-jobs"
+    },
+    {
+      "text": "Search for Companies",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-mxm0mu9qh1j\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/companies"
+    },
+    {
+      "text": "Company Directory",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-n0pxzewv0ab\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/company-profile/browse"
+    },
+    {
+      "text": "Career Advice",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-gp6lvefgwww\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/career-advice"
+    },
+    {
+      "text": "Career Events",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-8i1j2vnthbf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/career-events"
+    },
+    {
+      "text": "Post Jobs",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-olco5w1fcgj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/post-jobs"
+    },
+    {
+      "text": "Find Candidates",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-n438dicmpkh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/find-candidates"
+    },
+    {
+      "text": "Build Employer Brand",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-gbozr0ukv2c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/employer-brand"
+    },
+    {
+      "text": "Explore Talent Solutions",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-eg7hmuvme5c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/talent-solutions"
+    },
+    {
+      "text": "View Integrations",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-p956debpzi\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/integrations"
+    },
+    {
+      "text": "Recruiting Advice",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-79ibgmm9yk5\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/recruitment"
+    },
+    {
+      "text": "Hiring Resources",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-9waij0n2h7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/employer-resources"
+    },
+    {
+      "text": "About Us",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-hkep39dky95\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://dhigroupinc.com/"
+    },
+    {
+      "text": "Media",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-qa9rhc69d4s\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/media"
+    },
+    {
+      "text": "Work at Dice",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-rlolsbunqfj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://dhigroupinc.com/careers/default.aspx"
+    },
+    {
+      "text": "Request a Demo",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-6dud8w0qh5e\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/hiring/demo"
+    },
+    {
+      "text": "Knowledge Center",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-3c2q95v344v\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/support"
+    },
+    {
+      "text": "Privacy & Trust Center",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-ek05ni9gde\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/privacy-center"
+    },
+    {
+      "text": "Contact Support",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-jr92wsl4j7n\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/contact-us"
+    },
+    {
+      "text": "Download on the Apple App Store",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-7uitzmakeo9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://apps.apple.com/app/id794201100"
+    },
+    {
+      "text": "Get it on Google Play",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-bezygcqeahf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://play.google.com/store/apps/details?id=com.dice.app.jobs&referrer=trackingcode%3DDI_OS_UN_MA_UP&utm_campaign%3DDice%2520Universal%2520Header%2520and%2520Footer&utm_source%3DDice&utm_medium%3DOnsite&utm_content%3DUniversal&utm_term%3DUnpaid"
+    },
+    {
+      "text": "Dice",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-1x0uwinpikg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/"
+    },
+    {
+      "text": "DHI",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-7o7gg48i0qf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://dhigroupinc.com/"
+    },
+    {
+      "text": "Terms & Conditions",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-sfiw6sd86c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/terms-and-conditions"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-adcev8hsq9d\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/privacy-policy"
+    },
+    {
+      "text": "Do Not Sell or Share My Personal Information",
+      "selector": "[data-cviance-inspect=\"node-1778579389587-9btgtmhxv0g\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.dice.com/about/ccpa#ccpa-form-anchor"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "about:blank",
+      "title": "Branch Banner Frame",
+      "ariaLabel": "Branch Banner Frame"
+    },
+    {
+      "src": "",
+      "title": "Usabilla Feedback Button",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

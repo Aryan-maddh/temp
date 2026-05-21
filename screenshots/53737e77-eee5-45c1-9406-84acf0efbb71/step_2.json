@@ -1,0 +1,233 @@
+{
+  "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply/applyManually",
+  "title": "Create Account",
+  "text": "Skip to main content\nSign In\nPacific Life Careers\nSearch for Jobs\nIntroduce Yourself\nBack to Job Posting\nSenior Data & Automation Engineer (IT Ops)\ncurrent step 1 of 6\nCreate Account/Sign In\nstep 2 of 6\nMy Information\nstep 3 of 6\nMy Experience\nstep 4 of 6\nApplication Questions\nstep 5 of 6\nVoluntary Disclosures\nstep 6 of 6\nReview\nCreate Account\n\nPassword Requirements:\n\nAn uppercase character\nA numeric character\nAn alphabetic character\nA minimum of 8 characters\nA special character\nA lowercase character\nEmail Address*\nPassword*\nVerify New Password*\n\nBefore creating an account, you must review and consent to our Privacy Policy found here.\n\nI understand and consent to the terms of the Privacy Policy.\nCreate Account\nAlready have an account?\nSign In\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.\nFollow Us\nPrivacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "#input-4",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "#input-5",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Verify New Password",
+      "selector": "#input-6",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "verifyPassword",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "I understand and consent to the terms of the Privacy Policy.",
+      "selector": "#input-9",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "createAccountCheckbox",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#\\31 7f1a747-dc1c-4d04-8abb-723ae6b0bb64",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Data---Automation-Engineer--IT-Ops-_R16844-1/apply/applyManually"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Pacific Life Careers",
+      "selector": "[data-automation-id=\"navigationItem-Pacific Life Careers\"]",
+      "type": "",
+      "automationId": "navigationItem-Pacific Life Careers",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Introduce Yourself",
+      "selector": "[data-automation-id=\"navigationItem-Introduce Yourself\"]",
+      "type": "",
+      "automationId": "navigationItem-Introduce Yourself",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "here",
+      "selector": "[data-cviance-inspect=\"node-1778224482540-jdggf7d7ct9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://www.pacificlife.com/crp/public/Workday/PacificLife_PrivacyPolicy.pdf"
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"click_filter\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountSubmitButton\"]",
+      "type": "submit",
+      "automationId": "createAccountSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInLink\"]",
+      "type": "",
+      "automationId": "signInLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-automation-id=\"forgotPasswordLink\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778224482540-789i7ndwqnv\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/pacificlife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778224482540-9x057phnrt\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/pacificlife"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778224482540-cbplcfnrsle\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/pacific-life/life/unleash-your-potential/"
+    },
+    {
+      "text": "Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.pacificlife.com/content/dam/paclife/crp/public/Workday/PacificLife_PrivacyNotice.pdf"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

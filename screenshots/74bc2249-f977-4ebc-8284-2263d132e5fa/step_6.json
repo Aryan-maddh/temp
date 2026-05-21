@@ -1,0 +1,108 @@
+{
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply?source=AutoAppend_LinkedIn",
+  "title": "AI Engineer",
+  "text": "Skip to main content\nSign In\nSearch and Apply\nJoin our Talent Community!\nStart Your Application\nAI Engineer\n\nFirst time applying? Select Autofill with Resume or Apply Manually. GDIT Employees must apply via the Find GDIT Jobs App in Workday.\n\nAutofill with Resume\nApply Manually\nUse My Last Application\nFollow Us\nGDIT Privacy Notice and California Privacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search and Apply",
+      "selector": "[data-automation-id=\"navigationItem-Search and Apply\"]",
+      "type": "",
+      "automationId": "navigationItem-Search and Apply",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join our Talent Community!",
+      "selector": "[data-automation-id=\"navigationItem-Join our Talent Community!\"]",
+      "type": "",
+      "automationId": "navigationItem-Join our Talent Community!",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply/autofillWithResume?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply/applyManually?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply/useMyLastApplication?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778497387954-ofg3qe9u28k\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCaB-uSlpjnUQzNzXajf2L_w"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778497387954-xi3wu08ewsf\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/GDIT"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778497387954-pfyz08li2hl\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/GeneralDynamicsIT/"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778497387954-z6km20b6ucd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/general-dynamics-information-technology/"
+    },
+    {
+      "text": "GDIT Privacy Notice and California Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.gdit.com/privacy-policy/notices/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

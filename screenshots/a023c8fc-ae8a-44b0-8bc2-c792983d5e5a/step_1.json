@@ -1,0 +1,92 @@
+{
+  "url": "https://jobs.ashbyhq.com/clair/9ec02f1f-dbda-43c4-a982-47e97575ae44?src=LinkedIn",
+  "title": "QA Engineer @ Clair",
+  "text": "QA Engineer\nLocation\n\nRemote\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nRemote\n\nDepartment\n\nTechnology\n\nCompensation\nRemote\n$65K – $75K • Offers Equity\nNYC\n$85K – $95K • Offers Equity\nOverview\nApplication\nAbout Clair\n\nIf you can send your friends money in seconds, why does it still take your employer two weeks to send your paycheck?\n\nAt Clair, we are on a mission to create financial freedom for America's workers by giving them a digital banking platform that allows them to get paid as soon as they clock out of work. But we're not just another digital bank or on-demand pay provider. We meet Americans at their place of work by embedding our products within the scheduling, workforce management, and payroll apps they already use every day.\n\nLearn more about us at getclair.com/about\n\nWho are we looking for?\n\nWe are looking for an experienced, high-performing, team-focused QA Engineer who will join our growing QA team to test the capabilities and scalability of our next-generation embedded On-Demand Pay service.\n\nAs a key member of the Clair QA team, you will be testing a world-class financial services product that will serve the needs of hundreds of thousands of American consumers. You should be comfortable working within agile technical teams, mobile and web applications, and be able to understand the principles behind API design, platform scalability, and QA testing. The ideal candidate is an excellent communicator with 2+ years of QA testing experience with mobile apps, Selenium, PostgreSQL, React Native and Javascript scaled platform teams.\n\nWhat you’ll do\n\nBe engaged in the manual testing efforts in each sprint\n\nContribute to Clair’s test automation suite\n\nActively document new findings, bugs, and edge cases within the user flows\n\nProduce a daily test report at the end of each day\n\nCollaborate with various teams - Development, Design, Product, Data, and more - to gather and confirm requirements, functional design, and internal design specifications\n\nPartner with de",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Back to Clair’s Job Listings",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-bo5mbvjy5ts\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.ashbyhq.com/clair?src=LinkedIn"
+    },
+    {
+      "text": "Overview",
+      "selector": "#job-overview",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.ashbyhq.com/clair/9ec02f1f-dbda-43c4-a982-47e97575ae44?src=LinkedIn"
+    },
+    {
+      "text": "Application",
+      "selector": "#job-application-form",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.ashbyhq.com/clair/9ec02f1f-dbda-43c4-a982-47e97575ae44/application?src=LinkedIn"
+    },
+    {
+      "text": "getclair.com/about",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-408pu6xlcw9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "http://getclair.com/about"
+    },
+    {
+      "text": "Apply for this Job",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-zrputcw15xk\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.ashbyhq.com/clair/9ec02f1f-dbda-43c4-a982-47e97575ae44/application?src=LinkedIn"
+    },
+    {
+      "text": "Apply for this Job",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-vx3ho4gq9p8\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Powered by",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-4d23boeptrj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-bk78jztn9g6\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/privacy"
+    },
+    {
+      "text": "Security",
+      "selector": "[data-cviance-inspect=\"node-1778582274286-ybjszo262cl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/security"
+    },
+    {
+      "text": "Vulnerability Disclosure",
+      "selector": "[data-cviance-inspect=\"node-1778582274286-loxr4hcfl8f\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/disclosure"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,137 @@
+{
+  "url": "https://beckgroup.wd12.myworkdayjobs.com/en-US/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply/applyManually",
+  "title": "Sign In",
+  "text": "Skip to main content\nJoin Us\nSign In\nSearch for Jobs\nBack to Job Posting\nFinance Systems & Data Analyst\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nSign In\nEmail Address*\nPassword*\nSign In\nDon't have an account yet?\nCreate Account\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "#input-6",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "#input-7",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#\\38 102ccd1-dd9d-4b00-9de7-40c55a9b51b2",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://beckgroup.wd12.myworkdayjobs.com/en-US/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply/applyManually"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Submit",
+      "selector": "[data-automation-id=\"click_filter\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInSubmitButton\"]",
+      "type": "submit",
+      "automationId": "signInSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountLink\"]",
+      "type": "",
+      "automationId": "createAccountLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-automation-id=\"forgotPasswordLink\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

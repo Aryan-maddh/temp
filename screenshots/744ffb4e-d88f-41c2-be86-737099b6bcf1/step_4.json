@@ -1,0 +1,249 @@
+{
+  "url": "https://paper.wd3.myworkdayjobs.com/en-US/Paper_Careers/job/All-North-America---Remote/Senior-AI-Engineer_R-100319/apply/applyManually?source=LinkedIn",
+  "title": "Senior AI Engineer",
+  "text": "Skip to main content\nCareers at Paper\nSign In\nPaper Careers\nSearch for Jobs\nIntroduce Yourself\nBack to Job Posting\nSenior AI Engineer\ncompleted step 1 of 7\nMy Information\ncompleted step 2 of 7\nMy Experience\ncurrent step 3 of 7\nApplication Questions 1 of 2\nstep 4 of 7\nApplication Questions 2 of 2\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nApplication Questions 1 of 2\n* Indicates a required field\n\nAre you over the age of 18?*\n\nSelect One\n\nShould we progress with your application, do you consent to complete a mandatory background check which may include fingerprinting?*\n\nSelect One\n\nAre you legally permitted to work in the Canada or the United States of America?*\n\nSelect One\n\nIf hired, can you provide proof of employment eligibility?\n\nProof of employment may include the following: For Canada-based employees: 2 pieces of government-issued ID, SIN card, tax documents. For US-based employees: I9 acceptable documents (one List A, or one List B combined with one List C), Work Permits, Unexpired Employment Authorization cards, Permanent Resident Cards, etc.*\n\nSelect One\n\nIn a few sentences, please tell us why you want to work for Paper?*\n\nBack\nNext\nFollow Us\nPrivacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Are you over the age of 18?",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a315f920c6d0001",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Should we progress with your application, do you consent to complete a mandatory background check which may include fingerprinting?",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a315f920c6d0004",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Are you legally permitted to work in the Canada or the United States of America?",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a31602bc4b50002",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "If hired, can you provide proof of employment eligibility? Proof of employment may include the following: For Canada-based employees: 2 pieces of government-issued ID, SIN card, tax documents. For US-based employees: I9 acceptable documents (one List A, or one List B combined with one List C), Work Permits, Unexpired Employment Authorization cards, Permanent Resident Cards, etc.",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a3160c5cb750003",
+      "value": "",
+      "selectedText": "Select One Required",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "In a few sentences, please tell us why you want to work for Paper?",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a3160c5cb750006",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://paper.wd3.myworkdayjobs.com/en-US/Paper_Careers/job/All-North-America---Remote/Senior-AI-Engineer_R-100319/apply/applyManually?source=LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Paper Careers",
+      "selector": "[data-automation-id=\"navigationItem-Paper Careers\"]",
+      "type": "",
+      "automationId": "navigationItem-Paper Careers",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Introduce Yourself",
+      "selector": "[data-automation-id=\"navigationItem-Introduce Yourself\"]",
+      "type": "",
+      "automationId": "navigationItem-Introduce Yourself",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a315f920c6d0001",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a315f920c6d0004",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a31602bc4b50002",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#primaryQuestionnaire--ee2b67f262f810017a3160c5cb750003",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Next",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778584343684-e629asyu2y9\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/c/PAPERLearning"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778584343684-h9w4k4p7wv\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/PAPERlearning"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778584343684-5oql96s91s5\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/paperlearning/mycompany/"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778584343684-cbpsrtrkbzj\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/paperlearning"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://pages.paper.co/privacy-statement"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

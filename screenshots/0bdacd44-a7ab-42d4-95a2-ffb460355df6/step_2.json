@@ -1,0 +1,400 @@
+{
+  "url": "https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york/",
+  "title": "AI Solutions Engineer | Infused Solutions",
+  "text": "Skip to main content\nHome\nJobs\nAbout\nSectors\nCommunity\nContact\nRegister\nHiring?\nAI Solutions Engineer\n  \n\n< Back to Job Search\n\nAI Solutions Engineer\n\nLocation: New York, NY (3 days on-site)\n\nCompensation: $160K-$200K base + 20 – 30% bonus + equity\n\nJob Type: Permanent\n\nInfused Solutions’ client is a fast-growing AI platform serving institutional finance clients. They automate complex analyst workflows-turning days of manual work into minutes-for some of the world’s largest financial institutions.\n\nThe Role: AI Solutions Engineer\n\n30% financial analyst (understand workflows intimately) + 30% product strategist (translate needs into solutions) + 40% hands-on builder (prototype and ship working AI agents)\n\nYou will:\n\nShadow credit analysts at PE firms and asset managers, reverse-engineer their workflows (IC memos, deal screening, portfolio monitoring, credit risk)\nDesign multi-step AI agent logic that automates those workflows\nPrototype and ship V1s in days, present to partners/C-suite\nManage scope, drive adoption, hand prototypes to engineers for productization\n\nYou won’t:\n\nBuild production infrastructure (that’s Product Engineers)\nManage a team (you’re IC, hands-on)\nSit in an office writing requirements doc (you’re embedded with clients)\n\nMust-Haves\n\nInstitutional finance analyst background (4-7+ years)\nIB (credit, DCM, leveraged finance), PE/credit, or asset management. You know what an IC memo looks like and have built financial models at 2 AM.\nSelf-taught coder\nPython, SQL, basic scripting. You can prototype and automate your own workflows (Excel → Python → Lang Chain).\nBuilt something with LLMs in the last 12 months\nRAG pipeline, agentic workflow, document automation-anything. You’ve shipped something real (internal tool, side project, client prototype).\nBridge analyst and CTO\nTranslate business problems into technical requirements. Explain AI limitations to skeptical partners. Push back on scope creep.\nShip fast\nV1 in days, not months. You’re comfortable with “",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Full name",
+      "selector": "#candidate_name",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Email address",
+      "selector": "#candidate_email",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "Message",
+      "selector": "#application_message",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Your cover letter/message sent to the employer",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "Upload CV",
+      "selector": "#application_attachment",
+      "value": "C:\\fakepath\\38975225-1e74-4956-9569-a8169df3ef5b.pdf",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": false,
+      "fileCount": 1
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-wlc4gcrzq3c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york/#ajax-content-wrap"
+    },
+    {
+      "text": "Home",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-2hxzo319lk9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/"
+    },
+    {
+      "text": "Jobs",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-vgi45838ap\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/"
+    },
+    {
+      "text": "About",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-2fnvfl2d6r7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/about/"
+    },
+    {
+      "text": "Sectors",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-72dhtuf1r7m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/sectors/"
+    },
+    {
+      "text": "Community",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-kxz778y6vs\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/community/"
+    },
+    {
+      "text": "Contact",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-x4jtoxihuj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/contact/"
+    },
+    {
+      "text": "Register",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-x4g2j7kod2j\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/register/"
+    },
+    {
+      "text": "Hiring?",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-thjecaz388\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/hiring/"
+    },
+    {
+      "text": "Share on Linkedin",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-rl36g5n615m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/shareArticle?mini=true&url=https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york"
+    },
+    {
+      "text": "Share on Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-x0d69w0v0d\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.facebook.com/sharer/sharer.php?u=https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york"
+    },
+    {
+      "text": "Share on Twitter",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-dt8oz8ho05l\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://twitter.com/share?url=https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york"
+    },
+    {
+      "text": "< Back to Job Search",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-gxd5ixqdzj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/"
+    },
+    {
+      "text": "Apply for job",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-id66dou6yd\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "input",
+      "href": ""
+    },
+    {
+      "text": "Send application",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-e3s7kgpif7\"]",
+      "type": "submit",
+      "automationId": "",
+      "tagName": "input",
+      "href": ""
+    },
+    {
+      "text": "Software Development & Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-hr8iig5mxc4\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/?search_categories=software-development-engineering"
+    },
+    {
+      "text": "New York",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-hhx3p3vwyw\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/?search_location=New%20York"
+    },
+    {
+      "text": "Permanent",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-wi58uppmjlh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/?search_job_type=permanent"
+    },
+    {
+      "text": "Share",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-yb4a45bj26l\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york/#"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-sch33pg41x\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/infused-solutions-recruitment/"
+    },
+    {
+      "text": "Meetup",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-7udwnctgl4\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.meetup.com/infused-in-the-community/"
+    },
+    {
+      "text": "Twitter",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-su0gx2sk54\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://twitter.com/Infused_tech"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-0cl943tw1fe\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCy_BfR_OuKZcX467QGPD8Ew"
+    },
+    {
+      "text": "Home",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-73aiz1twf1a\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/"
+    },
+    {
+      "text": "Jobs",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-dol3ezgobk5\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/"
+    },
+    {
+      "text": "About",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-9ehit5thvwc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/about/"
+    },
+    {
+      "text": "Sectors",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-gv0tysvvjyk\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/sectors/"
+    },
+    {
+      "text": "Community",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-ouwdei5zhap\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/community/"
+    },
+    {
+      "text": "Contact",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-w4i8hlqifvf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/contact/"
+    },
+    {
+      "text": "Register",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-vdpaz1asyz\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/register/"
+    },
+    {
+      "text": "Hiring?",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-7cdrllu3ge\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/hiring/"
+    },
+    {
+      "text": "0161 511 8389",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-15otp62p2p\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "tel:01615118389"
+    },
+    {
+      "text": "hello@infusedsolutions.co.uk",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-6s0lewrru07\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "mailto:hello@infusedsolutions.co.uk"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-w4c0lkuxr8i\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/privacy-policy/"
+    },
+    {
+      "text": "Website Terms",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-yibdvmt8dsn\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/terms/"
+    },
+    {
+      "text": "Sitemap",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-iy5x31msxab\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/sitemap.xml"
+    },
+    {
+      "text": "Recsites",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-mhs22i7sndg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://recsites.com/"
+    },
+    {
+      "text": "Back to top",
+      "selector": "#to-top",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york/#"
+    },
+    {
+      "text": "Accept",
+      "selector": "[data-cviance-inspect=\"node-1778584027154-uwgd96215xo\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://infusedsolutions.co.uk/jobs/371562-software-development-engineering-ai-solutions-engineer-371562-new-york/#"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

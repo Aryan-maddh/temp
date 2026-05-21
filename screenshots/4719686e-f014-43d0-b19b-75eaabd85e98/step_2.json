@@ -1,0 +1,76 @@
+{
+  "url": "https://beckgroup.wd12.myworkdayjobs.com/en-US/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply/applyManually",
+  "title": "Sign In",
+  "text": "Skip to main content\nJoin Us\nSign In\nSearch for Jobs\nBack to Job Posting\nFinance Systems & Data Analyst\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nSign In\n\nBy signing in with your Google, LinkedIn, or Apple account, you agree to have the selected Provider send your name and email address to The Beck Group. This information will be used to create and manage your candidate profile in our system. Your password and all other Provider account information is kept private by the Provider and is not sent to The Beck Group. If you do not agree, please sign in using the ‘Sign in with email’ button below.\n\nSign in with Apple\nSign in with Google\nSign in with LinkedIn\nOR\nSign in with email\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://beckgroup.wd12.myworkdayjobs.com/en-US/beckgroupexternal/job/Dallas/Finance-Systems---Data-Analyst_JR101115/apply/applyManually"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with Apple",
+      "selector": "[data-automation-id=\"AppleSignInButton\"]",
+      "type": "button",
+      "automationId": "AppleSignInButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with Google",
+      "selector": "[data-automation-id=\"GoogleSignInButton\"]",
+      "type": "button",
+      "automationId": "GoogleSignInButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with LinkedIn",
+      "selector": "[data-automation-id=\"LinkedInSignInButton\"]",
+      "type": "button",
+      "automationId": "LinkedInSignInButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with email",
+      "selector": "[data-automation-id=\"SignInWithEmailButton\"]",
+      "type": "",
+      "automationId": "SignInWithEmailButton",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

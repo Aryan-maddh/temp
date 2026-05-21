@@ -1,0 +1,132 @@
+{
+  "url": "https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Customer-Insights-Data-Analyst_R1718235",
+  "title": "Apply With Us!",
+  "text": "Skip to main content\n\nUse of Cookies\nCookies are files or pieces of information that may be stored in your computer's hard drive when you visit a Web site. Cookies may also be used to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. We do not use cookies to retrieve information from your computer that was not voluntarily provided by you. The use of cookies is an industry standard and you will find them at most Web sites. Most browsers are initially set to accept cookies and you may change this functionality within your browser settings.\n\nThis website utilises a number of cookies required for the functionality of the website (essential cookies) as well as additional cookies to support functionality such as remembering previously provided information (non-essential cookies). By clicking ‘Accept’ you agree to the use of both essential and non-essential cookies whilst using this website. If you do not accept the use of these additional cookies, then you may click ‘Decline’ which will mean that only essential cookies will be used.  \n\nRead Full Privacy Message\nDecline\nAccept Cookies\nApply With Us!\nEnglish\nSign In\nVisit Concentrix.com\nSearch for Jobs\nThe page you are looking for doesn't exist.\nSearch for Jobs\nFollow Us\nPrivacy-Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Customer-Insights-Data-Analyst_R1718235"
+    },
+    {
+      "text": "Read Full Privacy Message",
+      "selector": "[data-automation-id=\"legalNoticeToggleButton\"]",
+      "type": "",
+      "automationId": "legalNoticeToggleButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Decline",
+      "selector": "[data-automation-id=\"legalNoticeDeclineButton\"]",
+      "type": "",
+      "automationId": "legalNoticeDeclineButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Accept Cookies",
+      "selector": "[data-automation-id=\"legalNoticeAcceptButton\"]",
+      "type": "",
+      "automationId": "legalNoticeAcceptButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Visit Concentrix.com",
+      "selector": "[data-automation-id=\"navigationItem-Visit Concentrix.com\"]",
+      "type": "",
+      "automationId": "navigationItem-Visit Concentrix.com",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"searchForJobsButton\"]",
+      "type": "",
+      "automationId": "searchForJobsButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779095997760-xq6ddw4k3f\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/concentrix.corporation/"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779095997760-wk34zze7fqi\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/concentrix"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779095997760-w21qomgj779\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/concentrix"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779095997760-bw1id1m61po\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/CNXCorporation"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779095997760-rqae3a799ip\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Concentrix-EI_IE31549.11,21.htm"
+    },
+    {
+      "text": "Privacy-Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.concentrix.com/privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

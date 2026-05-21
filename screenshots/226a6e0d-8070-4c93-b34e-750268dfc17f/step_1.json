@@ -1,0 +1,92 @@
+{
+  "url": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-FL-USA/QA-Engineer_R2600438/apply?source=LinkedIn",
+  "title": "Wiley Careers",
+  "text": "Skip to main content\nWiley Careers\nSign In\nHome\nSearch for Jobs\nJoin Our Talent Community!\nFollow Us\nWiley Privacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-FL-USA/QA-Engineer_R2600438/apply?source=LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Home",
+      "selector": "[data-automation-id=\"navigationItem-Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join Our Talent Community!",
+      "selector": "[data-automation-id=\"navigationItem-Join Our Talent Community!\"]",
+      "type": "",
+      "automationId": "navigationItem-Join Our Talent Community!",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778481591298-vhcr9a7ytbb\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://x.com/WileyGlobal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&mx=2"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778481591298-ejhsg3g326n\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/JohnWileySons/"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778481591298-0xd3gum6hxhd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Wiley-EI_IE1551.11,16.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778481591298-m2bsoz94pdl\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/john-wiley-and-sons/posts/?feedView=all"
+    },
+    {
+      "text": "Wiley Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.wiley.com/en-us/privacy"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

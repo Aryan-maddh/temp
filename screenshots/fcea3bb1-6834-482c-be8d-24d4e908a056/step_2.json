@@ -1,0 +1,321 @@
+{
+  "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Student--Data-Analyst--Fall-2026-_JR00122874/apply/applyManually",
+  "title": "Create Account",
+  "text": "Skip to main content\nSun Life Careers\nEnglish\nSign In\nSearch for Jobs\nBack to Job Posting\nStudent, Data Analyst (Fall 2026)\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions 1 of 2\nstep 5 of 7\nApplication Questions 2 of 2\nstep 6 of 7\nVoluntary Disclosures\nstep 7 of 7\nReview\nCreate Account\n\nPassword Requirements:\n\nA lowercase character\nAn uppercase character\nAn alphabetic character\nA special character\nA numeric character\nA minimum of 8 characters\nEmail Address*\nPassword*\nVerify New Password*\n\nThank you for your interest in a career at Sun Life. In these Terms and Conditions, “Sun Life”, “we”, “us” and “our” mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and any of our global companies, affiliates, or branch operations.\n\nIt’s our global commitment to use fair and legal means to collect your personal information. We will process, collect, use, store, access, and transfer your information in accordance with these Terms and Conditions.   We use it in a legal, respectful, and fair manner and we comply with local laws and regulatory requirements in each country we operate in.  We reserve the right in our sole discretion to withdraw, revise or update these Terms and Conditions from time to time without notice. All modifications are effective immediately upon posting. \n\nPrior to providing your personal information, review the Sun Life Global Privacy Statement and relevant jurisdiction policy(s) based on the primary location of the role/s you are applying for. \n\nGlobal Privacy Statement\n\nBermuda\n\nCanada\n\nHong Kong, SAR\n\nIndonesia\n\nIreland\n\nPhilippines\n\nSingapore\n\nUnited States\n\nCalifornia\n\nVietnam\n\nWhat information we collect\n\nWe collect your personal information as part of the application and recruitment process that may include:\n\nIdentifiers such as name, address, email address, phone number, signatures\n\nEmployment and professional history, education, skills, competencies, l",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "#input-4",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "#input-5",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Verify New Password",
+      "selector": "#input-6",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "verifyPassword",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Yes, I have read and consent to the terms and conditions.",
+      "selector": "#input-9",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "createAccountCheckbox",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#\\30 618f67f-109c-4d34-b605-3105f6eeb1e3",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Student--Data-Analyst--Fall-2026-_JR00122874/apply/applyManually"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Global Privacy Statement",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-xfap8cdhiza\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-worldwide/en/privacy/our-global-privacy-commitment/"
+    },
+    {
+      "text": "Bermuda",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-56g2mut6f7a\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-international/en/privacy/"
+    },
+    {
+      "text": "Canada",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-m514tj71e1m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-canada/en/privacy/"
+    },
+    {
+      "text": "Hong Kong, SAR",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-i24cazdnj1\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-hong-kong/en/privacy/"
+    },
+    {
+      "text": "Indonesia",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-16fpsvgto3ph\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-indonesia/en/privacy/"
+    },
+    {
+      "text": "Ireland",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-ultcags0k58\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.ie/content/dam/sunlife/regional/ireland/documents/employee-data-protection-notice-ireland.pdf"
+    },
+    {
+      "text": "Philippines",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-ciubikuhiya\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-philippines/en/privacy/"
+    },
+    {
+      "text": "Singapore",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-lwl3ppju8ib\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-singapore/en/privacy/"
+    },
+    {
+      "text": "United States",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-xip75gc3u0o\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-united-states/en/privacy/"
+    },
+    {
+      "text": "California",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-j9x0ycms1dl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/us/en/about/careers/?country=https%3A%2F%2Fwww.sunlife.com%2Fus%2Fen%2Fabout%2Fcareers%2F&Go=Go"
+    },
+    {
+      "text": "Vietnam",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-w6x16dp3wmb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-vietnam/vn/privacy/"
+    },
+    {
+      "text": "Global Privacy Statement",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-c9zmgucwu3v\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-worldwide/en/privacy/our-global-privacy-commitment/"
+    },
+    {
+      "text": "Security",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-m8pznz23i\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.sunlife.com/sl/pslf-worldwide/en/security/"
+    },
+    {
+      "text": "data.protection.ireland@sunlife.com",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-k1mtkraejc9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "mailto:data.protection.ireland@sunlife.com"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 0",
+      "type": "button",
+      "automationId": "createAccountExpandButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"click_filter\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountSubmitButton\"]",
+      "type": "submit",
+      "automationId": "createAccountSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInLink\"]",
+      "type": "",
+      "automationId": "signInLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-automation-id=\"forgotPasswordLink\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-u9sg74db1yo\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/SunLife"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778571126185-2pmh93zmrvv\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/groups/4242399"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,68 @@
+{
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Digital-Channels-Product-Analyst_2026-00783",
+  "title": "Digital Channels Product Analyst - Logo",
+  "text": "Skip to main content\nSign In\nSearch for Jobs\nDigital Channels Product Analyst page is loaded\nDigital Channels Product Analyst\nApply\nlocations\nPittsburgh, PA\ntime type\nFull time\nposted on\nPosted 30+ Days Ago\njob requisition id\n2026-00783\nPrimary Office Location:\n626 Washington Place. Pittsburgh, Pennsylvania. 15219.\n\nJoin our team. Make a difference - for us and for your future.\n\nPosition Title: Digital Channels Product Analyst\n\nBusiness Unit: Retail Operations\n\nReports to: Varies by Assignment\n\nPosition Overview:\n\nPosition is responsible for supporting the development and implementation of digital solutions for FNB including assisting with the management of assigned services which may include online account onboarding and opening, online and mobile account access platforms, card and payment services, or other related areas. Participates in all aspects of product management including analyzing existing product performance and developing and improving our product offerings to meet market demand while enhancing our competitive advantage and profitability.\n\nPrimary Responsibilities:\n\nSupports Product Managers in the selection, design, development, and promotion of digital experiences for assigned areas of responsibility.\n\nCompletes basic analysis of digital experience, market trends, and third-party requirements as necessary, in support of the development of new and existing digital experiences. May help in the development of a business case, business plan, and roll-out of experiences.\n\nAssists in efforts to increase the penetration and usage of digital channels to attract new customers and retain existing clients.\n\nHelps to locate and evaluate new vendors, including assisting in the negotiation and administration of contracts for the provision of products and services to support the organization's digital strategy.\n\nExecutes customer-focused quality assessments and improvement processes. As part of the first line of defense, supports risk management, compliance, and au",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Digital-Channels-Product-Analyst_2026-00783"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Apply",
+      "selector": "[data-automation-id=\"adventureButton\"]",
+      "type": "",
+      "automationId": "adventureButton",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Digital-Channels-Product-Analyst_2026-00783/apply"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\31 0",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779350423430-5tqr6frmxgg\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-F-N-B-PA-EI_IE4832.11,19.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779350423431-e057f4wq6l4\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/f-n-b--corporation"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

@@ -1,0 +1,203 @@
+{
+  "url": "https://jobs.ashbyhq.com/clair/9ec02f1f-dbda-43c4-a982-47e97575ae44/application?src=LinkedIn",
+  "title": "QA Engineer @ Clair",
+  "text": "QA Engineer\nLocation\n\nRemote\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nRemote\n\nDepartment\n\nTechnology\n\nCompensation\nRemote\n$65K – $75K • Offers Equity\nNYC\n$85K – $95K • Offers Equity\nOverview\nApplication\nAutofill from resume\n\nUpload your resume here to autofill key application fields.\n\nUpload file\nName\nEmail\nResume\nUpload File\n\nor drag and drop here\n\nLinkedIn Profile\nA Product Manager hands you this one-sentence user story to test tomorrow: 'As a user, I want a password reset button so I can recover my account.' What are the first three questions you ask the Product Manager before you write a single test case?\nSubmit Application\nPowered by \n\nPrivacy PolicySecurityVulnerability Disclosure",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Name",
+      "selector": "#_systemfield_name",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Type here...",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "email",
+      "label": "Email",
+      "selector": "#_systemfield_email",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "hello@example.com...",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "LinkedIn Profile",
+      "selector": "#d35e379f-4f00-4c9a-ba4e-978016fd13d5",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Type here...",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "textarea",
+      "label": "A Product Manager hands you this one-sentence user story to test tomorrow: 'As a user, I want a password reset button so I can recover my account.' What are the first three questions you ask the Product Manager before you write a single test case?",
+      "selector": "#\\33 c689b95-25e1-4f0b-9b89-1317e3ef450e",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Type here...",
+      "automationId": "",
+      "controlKind": "textarea",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "textarea",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "file",
+      "label": "Overview Application",
+      "selector": "[data-cviance-inspect=\"node-1778582301504-55gzsaoiw73\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": false,
+      "fileCount": 0
+    },
+    {
+      "type": "file",
+      "label": "Resume",
+      "selector": "#_systemfield_resume",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": false,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Back to Clair’s Job Listings",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-bo5mbvjy5ts\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.ashbyhq.com/clair?src=LinkedIn"
+    },
+    {
+      "text": "Overview",
+      "selector": "#job-overview",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.ashbyhq.com/clair/9ec02f1f-dbda-43c4-a982-47e97575ae44?src=LinkedIn"
+    },
+    {
+      "text": "Application",
+      "selector": "#job-application-form",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jobs.ashbyhq.com/clair/9ec02f1f-dbda-43c4-a982-47e97575ae44/application?src=LinkedIn"
+    },
+    {
+      "text": "Upload file",
+      "selector": "[data-cviance-inspect=\"node-1778582301505-dnqboao56u\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Upload File",
+      "selector": "[data-cviance-inspect=\"node-1778582301505-ofbkftek2c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Submit Application",
+      "selector": "[data-cviance-inspect=\"node-1778582301505-jvbcg3eyi9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Powered by",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-4d23boeptrj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778582274285-bk78jztn9g6\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/privacy"
+    },
+    {
+      "text": "Security",
+      "selector": "[data-cviance-inspect=\"node-1778582274286-ybjszo262cl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/security"
+    },
+    {
+      "text": "Vulnerability Disclosure",
+      "selector": "[data-cviance-inspect=\"node-1778582274286-loxr4hcfl8f\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.ashbyhq.com/disclosure"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

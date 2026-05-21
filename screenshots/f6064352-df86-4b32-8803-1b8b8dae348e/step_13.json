@@ -1,0 +1,354 @@
+{
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply/applyManually",
+  "title": "Digital Channels Product Analyst",
+  "text": "Skip to main content\nSettings\nnah@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nDigital Channels Product Analyst\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncompleted step 3 of 6\nApplication Questions\ncompleted step 4 of 6\nVoluntary Disclosures\ncurrent step 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nSelf Identify\n* Indicates a required field\nLanguage*\nEnglish\nVoluntary Self-Identification of Disability\nForm\nCC-305\nOMB Control Number\n1250-0005\nExpires\n04/30/2026\nName\nEmployee ID (if applicable)\nDate\ncurrent value is MM/DD/YYYY\nMM\n/\nDD\n/\nYYYY\nWhy are you being asked to complete this form?\nWe are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.\n\nCompleting this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.\nHow do you know if you have a disability?\nA disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:\n\n\nAlcohol or other substance use disorder (not currently using drugs illegally)\nAutoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS\nBlind or low vision\nCancer (past or",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Language",
+      "selector": "#selfIdentifiedDisabilityData--disabilityForm",
+      "value": "c17fb198564510000de6e6b35bb80000",
+      "selectedText": "English",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Name",
+      "selector": "#selfIdentifiedDisabilityData--name",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Employee ID (if applicable)",
+      "selector": "#selfIdentifiedDisabilityData--employeeId",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Date",
+      "selector": "#selfIdentifiedDisabilityData--dateSignedOn-dateSectionMonth-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionMonth-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "current value is MM/DD/YYYY",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Date",
+      "selector": "#selfIdentifiedDisabilityData--dateSignedOn-dateSectionDay-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionDay-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Date",
+      "selector": "#selfIdentifiedDisabilityData--dateSignedOn-dateSectionYear-input",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "dateSectionYear-input",
+      "controlKind": "date_input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "spinbutton",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please check one of the boxes below:",
+      "selector": "#\\36 4cbff5f364f10000ae7a421cf210000-disabilityStatus",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Yes, I have a disability, or have had one in the past",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000ae7a421cf210000-disabilityStatus"
+        },
+        {
+          "value": "on",
+          "label": "No, I do not have a disability and have not had one in the past",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000aeec521b4ec0000-disabilityStatus"
+        },
+        {
+          "value": "on",
+          "label": "I do not want to answer",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000af3af293a050000-disabilityStatus"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please check one of the boxes below:",
+      "selector": "#\\36 4cbff5f364f10000aeec521b4ec0000-disabilityStatus",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Yes, I have a disability, or have had one in the past",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000ae7a421cf210000-disabilityStatus"
+        },
+        {
+          "value": "on",
+          "label": "No, I do not have a disability and have not had one in the past",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000aeec521b4ec0000-disabilityStatus"
+        },
+        {
+          "value": "on",
+          "label": "I do not want to answer",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000af3af293a050000-disabilityStatus"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please check one of the boxes below:",
+      "selector": "#\\36 4cbff5f364f10000af3af293a050000-disabilityStatus",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Yes, I have a disability, or have had one in the past",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000ae7a421cf210000-disabilityStatus"
+        },
+        {
+          "value": "on",
+          "label": "No, I do not have a disability and have not had one in the past",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000aeec521b4ec0000-disabilityStatus"
+        },
+        {
+          "value": "on",
+          "label": "I do not want to answer",
+          "checked": false,
+          "selector": "#\\36 4cbff5f364f10000af3af293a050000-disabilityStatus"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply/applyManually"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "nah@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "English",
+      "selector": "#selfIdentifiedDisabilityData--disabilityForm",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Calendar",
+      "selector": "[data-automation-id=\"dateIcon\"]",
+      "type": "",
+      "automationId": "dateIcon",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779251598722-s1bof7h0ct7\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-F-N-B-PA-EI_IE4832.11,19.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779251598722-z81d28iuyee\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/f-n-b--corporation"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

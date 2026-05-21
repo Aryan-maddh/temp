@@ -1,0 +1,296 @@
+{
+  "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale%2C-IA/Software-Engineer-I_JR4072/apply/applyManually",
+  "title": "Sign In",
+  "text": "Skip to main content\nSettings\nnah@gmail.com\nIntegrity Careers Home Page\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nSoftware Engineer I\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncompleted step 3 of 6\nApplication Questions\ncurrent step 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nVoluntary Disclosures\n* Indicates a required field\nErrors Found\nError-Please select the ethnicity which most accurately describes how you identify yourself.\nThe field Please select the ethnicity which most accurately describes how you identify yourself. is required and must have a value.\nPersonal Information\n\nIndividuals seeking employment are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.\n\nCompletion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.\n\nWe are a Government contractor subject to the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended by the Jobs for Veterans Act of 2002, 38 U.S.C. 4212 (VEVRAA), which requires Government contractors to take affirmative action to employ and advance in employment: (1) disabled veterans; (2) recently separated veterans; (3) active duty wartime or campaign badge veterans; and (4) Armed Forces service medal veterans. These classifications are defined as follows and are hereafter referred to all together as “protected veterans”: A Disabled Veteran is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitl",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Please the ethnicity which most accurately describes how you identify yourself.",
+      "selector": "#personalInfoUS--ethnicity",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": true,
+      "errorText": "Error: The field Please select the ethnicity which most accurately describes how you identify yourself. is required and must have a value.",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Are you Hispanic/Latino?",
+      "selector": "#personalInfoUS--hispanicOrLatino",
+      "value": "false",
+      "selectedText": "No",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please your gender.",
+      "selector": "#personalInfoUS--gender",
+      "value": "b5e787a355d31001037a1df52eb90000",
+      "selectedText": "Male",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please the veteran status which most accurately describes your status.",
+      "selector": "#personalInfoUS--veteranStatus",
+      "value": "3e197981e3c410010368bfc233a40000",
+      "selectedText": "I am not a Veteran",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "I consent to the terms and conditions.",
+      "selector": "#termsAndConditions--acceptTermsAndAgreements",
+      "value": "on",
+      "selectedText": "",
+      "checked": true,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "I consent to the terms and conditions.*",
+          "checked": true,
+          "selector": "#termsAndConditions--acceptTermsAndAgreements"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale%2C-IA/Software-Engineer-I_JR4072/apply/applyManually"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "nah@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Integrity Careers Home Page",
+      "selector": "[data-automation-id=\"navigationItem-Integrity Careers Home Page\"]",
+      "type": "",
+      "automationId": "navigationItem-Integrity Careers Home Page",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Errors Found",
+      "selector": "[data-cviance-inspect=\"node-1779251437403-ki4esd31ze\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Error-Please select the ethnicity which most accurately describes how you identify yourself.",
+      "selector": "[data-cviance-inspect=\"node-1779251437403-8tib64jb8gc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Select One",
+      "selector": "#personalInfoUS--ethnicity",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "No",
+      "selector": "#personalInfoUS--hispanicOrLatino",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Male",
+      "selector": "#personalInfoUS--gender",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "I am not a Veteran",
+      "selector": "#personalInfoUS--veteranStatus",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779251175064-omcebbx71o8\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Integrity-Marketing-Group-EI_IE873106.11,36.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779251175064-yyl7ks8c9r8\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/IntegrityMG"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779251175064-7tvgt7s64cc\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/IntegrityMG"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779251175064-jdvr62eksi\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCXgwXbY_fkDjn8GjdsnfZWw"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779251175064-zpm1vrbi6j\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/integrity-marketing./"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.integritymarketing.com/privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

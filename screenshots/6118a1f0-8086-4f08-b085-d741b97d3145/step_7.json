@@ -1,0 +1,764 @@
+{
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply",
+  "title": "Digital Channels Product Analyst",
+  "text": "Skip to main content\nSettings\npankaj@gmail.com\nSearch for Jobs\nCandidate Home\nJob Alerts\nBack to Job Posting\nDigital Channels Product Analyst\ncompleted step 1 of 6\nMy Information\ncompleted step 2 of 6\nMy Experience\ncompleted step 3 of 6\nApplication Questions\ncurrent step 4 of 6\nVoluntary Disclosures\nstep 5 of 6\nSelf Identify\nstep 6 of 6\nReview\nVoluntary Disclosures\n* Indicates a required field\nPersonal Data Statement\n\nIndividuals seeking employment are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.\n\nCompletion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.\n\nPlease select your gender\nMale\nPlease select a status\nI IDENTIFY AS ONE OR MORE OF THE CLASSIFICATIONS OF PROTECTED VETERANS LISTED ABOVE\nPlease select your ethnicity\nAmerican Indian or Alaska Native (Not Hispanic or Latino) (United States of America)\nAsian (Not Hispanic or Latino) (United States of America)\nBlack or African American (Not Hispanic or Latino) (United States of America)\nHispanic or Latino (United States of America)\nI prefer not to disclose. (United States of America)\nNative Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)\nTwo or More Races (Not Hispanic or Latino) (United States of America)\nWhite (Not Hispanic or Latino) (United States of America)\nHispanic or Latino?\nYes\nTerms and Conditions\nWe respect the privacy of candidates for employment. This Privacy Notice sets forth how we will use the information we obtain when you apply for a position th",
+  "fields": [
+    {
+      "type": "select-one",
+      "label": "Please your gender",
+      "selector": "#personalInfoUS--gender",
+      "value": "604cb6f3581810598a2f3116f66ca812",
+      "selectedText": "Male",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Please a status",
+      "selector": "#personalInfoUS--veteranStatus",
+      "value": "470d048f3baa105c4bf6f6b7fa2616c8",
+      "selectedText": "I IDENTIFY AS ONE OR MORE OF THE CLASSIFICATIONS OF PROTECTED VETERANS LISTED ABOVE",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Please your ethnicity",
+      "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243a8e8ffaa746-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Asian (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24252cd158a73e-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Black or African American (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a242d6b7f2ba741-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Hispanic or Latino (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a243024f9f4a742-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "I prefer not to disclose. (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a263485f40ea806-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2432dd81dea743-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "Two or More Races (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a2435dcc638a744-ethnicityMulti"
+        },
+        {
+          "value": "on",
+          "label": "White (Not Hispanic or Latino) (United States of America)",
+          "checked": false,
+          "selector": "#\\36 04cb6f3581810598a24383ab57ea745-ethnicityMulti"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "select-one",
+      "label": "Hispanic or Latino?",
+      "selector": "#personalInfoUS--hispanicOrLatino",
+      "value": "true",
+      "selectedText": "Yes",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "popup_select_button",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "button",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Yes, I have read and consent to the terms and conditions",
+      "selector": "#termsAndConditions--acceptTermsAndAgreements",
+      "value": "on",
+      "selectedText": "",
+      "checked": true,
+      "required": true,
+      "options": [],
+      "radioOptions": [
+        {
+          "value": "on",
+          "label": "Yes, I have read and consent to the terms and conditions*",
+          "checked": true,
+          "selector": "#termsAndConditions--acceptTermsAndAgreements"
+        }
+      ],
+      "placeholder": "",
+      "automationId": "",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply"
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "pankaj@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Candidate Home",
+      "selector": "[data-automation-id=\"navigationItem-Candidate Home\"]",
+      "type": "",
+      "automationId": "navigationItem-Candidate Home",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Alerts",
+      "selector": "[data-automation-id=\"navigationItem-Job Alerts\"]",
+      "type": "",
+      "automationId": "navigationItem-Job Alerts",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Male",
+      "selector": "#personalInfoUS--gender",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "I IDENTIFY AS ONE OR MORE OF THE CLASSIFICATIONS OF PROTECTED VETERANS LISTED ABOVE",
+      "selector": "#personalInfoUS--veteranStatus",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Yes",
+      "selector": "#personalInfoUS--hispanicOrLatino",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Save and Continue",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779107657140-u2occwsbk9\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-F-N-B-PA-EI_IE4832.11,19.htm"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779107657140-twc943lcr7j\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/f-n-b--corporation"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

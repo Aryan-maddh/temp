@@ -1,0 +1,68 @@
+{
+  "url": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply",
+  "title": "Software Engineer",
+  "text": "Skip to main content\nEnglish\nSettings\njohn@gmail.com\nBack to Job Posting\nSoftware Engineer\ncompleted step 1 of 5\nMy Information\ncompleted step 2 of 5\nMy Experience\ncompleted step 3 of 5\nApplication Questions\ncompleted step 4 of 5\nVoluntary Disclosures\ncurrent step 5 of 5\nReview\nReview\nMy Information\nHow Did You Hear About Us?\nLinkedIn\nHave you ever been employed with Crate and Barrel | CB2 | Hudson Grace? (Current Associates: Please apply via your internal Workday account instead).\nNo\nLegal Name\nJohn aapte (John aapte)\nI have a preferred name\nNo\nAddress\n102 , society\nJaipur- 387645\nIndia\nEmail Address\njohn@gmail.com\nPhone\n087546 65421 (Mobile)\nMy Experience\nWork Experience\nNo Response\nEducation\nNo Response\nLanguages\nNo Response\nResume/CV\n\n38975225-1e74-4956-9569-a8169df3ef5b.pdf\n280.71 KB\n\nWebsites\nAdd any relevant websites.\nNo Response\nApplication Questions\n\nAre you at least 18 years of age?*\n\nYes\n\nAre you eligible to work legally in the United States?*\n\nYes\n\nWill you now or in the future require sponsorship for employment visa status? (For example, are you now working for another employer in H-1B status who will need an H-1B transfer, or are you an F-1 student who will need H-1B sponsorship in the future?)*\n\nYes\n\nHave you ever worked for Crate and Barrel, CB2 or Hudson Grace?*\n\nNo\n\nIf you were referred by a current Associate, please provide their full name\n\nJohn aapte\n\nAre you able to perform the tasks listed in the job description, either with or without accommodations?*\n\nYes\nVoluntary Disclosures\nTerms and Conditions\nI agree to the statements of the authorization above.\nYes\nBack\nSubmit",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Settings",
+      "selector": "#settingsSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "john@gmail.com",
+      "selector": "#accountSettingsButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back",
+      "selector": "[data-automation-id=\"pageFooterBackButton\"]",
+      "type": "",
+      "automationId": "pageFooterBackButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Submit",
+      "selector": "[data-automation-id=\"pageFooterNextButton\"]",
+      "type": "",
+      "automationId": "pageFooterNextButton",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

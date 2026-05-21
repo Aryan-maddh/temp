@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gdit.com/careers/?source=AutoAppend_LinkedIn",
+  "title": "GDIT Careers | Apply Now",
+  "text": "CAREERS\n\nOpportunity Owned\n\nFrom working with technologies like AI, cyber and cloud to careers in intelligence and health, we offer endless opportunities to apply your expertise to create a safer, smarter world.\n",
+  "fields": [],
+  "buttons": [],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "CAREERS\n\nOpportunity Owned\n\nFrom working with technologies like AI, cyber and cloud to careers in intelligence and health, we offer endless opportunities to apply your expertise to create a safer, smarter world.",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778497362992-pg0xser5i6p\"]",
+      "active": true
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

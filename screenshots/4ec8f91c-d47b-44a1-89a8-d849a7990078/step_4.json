@@ -1,0 +1,121 @@
+{
+  "url": "https://crateandbarrel.wd1.myworkdayjobs.com/en-US/cbh/job/Remote---USA/Software-Engineer_R24398/apply/applyManually",
+  "title": "Sign In",
+  "text": "Sign In\nEmail Address*\nPassword*\nSign In\nDon't have an account yet?\nCreate Account\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "[data-cviance-inspect=\"node-1778850270462-rqcxbo4tcv\"]",
+      "value": "live.test.candidate@example.com",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "[data-cviance-inspect=\"node-1778850270462-l0ehx28zeue\"]",
+      "value": "Mx6Vu@CoXyuV4mjoko",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#a0a7467e-35c8-4e66-bda6-d377f36a3b14",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-cviance-inspect=\"node-1778850270462-60gtvi1fe1b\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-cviance-inspect=\"node-1778850270462-yk84lewlw0m\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInSubmitButton\"]",
+      "type": "submit",
+      "automationId": "signInSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountLink\"]",
+      "type": "",
+      "automationId": "createAccountLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-cviance-inspect=\"node-1778850270462-7kalhytgbnn\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Sign In\nEmail Address*\nPassword*\nSign In\nDon't have an account yet?\nCreate Account\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.",
+      "automationId": "popUpDialog",
+      "selector": "[data-automation-id=\"popUpDialog\"]",
+      "active": true
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

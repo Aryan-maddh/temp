@@ -1,0 +1,73 @@
+{
+  "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Digital-Channels-Product-Analyst_2026-00783",
+  "title": "Digital Channels Product Analyst - Logo",
+  "text": "Start Your Application\nDigital Channels Product Analyst\nAutofill with Resume\nApply Manually\nUse My Last Application",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh%2C-PA/Digital-Channels-Product-Analyst_2026-00783/apply/useMyLastApplication"
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nDigital Channels Product Analyst\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nDigital Channels Product Analyst\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nDigital Channels Product Analyst\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779251586311-j879v0chrlp\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nDigital Channels Product Analyst\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1779251586311-zvcxfjest2\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

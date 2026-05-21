@@ -1,0 +1,385 @@
+{
+  "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs",
+  "title": "Search for Jobs",
+  "text": "Skip to main content\nManulife and John Hancock Careers\nEnglish\nSign In\nSearch for Jobs\nSearch\nFilters\nDistance or Location\nTime Type\nJob Category\nMore\nSearch for Jobs page is loaded\n\n683 JOBS FOUND\n\nSr. Data Analyst\nlocations\n2 Locations\nposted on\nPosted 2 Days Ago\nJR26050233Quezon City\nSr. Data Analyst\nlocations\nQuezon City\nposted on\nPosted 2 Days Ago\nJR26041889Quezon City\nSr. Technical Lead\nlocations\nQuezon City\nposted on\nPosted 2 Days Ago\nJR26042006Quezon City\nInvestment Lending Consultant\nlocations\n3 Locations\nposted on\nPosted 3 Days Ago\nJR26031880Work At Home\nSr. Data Analyst\nlocations\nQuezon City\nposted on\nPosted 2 Days Ago\nJR26041549Quezon City\nSenior Underwriting Consultant, Risk Management\nlocations\n10 Locations\nposted on\nPosted 3 Days Ago\nJR26011620Work At Home\nForeman\nlocations\nCorning, California\nposted on\nPosted 3 Days Ago\nJR25111314Corning\nRegion Manager\nlocations\nLa Grande, Oregon\nposted on\nPosted 3 Days Ago\nJR26050488La Grande\nDirector, Creative Design Services\nlocations\nBoston, Massachusetts\nposted on\nPosted 3 Days Ago\nJR26050287Boston\nIT Service Delivery Lead\nlocations\n2 Locations\nposted on\nPosted 3 Days Ago\nJR26041280Quezon City\nMarketing Coordinator\nlocations\nToronto, Ontario\nposted on\nPosted 3 Days Ago\nJR26041479Toronto\nExternal Wholesaler - Mass Market\nlocations\nCAN, Quebec - Full Time Remote\nposted on\nPosted 3 Days Ago\nJR26031059Work At Home\nBilingual, Sponsor Support Specialist\nlocations\n3 Locations\nposted on\nPosted 3 Days Ago\nJR26030493Montreal\nBilingual Mortgage Solutions Specialist\nlocations\n3 Locations\nposted on\nPosted 3 Days Ago\nJR26020441Work At Home\nTeam Lead, Global Fund Oversight\nlocations\nQuezon City\nposted on\nPosted 3 Days Ago\nJR26050141Quezon City\nCompliance Testing Analyst\nlocations\n2 Locations\nposted on\nPosted 3 Days Ago\nJR25101547Quezon City\nCompliance Senior Analyst, Testing CoE\nlocations\n2 Locations\nposted on\nPosted 3 Days Ago\nJR26041845Lapu Lapu City\nCompliance Senior Analyst, Testing CoE\nlocations\n2 Locations\nposted on\nPost",
+  "fields": [
+    {
+      "type": "text",
+      "label": "keywordSearchInput",
+      "selector": "#thvf2",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "Search for jobs or keywords",
+      "automationId": "keywordSearchInput",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs"
+    },
+    {
+      "text": "English",
+      "selector": "#languageSelectorButton",
+      "type": "",
+      "automationId": "utilityMenuButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search",
+      "selector": "#\\35 3257a29-e2cd-4bb1-b83f-7c3efbc197b1",
+      "type": "submit",
+      "automationId": "keywordSearchButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Distance or Location",
+      "selector": "#thvf4",
+      "type": "",
+      "automationId": "distanceLocation",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Time Type",
+      "selector": "#thvf5",
+      "type": "",
+      "automationId": "employmentType",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Job Category",
+      "selector": "#thvf6",
+      "type": "",
+      "automationId": "jobFamilyGroup",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "More",
+      "selector": "#thvf7",
+      "type": "",
+      "automationId": "more",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sr. Data Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-vutyihja4vq\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Sr-Data-Analyst_JR26050233"
+    },
+    {
+      "text": "Sr. Data Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-t4bit0ye33\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Sr-Data-Analyst_JR26041889"
+    },
+    {
+      "text": "Sr. Technical Lead",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-rkjqhsge1mq\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Sr-Technical-Lead_JR26042006"
+    },
+    {
+      "text": "Investment Lending Consultant",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-y16rvzj0wio\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Quebec---Full-Time-Remote/Investment-Lending-Consultant_JR26031880-1"
+    },
+    {
+      "text": "Sr. Data Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-z6hmlr6lu9m\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Sr-Data-Analyst_JR26041549"
+    },
+    {
+      "text": "Senior Underwriting Consultant, Risk Management",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-xqwq1q4k39g\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Ontario---Full-Time-Remote/Senior-Underwriting-Consultant--Risk-Management_JR26011620-1"
+    },
+    {
+      "text": "Foreman",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-2dsmmz0jhun\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Corning-California/Foreman_JR25111314"
+    },
+    {
+      "text": "Region Manager",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-775llqrkq98\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/La-Grande-Oregon/Region-Manager_JR26050488"
+    },
+    {
+      "text": "Director, Creative Design Services",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-wdh1j7otlo\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Director--Creative-Design-Services_JR26050287"
+    },
+    {
+      "text": "IT Service Delivery Lead",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-74tg3jx3ac\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/IT-Service-Delivery-Lead_JR26041280"
+    },
+    {
+      "text": "Marketing Coordinator",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-y25vgroisz\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Marketing-Coordinator_JR26041479-1"
+    },
+    {
+      "text": "External Wholesaler - Mass Market",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-zvv8ihfeota\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Quebec---Full-Time-Remote/Wholesaler---Mass-Market_JR26031059-1"
+    },
+    {
+      "text": "Bilingual, Sponsor Support Specialist",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-zc0257gd2y8\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Montreal-Quebec/Sponsor-Support-Specialist_JR26030493"
+    },
+    {
+      "text": "Bilingual Mortgage Solutions Specialist",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-pnleho7f8b\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Quebec---Full-Time-Remote/Bilingual-Mortgage-Solutions-Specialist_JR26020441-2"
+    },
+    {
+      "text": "Team Lead, Global Fund Oversight",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-t4d0dumxrx\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Team-Lead--Global-Fund-Oversight_JR26050141-1"
+    },
+    {
+      "text": "Compliance Testing Analyst",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-90nssq73hyk\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Quezon-City/Compliance-Testing-Analyst_JR25101547"
+    },
+    {
+      "text": "Compliance Senior Analyst, Testing CoE",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-h52ez6zbm6d\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Lapu-Lapu-City/Compliance-Senior-Analyst--Testing-CoE_JR26041845"
+    },
+    {
+      "text": "Compliance Senior Analyst, Testing CoE",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-tfanw7384h\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Lapu-Lapu-City/Compliance-Senior-Analyst--Testing-CoE_JR26041842"
+    },
+    {
+      "text": "Activation Marketing Manager",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-adwfiw18r4g\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Activation-Marketing-Manager_JR26042045"
+    },
+    {
+      "text": "Brand Director",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-vi479vmhmyl\"]",
+      "type": "",
+      "automationId": "jobTitle",
+      "tagName": "a",
+      "href": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Brand-Director_JR26041892"
+    },
+    {
+      "text": "previous",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-e6cbtjfg1ma\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-158vkyk0jprj\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-qzffj3sap7l\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-q946p8eehj\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "4",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-syli51zozb\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-gtv1302elbr\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "next",
+      "selector": "[data-cviance-inspect=\"node-1778499551729-x5l8ganj6vj\"]",
+      "type": "button",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "https://www.manulife.com/",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-5ptz76n5ttt\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.manulife.com/"
+    },
+    {
+      "text": "Read More",
+      "selector": "#\\33 5",
+      "type": "button",
+      "automationId": "readMore",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Play video ",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-mt9bx7i4v7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-ua4c8iy10p\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/manulife-financial"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-5grzfm04ue\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.twitter.com/manulife"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-4p8ovglwhet\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/Manulife"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-rc0s0knwwf\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/user/ManulifeFinancial"
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1778499530990-lfii8xmtc7\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.ca/Overview/Working-at-Manulife-EI_IE9373.11%2C19.htm"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

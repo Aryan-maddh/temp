@@ -1,0 +1,73 @@
+{
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1?source=AutoAppend_LinkedIn",
+  "title": "AI Engineer",
+  "text": "Start Your Application\nAI Engineer\n\nFirst time applying? Select Autofill with Resume or Apply Manually. GDIT Employees must apply via the Find GDIT Jobs App in Workday.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location-%2F-Remote/AI-Engineer_RQ219864-1/apply/autofillWithResume?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location-%2F-Remote/AI-Engineer_RQ219864-1/apply/applyManually?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location-%2F-Remote/AI-Engineer_RQ219864-1/apply/useMyLastApplication?source=AutoAppend_LinkedIn"
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nAI Engineer\n\nFirst time applying? Select Autofill with Resume or Apply Manually. GDIT Employees must apply via the Find GDIT Jobs App in Workday.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nAI Engineer\n\nFirst time applying? Select Autofill with Resume or Apply Manually. GDIT Employees must apply via the Find GDIT Jobs App in Workday.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nAI Engineer\n\nFirst time applying? Select Autofill with Resume or Apply Manually. GDIT Employees must apply via the Find GDIT Jobs App in Workday.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778497379597-7sn1ek88fls\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nAI Engineer\n\nFirst time applying? Select Autofill with Resume or Apply Manually. GDIT Employees must apply via the Find GDIT Jobs App in Workday.\n\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778497379597-py146ui67wr\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

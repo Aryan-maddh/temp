@@ -1,0 +1,84 @@
+{
+  "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Product-Manager_R0021177/apply",
+  "title": "Product Manager",
+  "text": "Skip to main content\nSign In\nSearch for Jobs\nIntroduce Yourself\nStart Your Application\nProduct Manager\nAutofill with Resume\nApply Manually\nUse My Last Application\nFollow Us\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Product-Manager_R0021177/apply"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Introduce Yourself",
+      "selector": "[data-automation-id=\"navigationItem-Introduce Yourself\"]",
+      "type": "",
+      "automationId": "navigationItem-Introduce Yourself",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Product-Manager_R0021177/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Product-Manager_R0021177/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Product-Manager_R0021177/apply/useMyLastApplication"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778500159341-mze94pbzkn\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/AscensusInc"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778500159341-ul6fzgdiujd\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/ascensus"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

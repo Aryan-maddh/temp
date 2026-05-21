@@ -1,0 +1,112 @@
+{
+  "url": "https://www.linkedin.com/company/infused-solutions-recruitment/",
+  "title": "Infused Solutions | LinkedIn",
+  "text": "LINKEDIN\n\nLinkedIn is better on the app\n\nDon’t have the app? Get it in the Microsoft Store.\n\nOpen the app",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Open the app",
+      "selector": "[data-cviance-inspect=\"node-1778579371084-85i7ocw9zwb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell"
+    },
+    {
+      "text": "Dismiss",
+      "selector": "[data-cviance-inspect=\"node-1778579371084-2huy12vc07g\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    }
+  ],
+  "iframes": [],
+  "modals": [
+    {
+      "visible": true,
+      "text": "LINKEDIN\n\nLinkedIn is better on the app\n\nDon’t have the app? Get it in the Microsoft Store.\n\nOpen the app",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-8x1awhvpsda\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-4wdgbkcryms\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-5vi01mqhlvq\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-nwcuqfe8xyq\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-8pkxtigvlxl\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-tsllwejtnp\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-5h2nsznikqi\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-march5b0a6\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-9mqb0ejc48n\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-fwmay5967yl\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778579369967-4qwbn9ijw8g\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [
+    {
+      "text": "LINKEDIN\n\nLinkedIn is better on the app\n\nDon’t have the app? Get it in the Microsoft Store.\n\nOpen th",
+      "hasFileInput": false,
+      "fileInputSelector": null
+    }
+  ],
+  "activeModal": true
+}

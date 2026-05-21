@@ -1,0 +1,17 @@
+{
+  "url": "https://community.workday.com/maintenance-page",
+  "title": "Workday is currently unavailable.",
+  "text": "English\nWorkday is currently unavailable.\n\nWe are experiencing a service interruption.\n\nYour service will be restored as quickly as possible.\n\nWe apologize for the inconvenience. If you are a Workday customer and require additional assistance please contact the Workday Administrator within your organization. Otherwise, please check back later.\n\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [
+    {
+      "text": "English",
+      "hasFileInput": false,
+      "fileInputSelector": null
+    }
+  ],
+  "activeModal": false
+}

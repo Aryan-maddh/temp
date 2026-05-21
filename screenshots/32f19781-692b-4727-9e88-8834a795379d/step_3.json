@@ -1,0 +1,140 @@
+{
+  "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Software-Engineer-I_JR4072/apply/applyManually",
+  "title": "Sign In",
+  "text": "Skip to main content\nSign In\nIntegrity Careers Home Page\nSearch for Jobs\nIntroduce Yourself\nBack to Job Posting\nSoftware Engineer I\ncurrent step 1 of 7\nCreate Account/Sign In\nstep 2 of 7\nMy Information\nstep 3 of 7\nMy Experience\nstep 4 of 7\nApplication Questions\nstep 5 of 7\nVoluntary Disclosures\nstep 6 of 7\nSelf Identify\nstep 7 of 7\nReview\nSign In\n\nQuick sign‑in with Google, Apple, or LinkedIn\nUsing social sign‑in lets you create an account faster. By continuing, you agree to use your selected provider to set up your profile. We’ll only use this information to support your application experience.\n\nNote for Apple users: If you choose Hide My Email, important updates may be filtered to Spam or Junk. Please check those folders to avoid missing communications.\n\nSign in with Apple\nSign in with Google\nSign in with LinkedIn\nOR\nSign in with email\nFollow Us\nPrivacy Policy\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Software-Engineer-I_JR4072/apply/applyManually"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Integrity Careers Home Page",
+      "selector": "[data-automation-id=\"navigationItem-Integrity Careers Home Page\"]",
+      "type": "",
+      "automationId": "navigationItem-Integrity Careers Home Page",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search for Jobs",
+      "selector": "[data-automation-id=\"navigationItem-Search for Jobs\"]",
+      "type": "",
+      "automationId": "navigationItem-Search for Jobs",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Introduce Yourself",
+      "selector": "[data-automation-id=\"navigationItem-Introduce Yourself\"]",
+      "type": "",
+      "automationId": "navigationItem-Introduce Yourself",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with Apple",
+      "selector": "[data-automation-id=\"AppleSignInButton\"]",
+      "type": "button",
+      "automationId": "AppleSignInButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with Google",
+      "selector": "[data-automation-id=\"GoogleSignInButton\"]",
+      "type": "button",
+      "automationId": "GoogleSignInButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with LinkedIn",
+      "selector": "[data-automation-id=\"LinkedInSignInButton\"]",
+      "type": "button",
+      "automationId": "LinkedInSignInButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign in with email",
+      "selector": "[data-automation-id=\"SignInWithEmailButton\"]",
+      "type": "",
+      "automationId": "SignInWithEmailButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Glassdoor",
+      "selector": "[data-cviance-inspect=\"node-1779340255527-hkqjrljszwm\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.glassdoor.com/Overview/Working-at-Integrity-Marketing-Group-EI_IE873106.11,36.htm"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1779340255527-vy91koh1kmb\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/IntegrityMG"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1779340255527-7lzi13kzkmv\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/IntegrityMG"
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1779340255527-5id3en8sgd5\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCXgwXbY_fkDjn8GjdsnfZWw"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1779340255527-q67ghe190x\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/integrity-marketing./"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.integritymarketing.com/privacy-policy/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

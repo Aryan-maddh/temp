@@ -1,0 +1,225 @@
+{
+  "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply/applyManually?source=AutoAppend_LinkedIn",
+  "title": "Create Account",
+  "text": "Skip to main content\nSign In\nSearch and Apply\nJoin our Talent Community!\nBack to Job Posting\nAI Engineer\ncurrent step 1 of 8\nCreate Account/Sign In\nstep 2 of 8\nMy Information\nstep 3 of 8\nMy Experience\nstep 4 of 8\nApplication Questions 1 of 2\nstep 5 of 8\nApplication Questions 2 of 2\nstep 6 of 8\nVoluntary Disclosures\nstep 7 of 8\nSelf Identify\nstep 8 of 8\nReview\nCreate Account\n*ATTENTION CURRENT GDIT EMPLOYEES* \nTo apply to this job, you must apply via the Find GDIT Jobs app in Workday.\n\nPassword Requirements:\n\nA numeric character\nA minimum of 8 characters\nA special character\nAn uppercase character\nA lowercase character\nAn alphabetic character\nEmail Address*\nPassword*\nVerify New Password*\n\nAccepting the Terms of Service\n\nIn order to apply you must agree to General Dynamics Information Technology retaining your name and e-mail information for sole purposes of employment consideration.\n\nYes, I have read and consent to the terms of service listed above.\nCreate Account\nAlready have an account?\nSign In\nForgot your password?\nEnter website. This input is for robots only, do not enter if you're human.\nFollow Us\nGDIT Privacy Notice and California Privacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Email Address",
+      "selector": "#input-4",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "email",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Password",
+      "selector": "#input-5",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "password",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "password",
+      "label": "Verify New Password",
+      "selector": "#input-6",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "verifyPassword",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "checkbox",
+      "label": "Yes, I have read and consent to the terms of service listed above.",
+      "selector": "#input-9",
+      "value": "on",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "createAccountCheckbox",
+      "controlKind": "native_checkbox",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    },
+    {
+      "type": "text",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "selector": "#\\38 4c7bbed-9a30-4c75-a3bb-297e9596a8c3",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": false,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "beecatcher",
+      "controlKind": "input",
+      "invalid": false,
+      "errorText": "",
+      "tagName": "input",
+      "role": "",
+      "ariaAutocomplete": "",
+      "readOnly": false
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1/apply/applyManually?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search and Apply",
+      "selector": "[data-automation-id=\"navigationItem-Search and Apply\"]",
+      "type": "",
+      "automationId": "navigationItem-Search and Apply",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join our Talent Community!",
+      "selector": "[data-automation-id=\"navigationItem-Join our Talent Community!\"]",
+      "type": "",
+      "automationId": "navigationItem-Join our Talent Community!",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Back to Job Posting",
+      "selector": "[data-automation-id=\"backToJobPosting\"]",
+      "type": "button",
+      "automationId": "backToJobPosting",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"click_filter\"]",
+      "type": "",
+      "automationId": "click_filter",
+      "tagName": "div",
+      "href": ""
+    },
+    {
+      "text": "Create Account",
+      "selector": "[data-automation-id=\"createAccountSubmitButton\"]",
+      "type": "submit",
+      "automationId": "createAccountSubmitButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"signInLink\"]",
+      "type": "",
+      "automationId": "signInLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Forgot your password?",
+      "selector": "[data-automation-id=\"forgotPasswordLink\"]",
+      "type": "",
+      "automationId": "forgotPasswordLink",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778498008686-uz3cx71wnk\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCaB-uSlpjnUQzNzXajf2L_w"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778498008686-fsp4grfxqm4\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/GDIT"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778498008686-cdyzqiu9op5\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/GeneralDynamicsIT/"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778498008686-v92o6p6w33\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/general-dynamics-information-technology/"
+    },
+    {
+      "text": "GDIT Privacy Notice and California Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.gdit.com/privacy-policy/notices/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

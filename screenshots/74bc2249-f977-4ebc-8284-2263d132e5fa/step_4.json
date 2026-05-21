@@ -1,0 +1,84 @@
+{
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1?source=AutoAppend_LinkedIn",
+  "title": "Careers",
+  "text": "Skip to main content\nSign In\nSearch and Apply\nJoin our Talent Community!\nLoading\nFollow Us\nGDIT Privacy Notice and California Privacy Notice\n© 2026 Workday, Inc. All rights reserved.",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Skip to main content",
+      "selector": "#accessibilitySkipToMainContent",
+      "type": "",
+      "automationId": "accessibilitySkipToMainContent",
+      "tagName": "a",
+      "href": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AI-Engineer_RQ219864-1?source=AutoAppend_LinkedIn"
+    },
+    {
+      "text": "Sign In",
+      "selector": "[data-automation-id=\"utilityButtonSignIn\"]",
+      "type": "",
+      "automationId": "utilityButtonSignIn",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Search and Apply",
+      "selector": "[data-automation-id=\"navigationItem-Search and Apply\"]",
+      "type": "",
+      "automationId": "navigationItem-Search and Apply",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Join our Talent Community!",
+      "selector": "[data-automation-id=\"navigationItem-Join our Talent Community!\"]",
+      "type": "",
+      "automationId": "navigationItem-Join our Talent Community!",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "YouTube",
+      "selector": "[data-cviance-inspect=\"node-1778497370443-efkrz5ym6fs\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.youtube.com/channel/UCaB-uSlpjnUQzNzXajf2L_w"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778497370443-9nqrffj48ea\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://twitter.com/GDIT"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778497370443-jrmzsk0rdgg\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.facebook.com/GeneralDynamicsIT/"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778497370443-olbulc9ynb\"]",
+      "type": "",
+      "automationId": "socialIcon",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/general-dynamics-information-technology/"
+    },
+    {
+      "text": "GDIT Privacy Notice and California Privacy Notice",
+      "selector": "[data-automation-id=\"privacyLink\"]",
+      "type": "",
+      "automationId": "privacyLink",
+      "tagName": "a",
+      "href": "https://www.gdit.com/privacy-policy/notices/"
+    }
+  ],
+  "iframes": [],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

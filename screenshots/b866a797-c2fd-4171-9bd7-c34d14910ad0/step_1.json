@@ -1,0 +1,914 @@
+{
+  "url": "https://jpstechsolutions.com/jobs/automation-qa-tester-7/",
+  "title": "Automation QA Tester – JPS Tech Solutions",
+  "text": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCustomise\nReject All\nAccept All\nDigital Solutions\nHOME\nABOUT US\nSERVICES\nINDUSTRIES\nJOBS\nSubmit Your Resume\nCONTACT US\nHOME ABOUT US SERVICES\nInformation Technology & Application Services\n\nCustom Application Development\n\nApplication Maintenance And Support\n\nQuality Assurance And Testing\n\nMobile Development\n\nEngineering & Research\n\nSystem Engineering\n\nEmbedded Engineering\n\nSoftware Engineering\n\nHardware Engineering\n\nDevops\n\nMechanical Engineering\n\nProduct Testing & Verification\n\nInfrastructure\n\nService Desk And Help Desk\n\nCloud Services\n\nSystem Integration\n\nNetwork Support\n\nSpecialization\n\nEcommerce\n\nIntegration Middleware Technologies\n\nCloud\n\nOSS/BSS\n\n INDUSTRIES\n\nBanking & Financial Services\n\nMedia & Technology\n\nInsurance\n\nManufacturing\n\nRetail\n\nLife Sciences & Healthcare\n\nPublic Services\n\nTravel & Hospitality\n\nAerospace\n\nEngineering & Construction\n\nMedical Devices\n\n JOBS RESUME BLOG CONTACT US DIGITAL\nHOME ABOUT US SERVICES\nInformation Technology & Application Services\n\nCustom Application Development\n\nApplication Maintenance And Support\n\nQuality Assurance And Testing\n\nMobile Development\n\nEngineering & Research\n\nSystem Engineering\n\nEmbedded Engineering\n\nSoftware Engineering\n\nHardware Engineering\n\nDevops\n\nMechanical Engineering\n\nProduct Testing & Verification\n\nInfrastructure\n\nService Desk And Help Desk\n\nCloud Services\n\nSystem Integration\n\nNetwork Support\n\nSpecialization\n\nEcommerce\n\nIntegration Middleware Technologies\n\nCloud\n\nOSS/BSS\n\n INDUSTRIES\n\nBanking & Financial Services\n\nMedia & Technology\n\nInsurance\n\nManufacturing\n\nRetail\n\nLife Sciences & Healthcare\n\nPublic Services\n\nTravel & Hospitality\n\nAerospace\n\nEngineering & Construction\n\nMedical Devices\n\n JOBS RESUME BLOG CONTACT US DIGITAL\nAutomation QA Tester\nJob Category: QA\nJob Type: Hybrid\nJob Location: New JerseyWarren\nCo",
+  "fields": [
+    {
+      "type": "file",
+      "label": "resume",
+      "selector": "input[name=\"resume\"]",
+      "value": "",
+      "selectedText": "",
+      "checked": false,
+      "required": true,
+      "options": [],
+      "radioOptions": [],
+      "placeholder": "",
+      "automationId": "",
+      "isHidden": false,
+      "fileCount": 0
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Customise",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-z28hdlnjjch\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Reject All",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-2zuaxjkrvzx\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Accept All",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-lonr0efqokn\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Digital Solutions",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-xpoi6k6xz0n\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/digital/"
+    },
+    {
+      "text": "HOME",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-z7qtdcvhvws\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/"
+    },
+    {
+      "text": "ABOUT US",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-go24sv1j0e9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/about-us/"
+    },
+    {
+      "text": "SERVICES",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-q9ax4kmxno9\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/"
+    },
+    {
+      "text": "INDUSTRIES",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-0q4vr5351skd\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/"
+    },
+    {
+      "text": "JOBS",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-y7y87lnrsxe\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/jobs/"
+    },
+    {
+      "text": "Submit Your Resume",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-l6i7u67ar2p\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/submit-your-resume/"
+    },
+    {
+      "text": "CONTACT US",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-m3txhscnpol\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/contact-us/"
+    },
+    {
+      "text": "HOME",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-kraraf15mg\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/"
+    },
+    {
+      "text": "ABOUT US",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-aa8ccbxg09o\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/about-us/"
+    },
+    {
+      "text": "SERVICES",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-j43pkc7d7n\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/"
+    },
+    {
+      "text": "Custom Application Development",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-k2nq2gzsphc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/custom-application-development/"
+    },
+    {
+      "text": "Application Maintenance And Support",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-50xyw6l1h2a\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/application-maintenance-and-support/"
+    },
+    {
+      "text": "Quality Assurance And Testing",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-v2wl2um7d2\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/quality-assurance-and-testing/"
+    },
+    {
+      "text": "Mobile Development",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-o3kkqqw0nsl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/mobile-development/"
+    },
+    {
+      "text": "System Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-z4663wqbcgp\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/system-engineering/"
+    },
+    {
+      "text": "Embedded Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-rqgy1ahbanb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/embedded-engineering/"
+    },
+    {
+      "text": "Software Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-dsqihhh1796\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/software-engineering/"
+    },
+    {
+      "text": "Hardware Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-78yqsvea2dq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/hardware-engineering/"
+    },
+    {
+      "text": "Devops",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-8s5xhcrdzl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/devops/"
+    },
+    {
+      "text": "Mechanical Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-6nqwimx2e47\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/mechanical-engineering/"
+    },
+    {
+      "text": "Product Testing & Verification",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-tarmczumwb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/product-testing-verification/"
+    },
+    {
+      "text": "Service Desk And Help Desk",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-k44sbp3bpq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/service-desk-and-help-desk/"
+    },
+    {
+      "text": "Cloud Services",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-8qjx50x3qsh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/cloud-services/"
+    },
+    {
+      "text": "System Integration",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-c292gbvsd0o\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/system-integration/"
+    },
+    {
+      "text": "Network Support",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-hlbn4ojbuq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/network-support/"
+    },
+    {
+      "text": "Ecommerce",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-ceif1mbv8zr\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/ecommerce/"
+    },
+    {
+      "text": "Integration Middleware Technologies",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-ohc82rfd6c\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/integration-middleware-technologies/"
+    },
+    {
+      "text": "Cloud",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-12fza7u9buba\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/cloud/"
+    },
+    {
+      "text": "OSS/BSS",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-kxw54meg09f\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/oss-bss/"
+    },
+    {
+      "text": "INDUSTRIES",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-upc8f047opa\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/"
+    },
+    {
+      "text": "Banking & Financial Services",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-ea8pwqswbe\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/banking-financial-services/"
+    },
+    {
+      "text": "Media & Technology",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-30kr7tr56rf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/media-technology/"
+    },
+    {
+      "text": "Insurance",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-xw90fa22j2s\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/insurance/"
+    },
+    {
+      "text": "Manufacturing",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-eva2qv0f2xj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/manufacturing/"
+    },
+    {
+      "text": "Retail",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-4hts929nxb7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/retail/"
+    },
+    {
+      "text": "Life Sciences & Healthcare",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-j7h4sa9apeb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/life-sciences-healthcare/"
+    },
+    {
+      "text": "Public Services",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-svk1vtd8ogp\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/public-services/"
+    },
+    {
+      "text": "Travel & Hospitality",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-7bea5o9welf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/travel-hospitality/"
+    },
+    {
+      "text": "Aerospace",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-ftyvjtjoofc\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/aerospace/"
+    },
+    {
+      "text": "Engineering & Construction",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-frpho31mzlb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/engineering-construction/"
+    },
+    {
+      "text": "Medical Devices",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-0y003d4vrg9q\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/medical-devices/"
+    },
+    {
+      "text": "JOBS",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-l241r5hreig\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/jobs/"
+    },
+    {
+      "text": "RESUME",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-lzgspyiv3s\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/submit-your-resume/"
+    },
+    {
+      "text": "BLOG",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-3vbvowjl1d\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/blog/"
+    },
+    {
+      "text": "CONTACT US",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-83w2t98sfsr\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/contact-us/"
+    },
+    {
+      "text": "DIGITAL",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-mj1cf17llo7\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/digital/"
+    },
+    {
+      "text": "HOME",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-qhh6lv8dki\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/"
+    },
+    {
+      "text": "ABOUT US",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-6boylcxl4kf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/about-us/"
+    },
+    {
+      "text": "SERVICES",
+      "selector": "[data-cviance-inspect=\"node-1778582263598-nwsj2r4wje\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/"
+    },
+    {
+      "text": "Custom Application Development",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-d11k8lwetu4\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/custom-application-development/"
+    },
+    {
+      "text": "Application Maintenance And Support",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-ifrp4oasryd\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/application-maintenance-and-support/"
+    },
+    {
+      "text": "Quality Assurance And Testing",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-ujxi1haopkn\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/quality-assurance-and-testing/"
+    },
+    {
+      "text": "Mobile Development",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-dkjoilrj5ni\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/mobile-development/"
+    },
+    {
+      "text": "System Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-48ahjep11ap\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/system-engineering/"
+    },
+    {
+      "text": "Embedded Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-6n9ygz76ai3\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/embedded-engineering/"
+    },
+    {
+      "text": "Software Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-2ljqjjvd6rb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/software-engineering/"
+    },
+    {
+      "text": "Hardware Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-in12la6k8a\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/hardware-engineering/"
+    },
+    {
+      "text": "Devops",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-6j6at4xaxz2\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/devops/"
+    },
+    {
+      "text": "Mechanical Engineering",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-zcr3vq70pis\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/mechanical-engineering/"
+    },
+    {
+      "text": "Product Testing & Verification",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-ncm875r64a\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/product-testing-verification/"
+    },
+    {
+      "text": "Service Desk And Help Desk",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-iytbgla182\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/service-desk-and-help-desk/"
+    },
+    {
+      "text": "Cloud Services",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-2v15yttaauj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/cloud-services/"
+    },
+    {
+      "text": "System Integration",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-x1u66vc5ywh\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/system-integration/"
+    },
+    {
+      "text": "Network Support",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-od7vukltjs\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/network-support/"
+    },
+    {
+      "text": "Ecommerce",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-bxazgt55rqb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/ecommerce/"
+    },
+    {
+      "text": "Integration Middleware Technologies",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-zqtf1mdisb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/integration-middleware-technologies/"
+    },
+    {
+      "text": "Cloud",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-13ht97t5x14\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/cloud/"
+    },
+    {
+      "text": "OSS/BSS",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-zibaqdu5hrb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/oss-bss/"
+    },
+    {
+      "text": "INDUSTRIES",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-hesfw959wbb\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/"
+    },
+    {
+      "text": "Banking & Financial Services",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-7t3axf8nh6e\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/banking-financial-services/"
+    },
+    {
+      "text": "Media & Technology",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-skd1g579kw\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/media-technology/"
+    },
+    {
+      "text": "Insurance",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-a3h353vxh4\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/insurance/"
+    },
+    {
+      "text": "Manufacturing",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-siqb2ccorj\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/manufacturing/"
+    },
+    {
+      "text": "Retail",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-6ncgw7k84xp\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/retail/"
+    },
+    {
+      "text": "Life Sciences & Healthcare",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-uom15ev7pl\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/life-sciences-healthcare/"
+    },
+    {
+      "text": "Public Services",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-zaqjk69gka\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/public-services/"
+    },
+    {
+      "text": "Travel & Hospitality",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-9bicdzbn2lv\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/travel-hospitality/"
+    },
+    {
+      "text": "Aerospace",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-o3usrs31t6\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/aerospace/"
+    },
+    {
+      "text": "Engineering & Construction",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-t2m54rd51ki\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/engineering-construction/"
+    },
+    {
+      "text": "Medical Devices",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-1jawcuq56gd\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/medical-devices/"
+    },
+    {
+      "text": "JOBS",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-qm8webvbkk\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/jobs/"
+    },
+    {
+      "text": "RESUME",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-o49h7j2qf9h\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/submit-your-resume/"
+    },
+    {
+      "text": "BLOG",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-n315b614yqf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/blog/"
+    },
+    {
+      "text": "CONTACT US",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-pwbmcqorz8\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/contact-us/"
+    },
+    {
+      "text": "DIGITAL",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-9a5oifke3km\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/digital/"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-80io9vchai\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/#facebook"
+    },
+    {
+      "text": "X",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-jq4okb7yx8m\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/#x"
+    },
+    {
+      "text": "LinkedIn",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-58fd9ffjd5u\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/#linkedin"
+    },
+    {
+      "text": "WhatsApp",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-4acjiqh1opq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/#whatsapp"
+    },
+    {
+      "text": "About Us",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-de8z1cwk73j\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/about-us/"
+    },
+    {
+      "text": "Services",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-izqm4x396\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/services/"
+    },
+    {
+      "text": "Industries",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-rnydqkzqe7n\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/industries/"
+    },
+    {
+      "text": "Jobs",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-jn55b479m3p\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/jobs/"
+    },
+    {
+      "text": "Blog",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-9cmxs0avo5a\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/blog/"
+    },
+    {
+      "text": "Submit Your Resume",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-2h5b1dq2ae\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/submit-your-resume/"
+    },
+    {
+      "text": "Contact Us",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-2lwj7iwsgnk\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/contact-us/"
+    },
+    {
+      "text": "119 SW Maynard Rd , Ste 100\nCary, NC 27511, USA.",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-ccp7715mvib\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://goo.gl/maps/foN9oZpT5ufaU7SR7"
+    },
+    {
+      "text": "+1 (984) 355-2999",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-yafje44dkfo\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "tel:+1984355-2999"
+    },
+    {
+      "text": "info@jpstechsolutions.com",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-ys15pb6bkq\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "mailto:info@jpstechsolutions.com"
+    },
+    {
+      "text": "Facebook",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-g6t90wxl5gi\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.facebook.com/jpstechsolutions"
+    },
+    {
+      "text": "X-twitter",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-lbz7y4042w\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://x.com/jpstechsol"
+    },
+    {
+      "text": "Linkedin",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-leliavrnqyf\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.linkedin.com/company/jpstechsolutions/?viewAsMember=true"
+    },
+    {
+      "text": "Instagram",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-snofkpzymp\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.instagram.com/jpstechsolutions/"
+    },
+    {
+      "text": "Youtube",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-0bl6k5u5vbal\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://www.youtube.com/@jpstechsolutionsllc1428"
+    },
+    {
+      "text": "Privacy Policy",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-fms5zolacgu\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/privacy-policy/"
+    },
+    {
+      "text": "Terms of Service",
+      "selector": "[data-cviance-inspect=\"node-1778582263599-hk57fpgtj4\"]",
+      "type": "",
+      "automationId": "",
+      "tagName": "a",
+      "href": "https://jpstechsolutions.com/terms-of-service/"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcSSjMsAAAAAKTFyJea0RIiugs0jd3pxS-SNeua&co=aHR0cHM6Ly9qcHN0ZWNoc29sdXRpb25zLmNvbTo0NDM.&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=invisible&anchor-ms=20000&execute-ms=30000&cb=lkebuogr0col",
+      "title": "reCAPTCHA",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [],
+  "dropzones": [],
+  "activeModal": false
+}

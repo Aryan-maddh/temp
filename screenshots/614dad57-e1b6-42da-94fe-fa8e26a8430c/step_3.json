@@ -1,0 +1,79 @@
+{
+  "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806",
+  "title": "Technical Business Analyst I - Alternative Investments Operations",
+  "text": "Start Your Application\nTechnical Business Analyst I - Alternative Investments Operations\nAutofill with Resume\nApply Manually\nUse My Last Application",
+  "fields": [],
+  "buttons": [
+    {
+      "text": "Close",
+      "selector": "[data-automation-id=\"closeButton\"]",
+      "type": "",
+      "automationId": "closeButton",
+      "tagName": "button",
+      "href": ""
+    },
+    {
+      "text": "Autofill with Resume",
+      "selector": "[data-automation-id=\"autofillWithResume\"]",
+      "type": "",
+      "automationId": "autofillWithResume",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York%2C-NY/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806/apply/autofillWithResume"
+    },
+    {
+      "text": "Apply Manually",
+      "selector": "[data-automation-id=\"applyManually\"]",
+      "type": "",
+      "automationId": "applyManually",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York%2C-NY/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806/apply/applyManually"
+    },
+    {
+      "text": "Use My Last Application",
+      "selector": "[data-automation-id=\"useMyLastApplication\"]",
+      "type": "",
+      "automationId": "useMyLastApplication",
+      "tagName": "a",
+      "href": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York%2C-NY/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806/apply/useMyLastApplication"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://applywithlinkedin.myworkdaygadgets.com/awli/",
+      "title": "applyWithLinkedIn",
+      "ariaLabel": ""
+    }
+  ],
+  "modals": [
+    {
+      "visible": true,
+      "text": "Start Your Application\nTechnical Business Analyst I - Alternative Investments Operations\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-frame",
+      "selector": "[data-automation-id=\"wd-popup-frame\"]",
+      "active": true
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nTechnical Business Analyst I - Alternative Investments Operations\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "wd-popup-glass",
+      "selector": "[data-automation-id=\"wd-popup-glass\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nTechnical Business Analyst I - Alternative Investments Operations\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778499915916-dpuvdse4bxt\"]",
+      "active": false
+    },
+    {
+      "visible": true,
+      "text": "Start Your Application\nTechnical Business Analyst I - Alternative Investments Operations\nAutofill with Resume\nApply Manually\nUse My Last Application",
+      "automationId": "",
+      "selector": "[data-cviance-inspect=\"node-1778499915916-rnegsfd66pl\"]",
+      "active": false
+    }
+  ],
+  "dropzones": [],
+  "activeModal": true
+}

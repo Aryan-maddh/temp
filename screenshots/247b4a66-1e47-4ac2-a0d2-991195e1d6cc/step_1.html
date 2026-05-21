@@ -1,0 +1,778 @@
+<!DOCTYPE html><html lang="en"><head><style type="text/css">[uib-typeahead-popup].dropdown-menu{display:block;}</style><style type="text/css">.uib-time input{width:50px;}</style><style type="text/css">[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-template-popup].popover{display:block !important;}</style><style type="text/css">.uib-datepicker .uib-title{width:100%;}.uib-day button,.uib-month button,.uib-year button{min-width:100%;}.uib-datepicker-popup.dropdown-menu{display:block;float:none;margin:0;}.uib-button-bar{padding:10px 9px 2px;}.uib-left,.uib-right{width:100%}</style><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll;}</style><style type="text/css">.ng-animate.item:not(.left):not(.right){-webkit-transition:0s ease-in-out left;transition:0s ease-in-out left}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>-->
+    <meta name="google-site-verification" content="E2g4WoQ4yWNZwaGbI26xT15b45ViqOUqHBLSd7dvDm4">
+    <meta name="description" content="Whatever your career goals, if you are passionate about technology, we at TCS are looking for you. Join us and future forward your career today. Experience energy. Come experience TCS.">
+    <meta charset="utf-8">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#242e3e">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#242e3e">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#242e3e">
+    <meta name="robots" content="noindex, nofollow">
+    <title>TCS iBegin</title>
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="resources/app/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="module/application" src="resources/app/module/application.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="services/services-module" src="resources/app/services/services-module.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="directives/directives-module" src="resources/app/directives/directives-module.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="filters/filters-module" src="resources/app/filters/filters-module.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="module/routeResolver" src="resources/app/module/routeResolver.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="components/IndexController" src="resources/app/components/IndexController.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="components/user-info-bar/UserInfoBarController" src="resources/app/components/user-info-bar/UserInfoBarController.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="module/dynamic-form" src="resources/app/module/dynamic-form.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="resources/app/components/errors/resource-not-found/ResourceNotFoundController.js" src="resources/app/components/errors/resource-not-found/ResourceNotFoundController.js?v=1.0"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="directives/re-compile-element-directive" src="resources/app/directives/re-compile-element-directive.js?v=1.0"></script><base href="/candidate/">
+    <link type="text/css" rel="stylesheet" href="resources/external/css/bootstrap.css">
+    <link type="text/css" rel="stylesheet" href="resources/app/merged/final.css">
+    <link rel="shortcut icon" href="resources/images/icons/favicon3.ico" sizes="32X32">
+    <style>
+        .disable-scroll {
+            position: fixed;
+            overflow-y: scroll;
+        }
+    </style>
+</head>
+
+<body data-ng-controller="IndexController" id="app-body" data-ng-class="{'disableScroll' : sideBarOpen , 'overflow-hidden' : isHomePage() &amp;&amp; !isMobile() }" class="" data-country="IN" data-country-id="101" data-language="EN" data-language-id="1" data-is-grs-country="Y" data-is-feedback-applicable="Y">
+
+<div id="loadingModal" class="">
+    <div class="modal-image">
+        <img src="resources/images/loading.gif">
+    </div>
+</div>
+
+<!-- ngIf: isHomePage() -->
+
+<div data-ng-intro-options="IntroOptions" data-ng-intro-method="startTour" data-ng-intro-onbeforechange="ChangeEvent" data-ng-intro-onexit="onExit" data-ng-intro-oncomplete="onComplete" class="page-content noTPad" data-ng-class="{'slide' : sideBarOpen, 'noTPad' : !showHeader, 'TPad456' : countrySelectionActive&amp;&amp;showHeader , 'TPad445' : showJobsActive&amp;&amp;showHeader ,'TPad186' : ( loginActive &amp;&amp; !alreadyLoggedIn &amp;&amp; showHeader), 'TPad246' : ( loginActive &amp;&amp; alreadyLoggedIn &amp;&amp; isGrs() &amp;&amp; showHeader) , 'TPad158' : ( loginActive &amp;&amp; alreadyLoggedIn &amp;&amp; !isGrs() &amp;&amp; showHeader)}">
+    <div><div class="hidden-xs hidden-sm visible-md visible-lg">
+    <div class="portal-links-bar">
+        <div class="container-fluid home">
+
+            <div class="row">
+                <div class="col-xs-6">
+
+                    <ul class="nav-links">
+
+                        <li>
+                            <a class="hand" data-ng-click="goToLink( 'https://www.tcs.com/careers' )">
+                                <span class="flag flag-tcs-com_icon"></span>
+                                <span class="portal-link-text">TCS Careers</span>
+                            </a>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="brand-container" data-ng-class="{ 'brand-container-border' : !hasBreadcrumb() }">
+        <div class="container-fluid home">
+        
+            <div class="row">
+
+                <div class="col-md-5 brand">
+                    <div class="row">
+
+                        <div class="float-left pad-right-0 width-auto">
+                            <img class="img-responsive hand" data-ng-click="goTo('/')" src="resources/images/banner/TCS-iBegin-Logo.png" alt="TCS">
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-7 brand-menu-container" data-ng-show="!isAuthOffer()">
+                    <ul class="nav-right-links">
+
+                        <li data-ng-mouseover="countryhover=true;" data-ng-mouseout="countryhover=false;">
+                            <a role="button" data-ng-click="openCountrySelection()" data-cviance-inspect="node-1778579357824-bv46vjyfd5j">
+                                <span class="flag flag-101 margin-right-6" style="margin-top: 7px;"></span>
+                                <span class="hidden-xs ng-binding" data-ng-bind="selection.language">EN</span>
+                                <span class="hidden-xs caret text-grey" data-ng-class="{'text-blue' : countryhover || (countrySelectionActive&amp;&amp;showHeader) , 'text-grey' : !countryhover }"></span>
+                            </a>
+                            <div class="header-hover-li display-none" data-ng-class="{'display-block': countryhover || (countrySelectionActive&amp;&amp;showHeader) ,'display-none': !countryhover }"></div>
+                        </li>
+
+                        <li data-ng-mouseover="loghover=true;" data-ng-mouseout="loghover=false;">
+                            <div class="hand" data-ng-click="openLogin()">
+                                <div class="inline-block margin-right-6 header-sprite-img" style="top:3px;">
+                                    <div class="sprite_header login" data-ng-class="{'login-selected' : loghover || (loginActive&amp;&amp;showHeader) , 'login' : !loghover }"></div>
+                                </div>
+                                <div class="inline-block" style="position:relative;">
+                                    <a role="button" data-cviance-inspect="node-1778579357824-r3sly976ode">
+                                        <span class="hidden-xs name-clip ng-binding ng-hide" ng-show="alreadyLoggedIn" data-ng-bind="userName"></span>
+                                        <span class="hidden-xs" ng-show="!alreadyLoggedIn"><span data-msg="" data-key="header.login">Login</span></span>
+                                        <span class="hidden-xs caret text-grey" data-ng-class="{'text-blue' : loghover || (loginActive&amp;&amp;showHeader) , 'text-grey' : !loghover  }"></span>
+                                    </a>
+                                </div>
+                                <div class="header-hover-li display-none" data-ng-class="{'display-block': loghover || (loginActive&amp;&amp;showHeader)  ,'display-none': !loghover }"></div>
+                            </div>
+                        </li>
+
+                        <li data-ng-mouseover="savedhover=true;" data-ng-mouseout="savedhover=false;">
+                            <div class="hand" data-ng-click="openSavedJobs()">
+                                <div class="inline-block margin-right-6 header-sprite-img">
+                                    <div class="sprite_header my-saved-jobs" data-ng-class="{'my-saved-jobs-selected' : savedhover || (showJobsActive&amp;&amp;showHeader) , 'my-saved-jobs' : !savedhover }"></div>
+
+                                </div>
+                                <div class="inline-block" style="position:relative;">
+                                    <a role="button" data-cviance-inspect="node-1778579357824-y3f2ngf1tj">
+                                        <span class="badge ng-binding ng-hide" data-ng-show="savedJobsCount&gt;0" data-ng-bind="savedJobsCount">0</span>
+                                        <span class="hidden-xs" data-msg="" data-key="header.mysavedjobs">My Saved Jobs</span>
+                                        <span class="hidden-xs caret text-grey" data-ng-class="{'text-blue' : savedhover || (showJobsActive&amp;&amp;showHeader) , 'text-grey' : !savedhover }"></span>
+                                    </a>
+                                </div>
+                                <div class="header-hover-li display-none" data-ng-class="{'display-block': savedhover || (showJobsActive&amp;&amp;showHeader)  ,'display-none': !savedhover }"></div>
+                            </div>
+                        </li>
+                        <li data-ng-show="!isHomePage()" data-ng-mouseover="homehover=true;" data-ng-mouseout="homehover=false;" style="margin-left:0px;" class="">
+                            <div class="hand" data-ng-click="goTo('/')">
+                                <div class="inline-block margin-right-6 header-sprite-img">
+                                    <div class="sprite_header home" data-ng-class="{'home-selected' : homehover , 'home' : !homehover }"></div>
+                                </div>
+                                <div class="inline-block" style="position:relative;">
+                                    <a role="button" data-cviance-inspect="node-1778579357824-oj10uq3nlin">
+                                        <span class="hidden-xs" data-msg="" data-key="header.home">Home</span>
+                                    </a>
+                                </div>
+                                <div class="header-hover-li display-none" data-ng-class="{'display-block': homehover ,'display-none': !homehover }"></div>
+                            </div>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- ngIf: getCountry() == 229 -->
+</div>
+
+<div class="visible-xs visible-sm hidden-md hidden-lg" data-ng-class="{ 'brand-container-border' : !hasBreadcrumb() }">
+    <!-- ngIf: getCountry() == 229 --> 
+    <div class="container-fluid home">
+        <div class="row mobile-top-bar mobile-shadow">
+		
+            <div class="hand hamburger-in-active ng-hide" data-ng-show="alreadyLoggedIn" data-ng-class="{'hamburger-active' : alreadyLoggedIn , 'hamburger-in-active' : !alreadyLoggedIn, 'active': menuBarMenu}" data-ng-click="toggleCandidateMenu()">
+                <span><img class="mobile-left-hamburger" src="resources/images/icons/hamburger.png"></span>
+            </div>
+
+            <div>
+                <img class="img-responsive hand" data-ng-click="goTo('/')" src="resources/images/banner/TCS-iBegin-Logo.png" alt="TCS">
+            </div>
+
+            <div class="hand" data-ng-click="toggleSideBar()" data-ng-class="{'active' : sideBarOpen}">
+                <span class="glyphicon glyphicon-option-vertical"></span>
+            </div>
+			
+        </div>
+    </div>
+    
+</div>
+<div class="clearfix"></div>
+<div ng-class="{'container-fluid home header-hidden-content' : !( loginActive &amp;&amp; alreadyLoggedIn ), 'home header-hidden-content' : ( loginActive &amp;&amp; alreadyLoggedIn ), 'ukheader' : ( getCountry() == 229 )}" class="container-fluid home header-hidden-content">
+    <!-- Not Logged In -->
+    <!-- ngIf: !alreadyLoggedIn --><div class="collapsed-content ng-scope noHeight" data-ng-if="!alreadyLoggedIn" data-ng-class="{'noHeight' : !showHeader, 'height-300' : ( showJobsActive || countrySelectionActive ), 'height-90' : ( loginActive &amp;&amp; !alreadyLoggedIn ), 'height-150' : ( loginActive &amp;&amp; alreadyLoggedIn &amp;&amp; isGrs() ), 'height-62' : ( loginActive &amp;&amp; alreadyLoggedIn &amp;&amp; (!isGrs()) )  }">
+
+        <div class="hand close-cross" data-ng-click="closeExpanded()" data-ng-class="{'repos-cross' : ( loginActive &amp;&amp; alreadyLoggedIn )}"></div>
+
+        <ul class="collpased-ul" data-ng-class="{'saved-jobs' : showJobsActive , 'login' : loginActive , 'countries' : countrySelectionActive }">
+            <li class="saved-jobs" style="height:350px !important">
+                <div class="heading bot-mar-10 font-25-bold" style="font-weight:600;margin-top:30px;"><span data-msg="" data-key="prereg.mysavedjobs">My Saved Jobs</span>
+                </div>
+                <div class="description"><span data-msg="" data-key="prereg.mysavedjobs.desc">Active jobs that you find suitable may be saved for reference. Saving a job does not mean that you have applied for it.</span></div>
+
+                <div class="jobs-container" style="margin: 0px -20px;">
+                    <!-- ngIf: savedJobsList.length==0 --><div class="no-jobs ng-scope" data-ng-if="savedJobsList.length==0" style="padding-left: 20px;padding-right: 20px;">
+                        <div class="container-fluid">
+                            <div class="row search-jobs-row">
+                                <div class="no-job-text"><span data-msg="" data-key="prereg.mysavedjobs.no">There are no saved jobs.</span></div>
+                                <div class="action">
+                                    <button type="button" class="btn btn-primary" data-ng-click="goTo( '/jobs/search')" data-cviance-inspect="node-1778579357824-faohhgf6ehm">
+                                        <span data-msg="" data-key="prereg.searchJobs">Search Jobs</span></button>
+                                </div>
+                            </div>
+
+                            <!-- ngIf: isGrs() --><div class="row ng-scope" data-ng-if="isGrs()">
+                                <div class="font-17-bold bot-mar-10"><span data-msg="" data-key="prereg.btf">Browse through Functions</span></div>
+                            </div><!-- end ngIf: isGrs() -->
+
+                            <!-- ngIf: isGrs() --><div class="row bot-mar-20 ng-scope" data-ng-if="isGrs()">
+                                <!-- ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions" style="">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> Finance (1)</div>
+                                </div><!-- end ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> Quality Assurance (4)</div>
+                                </div><!-- end ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> Business Process Services (624)</div>
+                                </div><!-- end ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> Consultancy (181)</div>
+                                </div><!-- end ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> IT Infrastructure Services (724)</div>
+                                </div><!-- end ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> Human Resources (5)</div>
+                                </div><!-- end ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> Technology (1824)</div>
+                                </div><!-- end ngRepeat: function in functions --><div class="function ng-scope" data-ng-repeat="function in functions">
+                                    <div class="hand ng-binding" data-ng-click="searchfunc(function.id)" data-ng-bind="functionFormat( function.title )+ ' (' + function.count + ')'"> Marketing And Sales (5)</div>
+                                </div><!-- end ngRepeat: function in functions -->
+                            </div><!-- end ngIf: isGrs() -->
+                        </div>
+                    </div><!-- end ngIf: savedJobsList.length==0 -->
+                    <!-- ngIf: savedJobsList.length>0 -->
+                </div>
+            </li>
+
+            <!-- ngIf: (!alreadyLoggedIn)&&isGrs() --><li class="login top-pad-40 bot-pad-40 ng-scope" data-ng-if="(!alreadyLoggedIn)&amp;&amp;isGrs()">
+                <div class="font-17-regular float-left">
+                    <span data-msg="" data-key="prereg.log.line1">You are currently not logged in to the application. Existing Users</span> <span class="bold hand blue-on-hover" data-ng-click="goTo('login')" data-msg="" data-key="prereg.login">Login</span> <span data-msg="" data-key="prereg.newuser">/ New Users</span> <span class="bold hand blue-on-hover" data-ng-click="goTo('register')" data-msg="" data-key="prereg.register">Register with us.</span>
+                </div>
+                <div class="font-17-regular float-right italicised-font right-pad-30 hand blue-on-hover" data-ng-click="goTo('faqs')">
+                    <span data-msg="" data-key="prereg.haq">Have a question? Ask us!</span>
+                </div>
+            </li><!-- end ngIf: (!alreadyLoggedIn)&&isGrs() -->
+
+            <!-- ngIf: (!alreadyLoggedIn)&&(!isGrs()) -->
+
+            <li class="country-language-selection">
+                <ul class="contry-groups top-pad-30 ">
+                    <!-- ngRepeat: (name, countries) in continents --><li data-ng-attr-id="{{'continentName'+$index}}" data-ng-repeat="(name, countries) in continents" data-ng-mouseover="selectContinent( name , $index)" data-ng-class="{'active' : isContinentActive(countries) }" class="ng-scope" id="continentName0" style="">
+                        <div class="group-name font-17-regular hand ng-binding" data-ng-bind="name">Asia-Pacific</div>
+                    </li><!-- end ngRepeat: (name, countries) in continents --><li data-ng-attr-id="{{'continentName'+$index}}" data-ng-repeat="(name, countries) in continents" data-ng-mouseover="selectContinent( name , $index)" data-ng-class="{'active' : isContinentActive(countries) }" class="ng-scope" id="continentName1">
+                        <div class="group-name font-17-regular hand ng-binding" data-ng-bind="name">Europe</div>
+                    </li><!-- end ngRepeat: (name, countries) in continents --><li data-ng-attr-id="{{'continentName'+$index}}" data-ng-repeat="(name, countries) in continents" data-ng-mouseover="selectContinent( name , $index)" data-ng-class="{'active' : isContinentActive(countries) }" class="ng-scope" id="continentName2">
+                        <div class="group-name font-17-regular hand ng-binding" data-ng-bind="name">Middle East &amp; Africa</div>
+                    </li><!-- end ngRepeat: (name, countries) in continents --><li data-ng-attr-id="{{'continentName'+$index}}" data-ng-repeat="(name, countries) in continents" data-ng-mouseover="selectContinent( name , $index)" data-ng-class="{'active' : isContinentActive(countries) }" class="ng-scope" id="continentName3">
+                        <div class="group-name font-17-regular hand ng-binding" data-ng-bind="name">North America</div>
+                    </li><!-- end ngRepeat: (name, countries) in continents --><li data-ng-attr-id="{{'continentName'+$index}}" data-ng-repeat="(name, countries) in continents" data-ng-mouseover="selectContinent( name , $index)" data-ng-class="{'active' : isContinentActive(countries) }" class="ng-scope" id="continentName4">
+                        <div class="group-name font-17-regular hand ng-binding" data-ng-bind="name">South America</div>
+                    </li><!-- end ngRepeat: (name, countries) in continents -->
+                </ul>
+
+                <div class="row country-grid">
+                    <!-- ngRepeat: countryGroup in selectedGroupCountries -->
+                </div>
+            </li>
+        </ul>
+    </div><!-- end ngIf: !alreadyLoggedIn -->
+    <!-- After Logged In -->
+    <!-- ngIf: alreadyLoggedIn -->
+</div></div>
+
+    <div id="home-page-content" style="opacity: 0; background-color: rgb(36, 46, 62); display: none;">
+        <div><div class="walk-in-and-slides-container" id="first-fold">
+    
+
+    <div class="custom-home-carousal">
+        <div class="banner-mobile">
+            <div ng-mouseenter="pause()" ng-mouseleave="play()" class="carousel ng-isolate-scope" ng-swipe-right="prev()" ng-swipe-left="next()" data-uib-carousel="" data-active="0" data-interval="5000" data-no-wrap="noWrapSlides">
+  <div class="carousel-inner" ng-transclude="">
+                <div ng-class="{
+    'active': active
+  }" class="item text-center ng-scope ng-isolate-scope" ng-transclude="" data-uib-slide="" data-index="0" style="">
+                    <img data-ng-src="api/v1/images/banner/web/1582" data-ng-click="download(1582, 'null')" class="ng-scope" src="api/v1/images/banner/web/1582">
+                    
+                </div>
+                <div ng-class="{
+    'active': active
+  }" class="item text-center ng-scope ng-isolate-scope active" ng-transclude="" data-uib-slide="" data-index="1" style="">
+                    
+                    <img data-ng-src="api/v1/images/banner/web/1585" data-ng-click="open('https://www.tcs.com/ai-careers')" class="ng-scope" src="api/v1/images/banner/web/1585">
+                </div>
+            </div>
+  <a role="button" href="" class="left carousel-control" ng-click="prev()" ng-show="slides.length &gt; 1">
+    <span aria-hidden="true" class="glyphicon glyphicon-menu-left"></span>
+    <span class="sr-only">previous</span>
+  </a>
+  <a role="button" href="" class="right carousel-control" ng-click="next()" ng-show="slides.length &gt; 1">
+    <span aria-hidden="true" class="glyphicon glyphicon-menu-right"></span>
+    <span class="sr-only">next</span>
+  </a>
+  <!-- ngIf: !doNotShowIndicators --><ol ng-if="!doNotShowIndicators" class="carousel-indicators ng-scope" ng-show="slides.length &gt; 1">
+    <!-- ngRepeat: slide in slides | orderBy:indexOfSlide track by $index --><li ng-repeat="slide in slides | orderBy:indexOfSlide track by $index" ng-class="{ active: isActive(slide) }" ng-click="select(slide)" class="ng-scope" style="">
+      <span class="sr-only ng-binding">slide 1 of 2<!-- ngIf: isActive(slide) --></span>
+    </li><!-- end ngRepeat: slide in slides | orderBy:indexOfSlide track by $index --><li ng-repeat="slide in slides | orderBy:indexOfSlide track by $index" ng-class="{ active: isActive(slide) }" ng-click="select(slide)" class="ng-scope active" style="">
+      <span class="sr-only ng-binding">slide 2 of 2<!-- ngIf: isActive(slide) --><span ng-if="isActive(slide)" class="ng-scope" style="">, currently active</span><!-- end ngIf: isActive(slide) --></span>
+    </li><!-- end ngRepeat: slide in slides | orderBy:indexOfSlide track by $index -->
+  </ol><!-- end ngIf: !doNotShowIndicators -->
+</div>
+        </div>
+    </div>
+
+</div>
+<div class="search-box-container" style="z-index:3;">
+    <div class="search-boxes row">
+        <div class="search-jobs">
+            <div class="input-form search-skills" data-ng-class="{ 'noexphome' : !noexp() || !noexpus() }">
+                <input type="text" maxlength="25" class="form-control input-custom ng-pristine ng-untouched ng-valid ng-empty ng-valid-maxlength" ng-model="searchObject.skills" placeholder="Enter Keywords" style="">
+            </div>
+            <div class="input-form search-locations pre-reg-typeahead" data-ng-class="{ 'noexphome' : !noexp() || !noexpus() }">
+                <div ng-controller="GenericTypeaheadController" id="homepageLocation" class="ng-scope">
+                    <input type="text" class="form-control input-custom padding-right-30 ng-pristine ng-untouched ng-valid ng-isolate-scope ng-empty" uib-typeahead-min-length="3" placeholder="Enter Location" multipletypeahead="" parseplacement="auto top-left" data-uib-typeahead="typeaheadValues as typeaheadValues.val for typeaheadValues in values" property1="locObj.locationString" ng-model="searchObject.location" home="true" data-typeahead-on-select="selectedLocationHome($item,$model,$label)" data-ng-keydown="typeaheadCheck( locObj.locationString , $event )" data-ng-change="multipleTypeahead( searchObject.location , 'G', 'Trga2l24alMEZGRgsH2jEaTk2HU=' , locObj.locationString );" aria-autocomplete="list" aria-expanded="false" aria-owns="typeahead-5-6000" style=""><ul class="dropdown-menu ng-isolate-scope ng-hide" ng-show="isOpen() &amp;&amp; !moveInProgress" ng-style="{top: position().top , left: position().left+'px' , bottom: position().bottom }" role="listbox" aria-hidden="true" uib-typeahead-popup="" id="typeahead-5-6000" matches="matches" active="activeIdx" select="select(activeIdx, evt)" move-in-progress="moveInProgress" query="query" position="position" assign-is-open="assignIsOpen(isOpen)" debounce="debounceUpdate">
+    <!-- ngRepeat: match in matches track by $index -->
+</ul>
+                    <div style="position: absolute;top: 17px;right: 10px;" data-ng-show="typeahead.fetching" class="ng-hide">
+                        <img alt="loading" src="resources/images/loadingTypeahead.gif" style="height: 20px;">
+                    </div>
+                </div>
+            </div>
+            <!-- ngIf: noexp() && noexpus() --><div class="input-form search-experience ng-scope" data-ng-if="noexp() &amp;&amp; noexpus()">
+                <div class="btn-group dropdown" uib-dropdown="" style="width: 100%;">
+                    <button id="single-button" type="button" class="btn btn-primary input-custom select-dropdown-home open-custom dropdown-toggle" uib-dropdown-toggle="" ng-disabled="disabled" style="text-align: left;height:56px;font-size:18px;" data-ng-class="{'color-1d1d1d':(searchObject.experience!='')}" aria-haspopup="true" aria-expanded="false">
+                        <div style="width: 90%; overflow: hidden;" class="ng-binding">Select</div>
+                        <span class="caret caret-home" style="color:#929191"></span>
+                    </button>
+                    <ul class="dropdown-menu dropMenu" uib-dropdown-menu="" role="menu" aria-labelledby="single-button" style="width:100%;top:-123px;">
+                        <li role="menuitem" class="hand lihover" style="padding: 3px 3px 5px 10px;color: #929191;" ng-click="searchObject.experience='';Experience.expName='Select';closedrop();">Select
+                        </li>
+                        <!-- ngRepeat: exp in experienceList --><li role="menuitem" class="hand lihover ng-binding ng-scope" style="padding: 3px 3px 5px 10px;" ng-click="dropmenu(exp.id,exp.name);closedrop();" ng-repeat="exp in experienceList">2 - 5 Years
+                        </li><!-- end ngRepeat: exp in experienceList --><li role="menuitem" class="hand lihover ng-binding ng-scope" style="padding: 3px 3px 5px 10px;" ng-click="dropmenu(exp.id,exp.name);closedrop();" ng-repeat="exp in experienceList">5 - 14 Years
+                        </li><!-- end ngRepeat: exp in experienceList --><li role="menuitem" class="hand lihover ng-binding ng-scope" style="padding: 3px 3px 5px 10px;" ng-click="dropmenu(exp.id,exp.name);closedrop();" ng-repeat="exp in experienceList">14 - 50 Years
+                        </li><!-- end ngRepeat: exp in experienceList -->
+                    </ul>
+                </div>
+            </div><!-- end ngIf: noexp() && noexpus() -->
+        </div>
+        <div class="search-job-btn">
+            <div class="row  custom-row">
+                <button class="btn btn-primary home btn-block btn-color" data-ng-click="doSearch()"><span data-msg="" data-key="home.seachJob">Search Jobs</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ngIf: !(getCountry()==230 || getCountry()=='230') --><div class="guided-section margin-minus-90 ng-scope" id="middle-fold" data-ng-if="!(getCountry()==230 || getCountry()=='230')">
+    <div class="container-fluid width-full centered-text" style="height:100%;">
+        <div class="row padding-top-56" data-ng-class="{ 'padding-top-56' : isSafari() }">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padding-zero">
+                <div class="guided-image-container">
+                    <div class="guided-img">
+                        <img data-ng-src="resources/images/icons/guided-search-icon.png" alt="guided" src="resources/images/icons/guided-search-icon.png">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 font-40-bold" style="margin-top: 26px;">
+                <div style="padding-bottom:10px;"><span data-msg="" data-key="home.guidedHeading">GUIDED SEARCH</span></div>
+                <div style="margin: 0 auto;width: 2.4%;border-radius: 2px;height: 2px;background-color: #fff;"></div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 guided-banner-text">Guided search will enable you to find job opportunities across functions and experience levels.
+</div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padding-zero">
+                <div class="btn btn-primary btn-toguided hand" style="outline: 0px;" data-ng-click="goTo('/guided-search/function')">
+                    <span data-msg="" data-key="home.guidedbtn">Guide me to a suitable job</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- end ngIf: !(getCountry()==230 || getCountry()=='230') -->
+
+</div>
+    </div>
+
+
+    <!-- ngIf: !isHomePage() --><div data-ng-if="!isHomePage()" class="ng-scope">
+        <!-- ngView: --><div data-ng-view="" class="ng-scope" style=""><style class="ng-scope">@media (min-width: 992px){.margin-left-zero-md{margin-left:0px}.margin-left-20-md{margin-left:20px}}@media (min-width: 1200px){.margin-left-zero-lg{margin-left:0px}.margin-left-20-lg{margin-left:20px}}</style>
+<div class="text-center container-fluid top-mar-40 bot-mar-40 ng-scope">
+	<div class="row">
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-md-offset-2 col-lg-offset-2 top-mar-10">
+			<div class="hidden-xs hidden-sm visible-md visible-lg">
+				<img src="resources/images/error/resource-not-found.png">
+			</div>
+			<div class="hidden-md hidden-lg visible-sm visible-xs">
+				<img class="img-responsive center-block" src="resources/images/error/resource-not-found.png">
+			</div>
+		</div>
+		<div class="col-lg-1 col-md-3 col-sm-1 col-xs-1"></div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 left-text-md left-text-lg text-center-xs text-center-sm top-mar-10 margin-left-20-lg margin-left-20-md">
+			<div class="row">
+				<div class="col-xs-12 font-30-bold">
+					<span msg="" key="error.resourceNotFound.headingMessage">Resource Not Found</span>
+					<div class="underline-green margin-left-zero-md margin-left-zero-lg"></div>
+				</div>
+			</div>
+			<div class="row top-mar-15">
+				<div class="col-xs-12">
+					<div>
+					<!-- <span msg key="error.resourceNotFound.message"></span>
+					<br> -->
+					<span msg="" key="error.resourceNotFound.otherSuggestions">Not to worry! You can head back to our homepage from the link below</span>
+					</div>
+				</div>
+			</div>
+			<div class="row top-mar-15">
+				<div class="col-xs-12">
+					<div>
+						<a ng-click="goTo('/')"><span msg="" key="error.homepage">Homepage</span></a> | 
+						<a ng-click="goTo('/contact-us')"><span msg="" key="error.contactus">Contact Us</span></a>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="row top-mar-15">
+				<div class="col-xs-12">
+					<span ng-repeat="link in linksArray track by $index" >
+						<span ng-if="$index != 0">|</span>	
+						<a ng-href="{{link.split('|')[1]}}">
+							{{link.split('|')[0]}}
+						</a> 
+					</span>
+				</div>
+			</div> -->
+		</div>
+	</div>
+</div>
+</div>
+    </div><!-- end ngIf: !isHomePage() -->
+
+    <div><div class="footer" id="footer" data-ng-class="{'footer-handle': noBothSections() }">
+    <div class="container-fluid home">
+        <!-- ngIf: (selection.countryId=='101') --><div class="row ng-scope" data-ng-if="(selection.countryId=='101')">
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-11 col-md-offset-1 col-md-12 col-lg-12">
+                        <div class="footer-sect">
+                            <div class="footer-section-heading">
+                                LEGAL
+                            </div>
+                            <ul class="row footer-links">
+                                <span class="line-dif"></span>
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a ng-click="openLegalTermsConditionsModal()"><span data-msg="" data-key="footer.termCond">Terms And Conditions</span></a>
+                                </li>
+
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <a ng-click="openLegalPrivacyPolicyModal()" tabindex="0" data-ng-keydown="$event.keyCode === 13 &amp;&amp; openLegalPrivacyPolicyModal()">
+                                        <span data-msg="" data-key="footer.privacy">Privacy Notice</span>
+                                    </a>
+                                </li>
+
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <a ng-click="goToAngular('/candidate/IN/EN/accessibility')" tabindex="0" data-ng-keydown="$event.keyCode === 13 &amp;&amp;
+                                     goToAngular('/candidate/IN/EN/accessibility')" class=""><span data-msg="">Accessibility Statement</span></a>
+                                </li>
+
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a ng-click="openLegalDisclaimerModal()"><span data-msg="" data-key="footer.disclaimer">Disclaimer</span></a>
+                                </li>
+
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a ng-click="cookiePolicyModal()"><span data-msg="" data-key="footer.cookiepolicy">Cookie Policy</span></a>
+                                </li>
+                          
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-11 col-md-offset-2 col-md-12 col-lg-offset-2 col-lg-12">
+                        <div class="footer-sect">
+                            <div class="footer-section-heading">
+                                CONNECT WITH US
+                            </div>
+                            <ul class="row footer-links">
+                                <span class="line-dif1"></span>
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a data-ng-click="goTo('/contact-us')">Contact Us</a></li>
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a data-ng-click="goToLink('https://www.facebook.com/TataConsultancyServices')">Facebook</a>
+                                </li>
+
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a data-ng-click="goToLink('https://twitter.com/TCS')">Twitter</a></li>
+
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a data-ng-click="goToLink('https://www.linkedin.com/company/tata-consultancy-services/')">LinkedIn</a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-11 col-md-offset-2 col-md-12 col-lg-offset-2 col-lg-12">
+                        <div class="footer-sect">
+                            <div class="footer-section-heading">
+                                UPDATE
+                            </div>
+                            <ul class="row footer-links">
+                                <span class="line-dif2"></span>
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a data-ng-click="goTo('/subscribe-promotional-mails')"><span data-msg="" data-key="footer.subscribe">Subscribe to Promotional mails</span></a>
+                                </li>
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a data-ng-click="goTo('/unsubscribe-promotional-mails')"><span data-msg="" data-key="footer.unsubscribe">Unsubscribe from Promotional mails</span></a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-11 col-md-3 col-lg-3">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-offset-4 col-md-8 col-lg-offset-1 col-lg-12">
+                        <div class="footer-sect gap-help">
+                            <div class="footer-section-heading">
+                                Help
+                            </div>
+                            <ul class="row footer-links">
+                                <li class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a data-ng-click="goToAngular('/candidate/IN/EN/faqs')" tabindex="0" data-ng-keydown="$event.keyCode === 13 &amp;&amp; goToAngular('/candidate/IN/EN/faqs')">FAQs</a>
+                                </li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- end ngIf: (selection.countryId=='101') -->
+        <!-- ngIf: !(selection.countryId=='230') --><div class="row ng-scope" data-ng-if="!(selection.countryId=='230')">
+            <!-- ngIf: !(selection.countryId=='101') -->
+        </div><!-- end ngIf: !(selection.countryId=='230') -->
+        <!-- ngIf: selection.countryId=='230' -->
+    </div>
+    <!-- ngIf: (selection.countryId=='101') --><div class="copy-right-row-india ng-scope" data-ng-if="(selection.countryId=='101')">
+        <div class="container-fluid home">
+            <div class="hidden-xs hidden-sm visible-md visible-lg">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 text-left">
+                        © 2010-<span data-ng-bind="currentYear" class="ng-binding">2026</span> Tata Consultancy Services Limited. All
+                        Rights Reserved
+                        <span class="line-margin"></span> <span class="footer-text">A part of TATA Group</span> <span class="line-margin"></span>
+                        <span class="footer-text">Build No : 24.17.2-11-4f28a20</span>
+                    </div>
+
+                </div>
+            </div>
+            <div class="visible-xs visible-sm hidden-md hidden-lg">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        © 2010-<span data-ng-bind="currentYear" class="ng-binding">2026</span> Tata Consultancy Services Limited. All
+                        Rights Reserved.
+                    </div>
+                    <div class="col-xs-12  text-center">
+                        A part of TATA Group.
+                    </div>
+                    <div class="col-xs-12  text-center">Build No : 24.17.2-11-4f28a20</div>
+                </div>
+            </div>
+        </div>
+    </div><!-- end ngIf: (selection.countryId=='101') -->
+    <!-- ngIf: !(selection.countryId=='101') -->
+
+    
+
+</div>
+</div>
+</div>
+<!-- ngInclude: 'resources/app/components/left-sidebar/left-sidebar.html' --><div class="candidate-menu-container visible-xs visible-sm ng-scope ng-hide" data-ng-show="prelogpages()" data-ng-class="{'MenuOnSlide':menuBarMenu}" style="position: fixed; height: 100%; background-color: rgb(41, 54, 73); z-index: 999;" data-ng-include="'resources/app/components/left-sidebar/left-sidebar.html'"><style class="ng-scope">.dashboard-sidebar{left:0px;position:absolute;width:100%;z-index:900;transition:left 0.5s}.dashboard-sidebar .sidebar-heading{background-color:#252e3f;font-size:0.938em;color:#ffffff;width:100%;height:72px;margin-bottom:14px}.dashboard-sidebar .sidebar-heading .stages{height:100%;line-height:72px;padding-left:30px}.dashboard-sidebar .sidebar-heading .hamberger{height:100%;padding-right:12px}.sidebar-menu{background-color:#293649;height:43px;line-height:43px;color:#b9b9b9}.sidebar-menu:hover{background-color:#1ac9ff;color:#ffffff}.sidebar-menu:hover .right-sidebar{background-color:#1ac9ff}.sidebar-menu .icon-holder{margin:0px;width:50px;display:block;padding-top:12px;padding-left:30px;height:100%}.status-icon{position:relative;top:16px;left:18px}.right-sidebar{position:absolute;left:0px;width:4px;height:100%;background-color:#0bbff2}.sidebar-submenu{height:37px;font-size:0.813em;background-color:#293649}.sidebar-submenu:hover{background-color:#304058}.sidebar-submenu:hover .submenu-text{color:#1ac9ff}.submenu-text{color:#869dc0;margin-left:60px;line-height:37px}.color-submenu-hover{color:#1ac9ff}.sidebar-subsubmenu{height:37px !important;font-size:0.813em;color:#869dc0;padding-left:60px !important}.sidebar-subsubmenu:hover{background-color:#364761}.completion-status-icon{padding-right:14px;padding-top:14px}.subsubmenutext{line-height:37px}</style>
+<div class="row custom-row ng-scope">
+	<div class="dashboard-sidebar">
+		<div class="col-xs-12 pad-left-right-0 sidebar-heading">
+			<div class="stages pull-left">STAGES</div>
+			<div class="hamberger pull-right"></div>
+		</div>
+		<!-- ngRepeat: menuitem in candidateInfo.menu -->
+	</div>
+</div>
+</div>
+<!-- ngInclude: 'resources/app/includes/side-bar/side-bar.html' --><div data-ng-include="'resources/app/includes/side-bar/side-bar.html'" class="ng-scope" style=""><style class="ng-scope">.side-bar{position:fixed;height:100%;width:80%;right:-80%;top:68px;overflow-y:scroll;transition:right 0.5s;border:none;box-shadow:0 0 0px #ccc}.side-bar.slide{right:0;background-color:#eee;z-index:2000}.side-bar ul.side-bar-links-nav li{padding-left:25px}.side-bar ul.side-bar-links,.side-bar ul.side-bar-links-nav{list-style:none;margin:0;padding:0}.side-bar ul.side-bar-links li,.side-bar ul.side-bar-links-nav li{height:60px;line-height:60px}.side-bar ul.side-bar-links li a,.side-bar ul.side-bar-links-nav li a{color:#878787;font-size:17px;transition:all 0.5s}.side-bar ul.side-bar-links li a i,.side-bar ul.side-bar-links-nav li a i{margin-right:20px;position:relative;top:2px;margin-left:25px}.side-bar ul.side-bar-links li a .label,.side-bar ul.side-bar-links-nav li a .label{margin-top:20px;margin-right:20px;border-radius:50%;padding:4px 5px;font-size:10px;height:20px;width:20px;line-height:12px;transition:all 0.5s;background-color:#21c925 !important}.side-bar ul.side-bar-links li a .flag,.side-bar ul.side-bar-links-nav li a .flag{margin-right:13px;margin-left:24px;position:relative;top:15px}.side-bar ul.side-bar-links li a .side-bar-flag,.side-bar ul.side-bar-links-nav li a .side-bar-flag{margin-top:4px}.side-bar ul.side-bar-links li:hover,.side-bar ul.side-bar-links li:active,.side-bar ul.side-bar-links-nav li:hover,.side-bar ul.side-bar-links-nav li:active{background-color:#0bbff2}.side-bar ul.side-bar-links li:hover a,.side-bar ul.side-bar-links li:active a,.side-bar ul.side-bar-links-nav li:hover a,.side-bar ul.side-bar-links-nav li:active a{color:#fff}.side-bar ul.side-bar-links li:hover .label,.side-bar ul.side-bar-links li:active .label,.side-bar ul.side-bar-links-nav li:hover .label,.side-bar ul.side-bar-links-nav li:active .label{background-color:#fff;color:#0bbff2}.location-heading{color:#333;margin-bottom:20px;margin-top:20px}.sidebar-locations{margin-bottom:20px}.sidebar-locations .continent-name{text-align:center;background-color:#0bbff2;padding:10px;color:#fff;margin-bottom:10px}.sidebar-locations .country{padding:5px 15px;border-bottom:1px solid #ddd;line-height:34px;cursor:pointer}.sidebar-locations .country.active{color:#0bbff2;font-weight:600}.sidebar-locations .menu-flag{margin-top:8px}.mobile-bar-user-icon{font-size:24px;color:#878787;border-radius:50%;margin-top:5px;height:42px;width:42px}.mobile-bar-no-upload-user-icon{margin-top:10px;height:35px;width:35px}.mobile-bar-name-section{height:150px;margin:10px 12px;border-bottom:1px solid #ccc}.mobile-bar-name-section .mobile-user-name{color:#293649;padding-top:4px;font-size:1.063em;font-weight:normal}.mobile-bar-name-section .mobile-last-login{color:#919191;font-size:0.688em;font-weight:normal}.mobile-bar-name-section .mobile-last-login .mobile-last-login-text{padding-left:2px}.mobile-bar-name-section .mobile-options-section{font-size:11px;padding-left:24%;padding-top:5px;height:40px;color:#249dea}.mobile-bar-name-section .mobile-options-section .options-icon{margin-right:10px;margin-bottom:7px}.mobile-bar-status-section{min-height:150px;margin:10px 12px;border-bottom:1px solid #ccc}.mobile-bar-status-section .mobile-status-heading{font-size:0.813em;color:#919191;padding-top:7px}.mobile-bar-status-section .mobile-current-text{font-size:1.000em;color:#293649}.mobile-bar-status-section .mobile-next-text{font-size:1.000em;color:#293649}.mobile-bar-status-section .mobile-recommendation{font-size:10px;padding-left:5px;line-height:21px}.mobile-menu-border-bottom{margin:0px 20px;border-bottom:1px solid #ccc}.mobile-tri-options{color:#293649}.mobile-tri-options:hover,.mobile-tri-options:active{color:#fff}</style>
+<div class="side-bar ng-scope" data-ng-class="{'slide' : sideBarOpen}">
+	
+	<div data-ng-hide="alreadyLoggedIn" class="">
+	
+		<ul class="side-bar-links">
+		
+	          <li data-ng-click="goTo('login')" tabindex="-1">
+	          	<a role="button" data-cviance-inspect="node-1778579357824-tm7mwybxbvo"><i class="glyphicon glyphicon-user"></i><span data-msg="" data-key="prereg.log.reg">Login / Register with Us</span></a>          	
+	          </li>         
+	         
+	          
+	          <li data-ng-click="goTo('/jobs/search')" tabindex="-1">
+	          	<a role="button" data-cviance-inspect="node-1778579357824-dvm4htv3nke"><i class="glyphicon glyphicon-briefcase"></i><span data-msg="" data-key="prereg.job.oppo">Job Opportunities</span></a>
+	          </li>
+	          
+	          <li data-ng-click="openSavedJobsMobileTray()" tabindex="-1">
+	          	<a role="button" tabindex="-1" data-cviance-inspect="node-1778579357824-rv250iv53im"><i class="glyphicon glyphicon-floppy-disk"></i><span data-msg="" data-key="prereg.my.saved">My Saved Jobs</span> <span class="label label-primary pull-right ng-binding" data-ng-bind="savedJobsCount">0</span></a>
+	          </li>
+	          
+	          <div class="mobile-menu-border-bottom"></div>
+	          
+	          <li data-ng-click="goTo( 'location' )" tabindex="-1" style="line-height: 3;">
+	              <a href="#" tabindex="-1" data-cviance-inspect="node-1778579357824-gh8jjh8gvv9">
+	                  <div class="flag flag-101 side-bar-flag"></div>
+				      <div data-ng-bind="selection.language" style="padding-top: 2px;" class="ng-binding">EN</div>
+	              </a>
+	          </li>
+	          
+	      </ul>
+	      
+	      <ul class="side-bar-links-nav">
+	      		<li>
+	      			<a data-ng-click="toggleSideBar(); goToLink('https://www.tcs.com/careers')" tabindex="-1" target="_blank">TCS Careers</a>
+	      		</li>     		
+	      		
+	      </ul>
+      
+      </div>
+      
+      <div data-ng-show="alreadyLoggedIn" class="ng-hide">
+      	<div class="mobile-bar-name-section">
+	      	<div class="row">
+	      	      		
+					<div class="col-xs-2">
+						<!-- ngIf: selection.countryId=='101' --><img class="mobile-bar-user-icon hand ng-scope" data-ng-click="uploadProfilePhoto()" data-ng-src="resources/images/login-header/dashboard-profile-icon.png" data-ng-if="selection.countryId=='101'" src="resources/images/login-header/dashboard-profile-icon.png"><!-- end ngIf: selection.countryId=='101' -->
+						<!-- ngIf: selection.countryId!='101' -->
+					</div>	
+					<div class="col-xs-10 padding-left-30">			
+						<div class="row mobile-user-name overflow-wrap ng-binding" title="" data-ng-bind="userName"></div>
+						<!-- ngIf: epRefNumber.length>0 -->
+						<div class="row mobile-last-login">
+							<span data-msg="" data-key="prereg.last.log">Last Login:</span>
+							<span class="mobile-last-login-text ng-binding" data-ng-bind="lastLogin"></span>
+							<!-- ngIf: timeZone.length>0 -->
+						</div>			
+					</div>
+	      	</div>      	
+	      	
+	      	<div class="row mobile-options-section">
+	      
+	     		<!-- <div class="col-xs-6 hand padding-zero" data-ng-click="goTo('change-password')">
+	          		<img class="options-icon" src="resources\images-postlog\login-header\password-icon.png"/><span style="font-size:12px;" data-msg data-key="prereg.change.pwd"></span>
+	          	</div>  -->  
+	          	<div class="col-xs-12 hand" data-ng-click="doLogout();toggleSideBar();">
+	          		<img class="options-icon" src="resources\images-postlog\login-header\logout-icon.png"><span style="font-size:12px;" data-msg="" data-key="prereg.logout">Logout</span>
+	          	</div>  
+		          	
+		    </div>
+	    
+	    </div>
+	    
+	    <!-- ngIf: isGrs() --><div class="mobile-bar-status-section ng-scope" data-ng-if="isGrs()">
+	    
+		    <div class="row">
+	      
+	     		<div class="col-xs-3">
+	          		<circular-progressbar percentage="profileDetails.completionPercent" radius="25" class="ng-isolate-scope"><div style="position:relative; padding-top:1px; height:100%;"><div class="percent percentage-block ng-binding" ng-bind="printPercentage()">0%</div><canvas id="myCanvas" class="percent" width="58px" height="58px"></canvas></div></circular-progressbar></div>
+	          	<div class="percent-label" data-msg="" data-key="dashboard.profileCompletionPercentage">Profile Completion %</div>
+				
+	          	<!-- ngIf: isTrackStatusApplicable() --><div class="col-xs-9 padding-left-30 ng-scope" data-ng-if="isTrackStatusApplicable()">
+	          		<div class="row mobile-status-heading ng-hide" data-ng-show="currentStatusStep.length&gt;0"><span data-msg="" data-key="prereg.curr.stat">CURRRENT STATUS</span></div>
+					<div class="row mobile-current-text ng-binding ng-hide" title="" data-ng-bind="currentStatusStep" data-ng-show="currentStatusStep.length&gt;0"></div>
+					
+					<div class="row mobile-status-heading" data-ng-show="!currentStatusStep.length&gt;0"><span data-msg="" data-key="prereg.cont.num">CONTACT NUMBER</span></div>
+					<div class="row mobile-current-text ng-binding" title="" data-ng-bind="candMobileNo" data-ng-show="!currentStatusStep.length&gt;0"></div>
+					
+					<div class="row mobile-status-heading ng-hide" data-ng-show="nextStatusStep.length&gt;0"><span data-msg="" data-key="prereg.next">NEXT</span></div>
+					<div class="row mobile-status-heading" data-ng-show="!nextStatusStep.length&gt;0"><span data-msg="" data-key="prereg.mail">EMAIL ADDRESS</span></div>
+							<div class="row mobile-next-text ng-hide" data-ng-show="nextStatusStep.length&gt;0">
+								<div class="float-left ng-binding" title="" data-ng-bind="nextStatusStep"></div>
+							</div>
+							<div class="row mobile-next-text" data-ng-show="!nextStatusStep.length&gt;0">
+								<div class="float-left ng-binding" title="" data-ng-bind="candEmailAddress"></div>								
+							</div>
+	          	</div><!-- end ngIf: isTrackStatusApplicable() -->
+	          	<!-- ngIf: !isTrackStatusApplicable() -->  
+		          	
+		    </div>
+		</div><!-- end ngIf: isGrs() -->
+		
+		<ul class="side-bar-links">
+				       
+	          
+	          <li data-ng-click="goTo('/jobs/search')" tabindex="-1">
+	          	<a role="button" tabindex="-1"><i class="glyphicon glyphicon-briefcase"></i><span data-msg="" data-key="prereg.job.oppo">Job Opportunities</span></a>
+	          </li>
+	          
+	          <li data-ng-click="openSavedJobsMobileTray()" tabindex="-1">
+	          	<a role="button" tabindex="-1"><i class="glyphicon glyphicon-floppy-disk"></i><span data-msg="" data-key="prereg.my.saved">My Saved Jobs</span> <span class="label pull-right ng-binding" data-ng-bind="savedJobsCount">0</span></a>
+	          </li>
+	          
+	          <div class="mobile-menu-border-bottom"></div>
+	          
+	          <!-- ngIf: isGrs() --><li data-ng-click="goTo('/dashboard/jobs/applications')" tabindex="-1" data-ng-if="isGrs()" class="ng-scope">
+	          	<a role="button" tabindex="-1"><i class="glyphicon glyphicon-list-alt"></i><span class="mobile-tri-options" data-msg="" data-key="prereg.job.app">Job Applications</span><span class="label pull-right ng-binding" data-ng-bind="jobApplicationsCount"></span></a>
+	          </li><!-- end ngIf: isGrs() -->
+	          
+	          <!-- ngIf: isGrs() --><li data-ng-click="goTo('/dashboard/jobs/alert')" tabindex="-1" data-ng-if="isGrs()" class="ng-scope">
+	          	<a role="button" tabindex="-1"><i class="glyphicon glyphicon-bell"></i><span class="mobile-tri-options" data-msg="" data-key="prereg.job.alert">Job Alerts</span><span class="label pull-right ng-binding" data-ng-bind="jobAlertsCount"></span></a>
+	          </li><!-- end ngIf: isGrs() -->
+	          
+	          <!-- ngIf: noexpus() && isGrs() --><li data-ng-if="noexpus() &amp;&amp; isGrs()" data-ng-click="goTo('/dashboard/quiz/taken')" tabindex="-1" class="ng-scope">
+	          	<a role="button" tabindex="-1"><i class="glyphicon glyphicon-question-sign"></i><span class="mobile-tri-options" data-msg="" data-key="prereg.quiz.tak">Quiz Taken</span><span class="label pull-right ng-binding" data-ng-bind="quizCount"></span></a>
+	          </li><!-- end ngIf: noexpus() && isGrs() -->
+	          
+	           <div class="mobile-menu-border-bottom"></div>
+	          
+	          <li data-ng-click="goTo( 'location' )" tabindex="-1">
+	              <a href="#" tabindex="-1">
+	                  <span class="flag flag-101 side-bar-flag"></span>
+				      <span data-ng-bind="selection.language" class="ng-binding">EN</span>
+	              </a>
+	          </li>
+	          
+	      </ul>
+	       <div class="mobile-menu-border-bottom"></div>
+	      <ul class="side-bar-links-nav">
+	      		<li>
+	      			<a data-ng-click="toggleSideBar(); goToLink('https://www.tcs.com/careers')" tabindex="-1" target="_blank">TCS Careers</a>
+	      		</li>     		
+	      		
+	      </ul>
+      
+      </div>
+      
+</div>
+</div>
+
+<div id="snackbar" class="snackbar-error">
+    <div class="float-left" style="padding-left:10px;"><img src="resources/images/job/toast-icon-jobs.png"></div>
+    <div data-ng-bind="snackBarMessage" class="ng-binding"></div>
+</div>
+
+<!-- ngIf: chatBotFlag === 'Y' --><div data-ng-if="chatBotFlag === 'Y'" data-ng-controller="ChatBotController" class="ng-scope" style="">
+    <div data-ng-init="init()">
+        <!-- ngInclude: 'resources/app/includes/modals/chatbot/chatbot.html' --><div data-ng-include="'resources/app/includes/modals/chatbot/chatbot.html'" class="ng-scope" style=""><style class="ng-scope">.main-menu-link{margin-top:10px;display:block}.chat-minimized{position:fixed;bottom:16px;right:16px;height:34px;z-index:9999;cursor:pointer;box-shadow:0px 3px 6px #00000040;border-radius:18px 3px 3px 18px;transition:bottom 1s, right 1s}.chat-minimized:hover .rexa-icon-head{transform:scale(1.1)}@media (max-width: 767px){.chat-minimized{bottom:40px;right:25px}}.chat-minimized .ask-container{background:white;color:#009ECC;z-index:-1;display:inline-block;float:left;position:relative;height:34px;font-size:14px;border-radius:18px 6px 6px 18px;transition:width 0.5s;width:94px}.chat-minimized .ask-container.animation-started{width:131px}.chat-minimized .ask-container .ask-content{position:absolute;font-size:16px;z-index:998;top:6px;left:8px}.chat-minimized .ask-container:hover .rexa-head-for-hover{transform:scale(1.1)}.chat-minimized .chatbot-logo{float:right;display:inline-block;position:relative;z-index:999}.chat-minimized .chatbot-logo img.rexa-minimizd-icon{width:94px}.first-fold .chat-minimized{bottom:113px;right:75px}@media (max-width: 767px){.first-fold .chat-minimized{right:15px;bottom:94px}}.chatbot-logo>img.rexa-icon-head{width:20px;height:20px;position:relative;top:-3px;left:6px}.rexa-head-for-hover{position:absolute;top:5.2px;left:5.5px;height:24px;transition:transform .2s}.chat-window-maximized{height:475px;width:343px;position:fixed;bottom:16px;right:16px;user-select:none;z-index:9999;background:#FFFFFF 0% 0% no-repeat padding-box;box-shadow:0px 1px 8px 3px #00000026;border-radius:10px 10px 3px 3px}@media (max-width: 767px){.chat-window-maximized{height:calc(100% - 68px );width:100%;right:0px;bottom:0px}}.chat-window-maximized .chat-header{width:100%;height:46px;background:transparent linear-gradient(131deg, #00aeff 0%, #0ebab4 100%) 0% 0% no-repeat padding-box;box-shadow:0px 2px 6px #00000029;border-radius:10px 10px 0px 0px;position:relative;z-index:999}@media (max-width: 767px){.chat-window-maximized .chat-header{height:60px;border-radius:0px}}.chat-window-maximized .chat-header .rexa-icon-container{height:46px;padding:0 12px}@media (max-width: 767px){.chat-window-maximized .chat-header .rexa-icon-container{height:60px}}.chat-window-maximized .chat-header .rexa-icon{height:26px;margin-top:11px}@media (max-width: 767px){.chat-window-maximized .chat-header .rexa-icon{height:34px;margin-top:13px}}.chat-window-maximized .chat-header .rexa-trademark{color:#E9F8FF;font-size:8px;position:relative;top:-10px;left:-6px}@media (max-width: 767px){.chat-window-maximized .chat-header .rexa-trademark{top:-18px}}.chat-window-maximized .chat-header .minimized-icon-container{cursor:pointer;height:46px;width:46px;float:right;border-top-right-radius:10px}@media (max-width: 767px){.chat-window-maximized .chat-header .minimized-icon-container{width:68px;height:60px}}.chat-window-maximized .chat-header .minimized-icon-container:hover{background-color:#1DBCCC}.chat-window-maximized .chat-header .minimized-icon-container .minimized-icon{background:white;display:inline-block;width:15px;height:2px;display:block;margin:0 auto;margin-top:23px;border-radius:4px}@media (max-width: 767px){.chat-window-maximized .chat-header .minimized-icon-container .minimized-icon{margin-top:29px}}@media (max-width: 767px){.messages-container{float:left;width:100%;margin-bottom:60%;overflow:hidden}}.messages-container .chat-message{position:relative;bottom:0;transition:bottom .5s}.messages-container .chat-message.ng-enter-active{bottom:0}.messages-container .chat-message.ng-enter{bottom:-100vh}.messages-container .messages-wrapper{padding:0 7px;height:372px;overflow:auto}@media (max-width: 767px){.messages-container .messages-wrapper{height:calc(100vh - 190px )}}.messages-container .chat-message-rexa:first-child{margin-top:4px}.messages-container .chat-message-rexa>div{float:left}.messages-container .chat-message-rexa .suggestion-btns{float:left;clear:left}.messages-container .chat-message-rexa .chat-message-and-suggestion-container{margin-left:3px;margin-top:21px}.messages-container .chat-message-rexa .chat-message-bubble{background:#FAFAFA 0% 0% no-repeat padding-box;box-shadow:0px 1px 4px #0000000D;border:1px solid #EEEEEE;border-radius:0px 13px 13px 13px;min-width:183px;max-width:208px;float:left;padding:6px 12px;overflow-wrap:break-word}.messages-container .chat-message-rexa .chat-message-bubble+.chat-message-bubble{clear:left}.messages-container .chat-message-rexa .chat-message-bubble.large-border-radius{border-radius:0px 16px 16px 16px}.messages-container .chat-message-rexa .chat-message-bubble.small-border-radius{border-radius:0px 13px 13px 13px}.messages-container .chat-message-rexa .mobileAndCountryContainer{display:flex;flex-direction:row;height:20px;font-size:14px}.messages-container .chat-message-rexa .mobileAndCountryContainer>select{display:inline-block;width:82px;height:20px;border:1px solid #00a8ff;border-radius:5px;margin-right:5px}.messages-container .chat-message-rexa .mobileAndCountryContainer>select:after{content:'>';-webkit-transform:rotate(90deg);-moz-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);color:#00a8ff}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-webkit-scrollbar{width:6px}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-webkit-scrollbar-track{background:#e8e8e8}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-webkit-scrollbar-thumb{border-radius:20px;background:#c0c0c0}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-webkit-scrollbar-thumb:hover{background:#808080}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-ms-scrollbar{width:6px}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-ms-scrollbar-track{background:#e8e8e8}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-ms-scrollbar-thumb{background:#c0c0c0}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-ms-scrollbar-thumb:hover{background:#808080}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-moz-scrollbar{width:6px}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-moz-scrollbar-track{background:#e8e8e8}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-moz-scrollbar-thumb{background:#c0c0c0}.messages-container .chat-message-rexa .mobileAndCountryContainer>select::-moz-scrollbar-thumb:hover{background:#808080}.messages-container .chat-message-rexa .mobileNumber{display:inline-block;width:85px;height:20px;border:1px solid #00a8ff;border-radius:5px;text-align:center}.messages-container .chat-message-rexa .chat-reply{text-align:left;color:#060B11}.messages-container .chat-message-rexa .sender-image{height:42px;width:42px}.messages-container .chat-message-self{margin-top:5px}.messages-container .chat-message-self>div{float:right}.messages-container .chat-message-self .sender-image-container{border-radius:50%}.messages-container .chat-message-self .sender-image-container img.sender-image{height:42px;width:42px;margin-top:0px}.messages-container .chat-message-self .chat-message-and-suggestion-container{margin-top:21px;margin-right:3px}.messages-container .chat-message-self .chat-message-bubble{background:transparent linear-gradient(103deg, #00aeff 0%, #0ebab4 100%) 0% 0% no-repeat padding-box;box-shadow:0px 1px 6px #00000033;border-radius:16px 0px 16px 16px;padding:7px 12px;float:right;max-width:183px}.messages-container .chat-message-self .chat-message-bubble+.chat-message-bubble{clear:both}.messages-container .chat-message-self .chat-message-bubble.middle{margin-bottom:4px}.messages-container .chat-message-self .chat-message-bubble.large-border-radius{border-radius:16px 0px 16px 16px}.messages-container .chat-message-self .chat-message-bubble.small-border-radius{border-radius:13px 0px 13px 13px}.messages-container .chat-message-self .chat-reply{color:#FFFFFF;word-break:break-word}.messages-container .sender-image-container{border-radius:50%}.messages-container .sender-image-container img{margin:0 auto;display:block}.messages-container .chat-message-and-suggestion-container{width:80%;margin-top:12px}.messages-container .chat-message-bubble.first{margin-bottom:7px}.messages-container .chat-message-bubble.last,.messages-container .chat-message-bubble.middle.last{margin-bottom:5px}.messages-container .chat-message-bubble .chat-reply{font-size:14px;letter-spacing:0}.messages-container .leading-question-button{max-width:100%;text-align:left;display:inline-block;background:#FFFFFF 0% 0% no-repeat padding-box;border:1px solid #3BB5F4;border-radius:16px;font-size:13px;margin-bottom:5px;margin-right:5px;padding:4px 16px;outline:none}.messages-container .leading-question-button.block{display:block;width:193px}.messages-container .leading-question-button:last-child{margin-bottom:0}.messages-container .leading-question-button:hover,.messages-container .leading-question-button:focus{background:#87D7FF 0% 0% no-repeat padding-box;color:#090F0B;border:1px solid #00A8FF}.sender-query-container{margin-top:7px;position:relative;padding:0 14px;background:white}@media (max-width: 767px){.sender-query-container{position:absolute;bottom:0px;padding-bottom:15px}}.sender-query-container .ask-query-button{position:absolute;right:24px;fill:#a0a29f;top:1px}.sender-query-container .input-container .query-input{height:38px;padding:10px 20px;padding-right:53px;outline:none;box-shadow:0px 0px 6px #0000001A;border:1px solid #D5D5D5;border-radius:28px;width:315px;display:block;margin:0 auto}@media (max-width: 767px){.sender-query-container .input-container .query-input{width:100%;height:42px}}.sender-query-container .input-container .query-input.focused+.ask-query-button{fill:#91daff}.sender-query-container .input-container .query-input.focused.typed+.ask-query-button{fill:#00a8ff;cursor:pointer}.sender-query-container .input-container .query-input:focus{border:1px solid #00A8FF}.sender-query-container .input-container .query-input::placeholder{transition:color .3s}.sender-query-container .input-container .query-input:-ms-input-placeholder{transition:color .3s}.sender-query-container .input-container .query-input::-ms-input-placeholder{transition:color .3s}.sender-query-container .input-container .query-input:focus::placeholder{color:#D8D8D8;opacity:1}.sender-query-container .input-container .query-input:focus:-ms-input-placeholder{color:#D8D8D8}.sender-query-container .input-container .query-input:focus::-ms-input-placeholder{color:#D8D8D8}.sender-query-container .input-container:hover .query-input{border:1px solid #00A8FF}.messages-wrapper::-webkit-scrollbar{width:6px}.messages-wrapper::-webkit-scrollbar-track{background:#e8e8e8}.messages-wrapper::-webkit-scrollbar-thumb{border-radius:20px;background:#c0c0c0}.messages-wrapper::-webkit-scrollbar-thumb:hover{background:#808080}.messages-wrapper::-ms-scrollbar{width:6px}.messages-wrapper::-ms-scrollbar-track{background:#e8e8e8}.messages-wrapper::-ms-scrollbar-thumb{background:#c0c0c0}.messages-wrapper::-ms-scrollbar-thumb:hover{background:#808080}.messages-wrapper::-moz-scrollbar{width:6px}.messages-wrapper::-moz-scrollbar-track{background:#e8e8e8}.messages-wrapper::-moz-scrollbar-thumb{background:#c0c0c0}.messages-wrapper::-moz-scrollbar-thumb:hover{background:#808080}.gif-zoomOut{position:relative;width:180px;height:101px;cursor:pointer}.chatbot-logo .bot-min-trademark{font-size:7px;position:relative;top:-13px;right:2px;letter-spacing:0;color:#E9F8FF}.vw-90{width:90%;height:90%;width:90vw;height:90vh;top:5%;margin:0 auto}.vw-90 .modal-dialog{width:100% !important}.reply-awaited .chat-message-and-suggestion-container{display:inline}.reply-awaited .chat-message-and-suggestion-container .chat-message-bubble{display:inline;padding-top:2px;padding-left:9px;padding-right:9px;padding-bottom:10px;border-radius:0px 16px 16px 16px;min-width:auto;width:45px}.reply-awaited .chat-message-and-suggestion-container .chat-message-bubble .typing-animation{display:inline}.typing-animation .typing-item{width:4px;height:4px;background:transparent linear-gradient(180deg, #00aefe 0%, #0db9bb 100%) 0% 0% no-repeat padding-box;opacity:0.5;margin-right:2px;display:inline-block;animation-name:typing;animation-duration:1s;animation-iteration-count:infinite;border-radius:50%;position:relative;top:0}.typing-animation .typing-item.second{animation-delay:.2s}.typing-animation .typing-item.third{animation-delay:.4s}@keyframes typing{0%{opacity:0.5;top:0}25%{opacity:1;top:-4px}50%{top:0}100%{opacity:0.5}}@-webkit-keyframes typing{0%{opacity:0.5}25%{opacity:1}100%{opacity:0.5}}@-moz-keyframes typing{0%{opacity:0.5}25%{opacity:1}100%{opacity:0.5}}@-ms-keyframes typing{0%{opacity:0.5}25%{opacity:1}100%{opacity:0.5}}.pdf-url{font-size:14px}.expand-button{background-color:#FAFAFA 0% 0% no-repeat padding-box}.reopenButton{margin-top:10px;margin-bottom:10px}.stars-row{margin-left:5px}.given-stars{width:30px;height:30px;padding:5px}.rest-stars{width:30px;height:30px;padding:5px}.feedback-msg-box{border:2px solid #1592E6;box-sizing:border-box;padding:7px 7px;margin-top:5px;margin-bottom:10px}.feedback-msg{color:#1592E6;width:177px;font-size:14px}.ask-feedback{border:transparent;margin-left:5px}.ask-emp-stars{width:20px;height:20px}.ask-col-stars{width:20px;height:20px}.word-count{color:#1592E6;left:40px;width:92px;font-size:10px;bottom:40px;position:absolute}</style>
+<!-- ngIf: !clicked --><div class="chat-minimized ng-scope" data-ng-if="!clicked" data-ng-click="changeView()" data-ng-init="pullAskContentIfNotDone()">
+	<div class="ask-container animation-started" data-ng-class="{ 'animation-started': askContentPulled }" style="">
+		<span class="ask-content">
+			 Ask
+		</span>
+
+		<div class="chatbot-logo">
+			<img src="resources/images/chatbot/rexa-minimized-icon.png" class="rexa-minimizd-icon">
+			<img src="resources/images/chatbot/rexa_head_2x.png" class="rexa-head-for-hover">
+		</div>
+
+    </div>
+
+</div><!-- end ngIf: !clicked -->
+
+<!-- ngIf: clicked -->
+</div>
+    </div>
+</div><!-- end ngIf: chatBotFlag === 'Y' -->
+
+<div>
+    <!-- ngInclude: 'resources/app/includes/modals/cookie-banner/cookie-banner.html' --><div data-ng-include="'resources/app/includes/modals/cookie-banner/cookie-banner.html'" class="ng-scope" style=""><style class="ng-scope">.cookie-banner{position:fixed;bottom:2px;height:auto;padding:3px 15px;color:#929292;background-color:#fff;width:70%;left:50%;transform:translate(-50%, 0);border-radius:4px;z-index:5;border:1px solid #929292;text-align:center}.cookie-banner .close-cross{position:absolute;opacity:1.0;right:5px;top:5px;height:20px;width:20px}</style>
+<div class="row ng-scope" data-ng-hide="hideCookieBanner || alreadyLoggedIn">
+		<div>
+			<div class="cookie-banner grs-label-text">
+					We use cookies to give you the best possible experience on our website. To find out more, read our updated 
+				<a data-ng-click="cookiePolicyModal()" class="inline-div text-blue hand">
+					<span data-msg="" data-key="footer.cookiepolicy">Cookie Policy</span>
+				</a>
+				<div class="cross-position">
+					<div role="button" class="close close-cross" data-ng-click="hideCookieBanner=true;"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+<script src="resources/external/js/angular/angular.js"></script>
+<script src="resources/external/js/angular/angular-route.js"></script>
+<script src="resources/external/js/angular/angular-animate.js"></script>
+<script src="resources/external/js/angular/angular-touch.js"></script>
+<script src="resources/external/js/angular/angular-sanitize.js"></script>
+<script src="resources/external/js/ui-bootstrap/ui-bootstrap-tpls.js"></script>
+
+<script src="resources/external/js/moment/moment.js"></script>
+
+<script src="resources/external/js/require/require.js" data-main="resources/app/main"></script>
+
+
+<style>.control-label{ display : block } .heading{ margin : 20px 0; font-size : 24px; font-weight : 100; }.custom-select-input{ line-height: 2.75; font-size: 0.875em; height: 37.79px; width: 100%; border-radius: 5px; color: #bbbbbb; position: relative; background-color : #fff; box-shadow: inset 0 1px 1px rgba(0,0,0,.075); padding : 0px 15px; cursor : pointer; }.custom-select-parent{border: 1px solid #dddddd;border-radius : 5px}.custom-select-parent:focus{outline:none}.custom-select-parent.expand{border: 1px solid #0bbff2}.custom-select-input .caret{ position : absolute; top : 42% !important; right : 10px  !important; }.no-outline {outline : none;}.select-disable{ box-shadow:  none;-webkit-box-shadow : none; background-color : #f8f8f8; cursor : not-allowed; color : #999; }ul.dropdown-menu.select{ width : 100%; max-height:150px; overflow-y:scroll; overflow-x:hidden; }ul.dropdown-menu.select li{ cursor : pointer; padding: 3px 3px 5px 10px; line-height: 20px;}ul.dropdown-menu.select li:hover, ul.dropdown-menu.select li.focus{ background-color: #f5f5f5; color : #333 }#file_upload_one{display : none}</style></body></html>

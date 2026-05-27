@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+backend/.env
+
+# Runtime data (not for version control)
+screenshots/
+sessions/
+
+# Downloaded branch folders (separate projects)
+cviance_automation-*/
+
+# Local Claude settings
+.claude/settings.local.json

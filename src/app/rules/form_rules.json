@@ -1,0 +1,43 @@
+{
+  "garbage_collected_v1": true,
+  "platform_migrated_v1": true,
+  "rules": [
+    {
+      "action": "check",
+      "control_kind": "native_checkbox",
+      "created_at": "2026-05-26T09:46:26.351912+00:00",
+      "domain": "pacificlife.wd1.myworkdayjobs.com",
+      "field_type": "checkbox",
+      "label": "I agree",
+      "label_key": "i agree",
+      "last_seen_at": "2026-05-27T06:45:18.658677+00:00",
+      "options": [
+        "I agree*"
+      ],
+      "reason": "field action executed",
+      "scope": "domain",
+      "source": "required_checkbox",
+      "success_count": 3,
+      "value": "true"
+    },
+    {
+      "action": "check",
+      "control_kind": "native_checkbox",
+      "created_at": "2026-05-26T09:46:26.351912+00:00",
+      "domain": "workday",
+      "field_type": "checkbox",
+      "label": "I agree",
+      "label_key": "i agree",
+      "last_seen_at": "2026-05-27T06:45:18.658677+00:00",
+      "options": [
+        "I agree*"
+      ],
+      "reason": "field action executed; reusable workday rule",
+      "scope": "workday",
+      "source": "required_checkbox",
+      "success_count": 3,
+      "value": "true"
+    }
+  ],
+  "version": 1
+}
